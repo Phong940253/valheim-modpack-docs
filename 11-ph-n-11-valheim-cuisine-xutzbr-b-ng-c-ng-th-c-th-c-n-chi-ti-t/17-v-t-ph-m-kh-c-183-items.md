@@ -110,7 +110,7 @@
 | ![VC_Nogginfog.png](../cuisine_data/sprites/VC_Nogginfog.png) | **Nogginfog** | **📖 Guide 2.2.7**<br>1 Booze Base: Nogginfog | — | ✨ StatusEffect: VC_NogginfogEffect; Eitr ngay lập tức: 50.0; Guide 2.2.7: Restores 100 Eitr instantly; Thời gian effect: 0m 01s |
 | ![VC_TrophyFrostLeech.png](../cuisine_data/sprites/VC_TrophyFrostLeech.png) | **Northern Leech** | Không có công thức chế tạo trong config/guide | — | ✨ Guide 2.2.7: Type |
 | ![VC_OvernightBroth.png](../cuisine_data/sprites/VC_OvernightBroth.png) | **Northern Leech Trophy** | Không có công thức chế tạo trong config/guide | — | ✨ — |
-| ![VC_Pottage.png](../cuisine_data/sprites/VC_Pottage.png) | **Nótts Cap** | **📖 Guide 2.2.7**<br>Found inside the Hollowed Tree / chance to drop from greydwarf at night | — | ✨ Guide 2.2.7: SL |
+| ![VC_Pottage.png](../cuisine_data/sprites/VC_Pottage.png) | **Nótts Cap** | **📖 Guide 2.2.7**<br>Found inside the Hollowed Tree / chance to drop from greydwarf at night | — | ✨ — |
 | ![VC_OozedSerpent.png](../cuisine_data/sprites/VC_OozedSerpent.png) | **Oozed Serpent** | **📖 Guide 2.2.7**<br>1 Unbaked Oozed Serpent | — | ✨ — |
 | ![VC_OvernightBroth.png](../cuisine_data/sprites/VC_OvernightBroth.png) | **Overnight Broth** | **📖 Guide 2.2.7**<br>1 Uncooked Overnight Broth | — | ✨ Guide 2.2.7: +15 to Crafting skill for 10m |
 | ![VC_Paltbrod.png](../cuisine_data/sprites/VC_Paltbrod.png) | **Paltbröd** | **📖 Guide 2.2.7**<br>1 Paltbröd Dough | — | ✨ — |
