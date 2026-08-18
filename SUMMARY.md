@@ -47,3 +47,4 @@
   - [🔨 Build Pieces (Công Trình Xây Dựng)](13-phan-13-balrond-shipyard-ben-tau-he-thong-nang-cap-tau/04-build-pieces-cong-trinh-xay-dung.md)
   - [🎣 Bẫy Cá Fishnet & Hệ Thống Câu Cá](13-phan-13-balrond-shipyard-ben-tau-he-thong-nang-cap-tau/05-bay-ca-fishnet-he-thong-cau-ca.md)
   - [🎨 Màu Sail & Tùy Chỉnh Hình Thức](13-phan-13-balrond-shipyard-ben-tau-he-thong-nang-cap-tau/06-mau-sail-tuy-chinh-hinh-thuc.md)
+- [⚔️ PHẦN 14 — Eternal Legends: Pantheon Gods & Divine Equipment](14-phan-14-eternal-legends-pantheon-gods-divine-equipment.md)
