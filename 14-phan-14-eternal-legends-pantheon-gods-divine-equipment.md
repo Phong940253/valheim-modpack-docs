@@ -6,124 +6,155 @@
 
 ### 💎 Nguyên Liệu & Nguồn Drops
 
-#### 💠 Crystal Dualis (Dualis Crystal)
+#### 💠 Crystal Dualis
 
-Nguyên liệu lõi để xây **Trail Forging**. Rơi từ **Yagluth** (100%, 1-1).
+Rơi từ **Yagluth** (100%, 1-1). Dùng xây Trail Forging.
 
 #### 🪲 Scarabs (Mistlands)
 
-Cả Solar Scarab và Abyssal Scarab đều rơi từ mob **Mistlands**. Drop rate khác nhau theo loại mob:
+Cả Solar Scarab và Abyssal Scarab rơi từ mob **Mistlands**:
 
 | Nguyên Liệu | Mob | Tỷ Lệ | Số Lượng |
 | --- | --- | --- | --- |
+| **Solar Scarab** | **Tick** | 10% | 1-1 |
+| **Solar Scarab** | **Seeker** | 15% | 1-1 |
+| **Solar Scarab** | **Seeker Brood** | 10% | 1-1 |
+| **Solar Scarab** | **Seeker Soldier** | 25% | 1-2 |
+| **Solar Scarab** | **Gjall** | 35% | 1-4 |
+| **Solar Scarab** | **The Queen** | 100% | 5-8 |
+| **Abyssal Scarab** | **Tick** | 10% | 1-1 |
+| **Abyssal Scarab** | **Seeker** | 15% | 1-1 |
+| **Abyssal Scarab** | **Seeker Brood** | 10% | 1-1 |
+| **Abyssal Scarab** | **Seeker Soldier** | 25% | 1-2 |
+| **Abyssal Scarab** | **Gjall** | 35% | 1-4 |
+| **Abyssal Scarab** | **The Queen** | 100% | 5-8 |
 
 #### 🪶 Feather of Oblivion (Ashlands)
 
-Rơi từ mob **Ashlands** và boss **Fader**. Drop rate cao nhất từ Fader (100%, 5-8).
+Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 | Mob | Tỷ Lệ | Số Lượng |
 | --- | --- | --- |
+| **Volture** | 5% | 1-2 |
+| **Charred Tick** | 10% | 1-2 |
+| **Charred Twitcher** | 10% | 1-2 |
+| **Charred Warrior** | 10% | 1-2 |
+| **Charred Archer** | 10% | 1-2 |
+| **Charred Mage** | 15% | 1-2 |
+| **Asksvin** | 10% | 1-2 |
+| **Bonemaw Serpent** | 30% | 1-3 |
+| **Morgen** | 25% | 1-2 |
+| **Fallen Valkyrie** | 35% | 1-3 |
+| **Fader** | 100% | 5-8 |
 
 ### ☀️ Horus Set — Falcon God / Sun
 
 *Embrace the radiance of the Falcon God and ascend upon the wings of dawn.*
 
-📦 Crafting Level: **1** tại Celestial Forge
-
 ✨ **Set Bonus (4 pieces):** 🛡️ +6 Armor | 🛡️ Block Stamina: -20%
 
-#### 🧥 Armor (5 pieces)
+📦 Crafting Level: **1** tại Celestial Forge
 
-| Icon | Tên | Armor | Nguyên Liệu | Mô Tả |
-| :---: | --- | --- | --- | --- |
-| ![ArmorHorusHelmet.png](eternal_legends_data/sprites/ArmorHorusHelmet.png) | **Horus Helmet** | 🛡️ 32 +2/lv | — | — |
-| ![ArmorHorusChest.png](eternal_legends_data/sprites/ArmorHorusChest.png) | **Horus Chestguard** | 🛡️ 32 +2/lv | — | — |
-| ![ArmorHorusLegs.png](eternal_legends_data/sprites/ArmorHorusLegs.png) | **Horus Greaves** | 🛡️ 32 +2/lv | — | — |
-| ![ArmorHorusCape.png](eternal_legends_data/sprites/ArmorHorusCape.png) | **Horus Wings** | 🛡️ 4 +1/lv | — | — |
-| ![ArmorHorusBelt.png](eternal_legends_data/sprites/ArmorHorusBelt.png) | **Horus Belt** | 🛡️ 10 +1/lv | — | — |
+#### 🧥 Armor (0 pieces)
 
-🔮 **$item_horus_cape_DO** bonus: 📦 +50 Carry Weight | 🦘 Jump Stamina: -20% | ⬇️ Fall Damage: -100%
+| Icon | Tên | Armor | Nguyên Liệu | Nâng Cấp | Level | Mô Tả |
+| :---: | --- | --- | --- | --- | --- | --- |
 
-🔮 **$item_horus_belt_DO** bonus: 📦 +150 Carry Weight | ❤️ HP Regen: +10%
+🔮 **$item_horus_cape_DO**: 📦 +50 Carry Weight | 🦘 Jump Stamina: -20% | ⬇️ Fall Damage: -100%
 
-#### ⚔️ Vũ Khí (5)
+🔮 **$item_horus_belt_DO**: 📦 +150 Carry Weight | ❤️ HP Regen: +10%
 
-| Icon | Tên | Nguyên Liệu | Sát Thương | Trọng Lượng | Mô Tả |
-| :---: | --- | --- | --- | --- | --- |
-| ![AtgeirEgypt.png](eternal_legends_data/sprites/AtgeirEgypt.png) | **Solar Spear** | — | — 🪡90 👻45 | ⚖️ 2.5 | — |
-| ![SwordKhopeshNew.png](eternal_legends_data/sprites/SwordKhopeshNew.png) | **Khopesh of Dawn** | — | — ⚔️80 👻50 | ⚖️ 0.800000011920929 | — |
-| ![ShieldSickle.png](eternal_legends_data/sprites/ShieldSickle.png) | **Pharaoh's Guardian** | — | — 🟤10 | ⚖️ 5.0 | — |
-| ![DaggerSickle.png](eternal_legends_data/sprites/DaggerSickle.png) | **Pharaoh's Blade** | — | — ⚔️62 🪡22 👻5 | ⚖️ 0.30000001192092896 | — |
-| ![MaceEgypt.png](eternal_legends_data/sprites/MaceEgypt.png) | **Royal Judgment** | — | — 🟤75 👻50 | ⚖️ 2.0 | — |
+#### ⚔️ Vũ Khí (10)
+
+| Icon | Tên | Nguyên Liệu | Nâng Cấp | Sát Thương | Level | Mô Tả |
+| :---: | --- | --- | --- | --- | --- | --- |
+| — | **ArmorHorusHelmetDO** | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | — | Lv.1 | — |
+| — | **ArmorHorusChestDO** | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | — | Lv.1 | — |
+| — | **ArmorHorusLegsDO** | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | — | Lv.1 | — |
+| — | **ArmorHorusCapeDO** | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Feathers ×16 | ScarabHorusDO ×3<br>Eitr ×4 | — | Lv.1 | — |
+| — | **ArmorHorusBeltDO** | ScarabHorusDO ×10<br>Black Core ×1<br>Eitr ×12<br>Seeker Trophy ×2 | — | — | Lv.1 | — |
+| — | **AtgeirHorusDO** | ScarabHorusDO ×6<br>Black Metal ×18<br>Yggdrasil Wood ×16 | ScarabHorusDO ×3<br>Yggdrasil Wood ×8 | — | Lv.1 | — |
+| — | **SwordHorusDO** | ScarabHorusDO ×6<br>Black Metal ×24<br>Linen Thread ×8 | ScarabHorusDO ×3<br>Black Metal ×12 | — | Lv.1 | — |
+| — | **ShieldDaggerHorusDO** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
+| — | **DaggerHorusDO** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
+| — | **MaceHorusDO** | ScarabHorusDO ×6<br>Black Metal ×26<br>Linen Thread ×6 | ScarabHorusDO ×3<br>Black Metal ×13 | — | Lv.1 | — |
 
 ### 🐺 Anubis Set — Jackal God / Death
 
 *Embrace the might of the Jackal God and walk the path between life and death.*
 
-📦 Crafting Level: **1** tại Celestial Forge
-
 ✨ **Set Bonus (4 pieces):** ⚔️ Attack Stamina: -10%
 
-#### 🧥 Armor (5 pieces)
+📦 Crafting Level: **1** tại Celestial Forge
 
-| Icon | Tên | Armor | Nguyên Liệu | Mô Tả |
-| :---: | --- | --- | --- | --- |
-| ![ArmorAnubisHelmet.png](eternal_legends_data/sprites/ArmorAnubisHelmet.png) | **Anubis Helm** | 🛡️ 32 +2/lv | — | — |
-| ![ArmorAnubisChest.png](eternal_legends_data/sprites/ArmorAnubisChest.png) | **Anubis Chestguard** | 🛡️ 32 +2/lv | — | — |
-| ![ArmorAnubisLegs.png](eternal_legends_data/sprites/ArmorAnubisLegs.png) | **Anubis Greaves** | 🛡️ 32 +2/lv | — | — |
-| ![ArmorAnubisCape.png](eternal_legends_data/sprites/ArmorAnubisCape.png) | **Anubis Mantle** | 🛡️ 2 +1/lv | — | — |
-| ![ArmorAnubisBelt.png](eternal_legends_data/sprites/ArmorAnubisBelt.png) | **Anubis Ring** | 🛡️ 10 +1/lv | — | — |
+#### 🧥 Armor (0 pieces)
 
-🔮 **$item_anubis_cape_DO** bonus: 🏃 Speed: +7% | ❤️ +1 HP / 0s | 🌬️ Wind Movement: +25% | 🌬️ Wind Run Stamina: immune | 🏃 Run Stamina: -10%
+| Icon | Tên | Armor | Nguyên Liệu | Nâng Cấp | Level | Mô Tả |
+| :---: | --- | --- | --- | --- | --- | --- |
 
-🔮 **$item_anubis_belt_DO** bonus: 📦 +150 Carry Weight | ⚡ Stamina Regen: +10%
+🔮 **$item_anubis_cape_DO**: 🏃 Speed: +7% | ❤️ +1 HP / 0s | 🌬️ Wind Movement: +25% | 🌬️ Wind Run Stamina: immune | 🏃 Run Stamina: -10%
 
-#### ⚔️ Vũ Khí (5)
+🔮 **$item_anubis_belt_DO**: 📦 +150 Carry Weight | ⚡ Stamina Regen: +10%
 
-| Icon | Tên | Nguyên Liệu | Sát Thương | Trọng Lượng | Mô Tả |
-| :---: | --- | --- | --- | --- | --- |
-| ![DaggerEgyptAnubis.png](eternal_legends_data/sprites/DaggerEgyptAnubis.png) | **Anubis Fang** | — | — ⚔️42 🪡42 | ⚖️ 0.30000001192092896 | — |
-| ![AxeDualEgypt.png](eternal_legends_data/sprites/AxeDualEgypt.png) | **Twilight Blades** | — | — ⚔️110 💥80 | ⚖️ 2.0 | — |
-| ![BattleAxeEgyptAnubis.png](eternal_legends_data/sprites/BattleAxeEgyptAnubis.png) | **Circle of Judgment** | — | — ⚔️140 💥60 | ⚖️ 2.5 | — |
-| ![FistClawEgyptAnubis.png](eternal_legends_data/sprites/FistClawEgyptAnubis.png) | **Soulreaper Claws** | — | — ⚔️118 | ⚖️ 2.0 | — |
-| ![BastardAnubis.png](eternal_legends_data/sprites/BastardAnubis.png) | **Crimson Pact** | — | — ⚔️160 | ⚖️ 4.0 | — |
+#### ⚔️ Vũ Khí (10)
+
+| Icon | Tên | Nguyên Liệu | Nâng Cấp | Sát Thương | Level | Mô Tả |
+| :---: | --- | --- | --- | --- | --- | --- |
+| — | **ArmorAnubisHelmetDO** | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | — | Lv.1 | — |
+| — | **ArmorAnubisChestDO** | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | — | Lv.1 | — |
+| — | **ArmorAnubisLegsDO** | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | — | Lv.1 | — |
+| — | **ArmorAnubisCapeDO** | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Giant Blood Sack ×16 | ScarabAnubisDO ×3<br>Eitr ×4 | — | Lv.1 | — |
+| — | **ArmorAnubisBeltDO** | ScarabAnubisDO ×10<br>Black Core ×1<br>Eitr ×12<br>Gjall Trophy ×1 | — | — | Lv.1 | — |
+| — | **DaggerAnubisDO** | ScarabAnubisDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabAnubisDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
+| — | **DaggerDualAnubisDO** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
+| — | **BattleAxeAnubisDO** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
+| — | **FistClawAnubisDO** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
+| — | **BastardAnubisDO** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
 
 ### 💀 Thanatos Set — Deathbringer
 
 *Embrace the stillness of the Deathbringer and tread the path where all journeys end.*
 
-📦 Crafting Level: **2** tại Celestial Forge
-
 ✨ **Set Bonus (4 pieces):** ❤️ HP Regen: +15% | ⚔️ Attack Stamina: -15%
 
-#### 🧥 Armor (4 pieces)
+📦 Crafting Level: **2** tại Celestial Forge
 
-| Icon | Tên | Armor | Nguyên Liệu | Mô Tả |
-| :---: | --- | --- | --- | --- |
-| ![ThanatosHelmetDO.png](eternal_legends_data/sprites/ThanatosHelmetDO.png) | **Thanatos Helm** | 🛡️ 43 +2/lv | — | — |
-| ![ThanatosChestDO.png](eternal_legends_data/sprites/ThanatosChestDO.png) | **Thanatos Chestguard** | 🛡️ 43 +2/lv | — | — |
-| ![ThanatosLegsDO.png](eternal_legends_data/sprites/ThanatosLegsDO.png) | **Thanatos Greaves** | 🛡️ 43 +2/lv | — | — |
-| ![ThanatosCapeDO.png](eternal_legends_data/sprites/ThanatosCapeDO.png) | **Thanatos Wings** | 🛡️ 4 +1/lv | — | — |
+#### 🧥 Armor (0 pieces)
 
-🔮 **$item_thanatos_cape_DO** bonus: ⚡ Stamina Regen: +10% | ⬇️ Fall Damage: -100% | ❤️ +2 HP / 0s
+| Icon | Tên | Armor | Nguyên Liệu | Nâng Cấp | Level | Mô Tả |
+| :---: | --- | --- | --- | --- | --- | --- |
 
-💀 **Thanatos Slow Debuff** (on enemies): 🏃 Speed: -35% | ⏱️ Duration: 5s
+🔮 **$item_thanatos_cape_DO**: ⚡ Stamina Regen: +10% | ⬇️ Fall Damage: -100% | ❤️ +2 HP / 0s
 
-#### ⚔️ Vũ Khí (4)
+💀 **Debuff on enemies:** 🏃 Speed: -35% | ⏱️ 5s
 
-| Icon | Tên | Nguyên Liệu | Sát Thương | Trọng Lượng | Mô Tả |
-| :---: | --- | --- | --- | --- | --- |
-| ![ScytheThanatos.png](eternal_legends_data/sprites/ScytheThanatos.png) | **Final Testament** | — | — ⚔️150 🪡20 | ⚖️ 4.0 | — |
-| ![MaceThanatos.png](eternal_legends_data/sprites/MaceThanatos.png) | **Three-Faced Hammer** | — | — 🟤150 | ⚖️ 2.0 | — |
-| ![ShieldThanatos.png](eternal_legends_data/sprites/ShieldThanatos.png) | **Aegis of Faces** | — | — 🟤10 | ⚖️ 5.0 | — |
-| ![BastardThanatos.png](eternal_legends_data/sprites/BastardThanatos.png) | **Twilight Oath** | — | — 🟤15 ⚔️175 | ⚖️ 3.0 | — |
+#### ⚔️ Vũ Khí (8)
+
+| Icon | Tên | Nguyên Liệu | Nâng Cấp | Sát Thương | Level | Mô Tả |
+| :---: | --- | --- | --- | --- | --- | --- |
+| — | **ArmorThanatosHelmetDO** | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | — | Lv.2 | — |
+| — | **ArmorThanatosChestDO** | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | — | Lv.2 | — |
+| — | **ArmorThanatosLegsDO** | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | — | Lv.2 | — |
+| — | **ArmorThanatosCapeDO** | Flametal ×12<br>FeatherThanatosDO ×10<br>Eitr ×12<br>Volture Trophy ×2 | FeatherThanatosDO ×5<br>Eitr ×6 | — | Lv.2 | — |
+| — | **ScytheThanatosDO** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
+| — | **MaceThanatosDO** | FeatherThanatosDO ×6<br>Flametal ×16<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×8 | — | Lv.2 | — |
+| — | **ShieldThanatosDO** | FeatherThanatosDO ×6<br>Flametal ×14<br>Blackwood ×8 | FeatherThanatosDO ×3<br>Flametal ×7 | — | Lv.2 | — |
+| — | **BastardThanatosDO** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
+
+### 📊 Tổng Nguyên Liệu Cần Thiết (craft all)
+
+☀️ **Horus:** Black Core ×1; Black Metal ×129; Carapace ×64; Eitr ×60; Feathers ×16; Linen Thread ×22; Scale Hide ×12; ScarabHorusDO ×85; Seeker Trophy ×2; Yggdrasil Wood ×24
+
+🐺 **Anubis:** Black Core ×1; Black Metal ×168; Carapace ×64; Eitr ×60; Giant Blood Sack ×16; Linen Thread ×36; Scale Hide ×12; ScarabAnubisDO ×88; Gjall Trophy ×1
+
+💀 **Thanatos:** Ask Hide ×60; Blackwood ×8; Eitr ×48; FeatherThanatosDO ×87; Flametal ×240; Volture Trophy ×2
 
 ### 🔨 Trail Forging & Extensions
 
 | Icon | Tên | Trạm | Nguyên Liệu |
 | :---: | --- | --- | --- |
-| ![CelestialForgeDO.png](eternal_legends_data/sprites/CelestialForgeDO.png) | **Celestial Forge** | ⚒️ Forge | CrystalDualisDO ×1<br>Bronze ×20<br>Black Marble ×20<br>Eitr ×6 |
-| ![CelestialForgeExt1DO.png](eternal_legends_data/sprites/CelestialForgeExt1DO.png) | **Forge Extension 1** | — | Black Core ×1<br>Black Metal ×30<br>Black Marble ×20<br>Bronze ×6 |
-| ![CelestialForgeExt2DO.png](eternal_legends_data/sprites/CelestialForgeExt2DO.png) | **Forge Extension 2** | — | Red Gemstone ×1<br>Grausten ×40<br>Sulfur Stone ×6<br>Morgen Trophy ×1 |
-| ![CelestialForgeExt3DO.png](eternal_legends_data/sprites/CelestialForgeExt3DO.png) | **Forge Extension 3** | — | Green Gemstone ×1<br>Flametal ×10<br>Morgen Sinew ×2<br>CelestialFeather ×2 |
-| ![CelestialForgeExt4DO.png](eternal_legends_data/sprites/CelestialForgeExt4DO.png) | **Forge Extension 4** | — | Blue Gemstone ×1<br>Flametal ×14<br>Charcoal Resin ×8<br>Molten Core ×4 |
+| ![CelestialForgeDO.png](eternal_legends_data/sprites/CelestialForgeDO.png) | **Trail Forging** | ⚒️ Forge | CrystalDualisDO ×1<br>Bronze ×20<br>Black Marble ×20<br>Eitr ×6 |
+| ![CelestialForgeExt1DO.png](eternal_legends_data/sprites/CelestialForgeExt1DO.png) | **Extension 1** | — | Black Core ×1<br>Black Metal ×30<br>Black Marble ×20<br>Bronze ×6 |
+| ![CelestialForgeExt2DO.png](eternal_legends_data/sprites/CelestialForgeExt2DO.png) | **Extension 2** | — | Red Gemstone ×1<br>Grausten ×40<br>Sulfur Stone ×6<br>Morgen Trophy ×1 |
+| ![CelestialForgeExt3DO.png](eternal_legends_data/sprites/CelestialForgeExt3DO.png) | **Extension 3** | — | Green Gemstone ×1<br>Flametal ×10<br>Morgen Sinew ×2<br>CelestialFeather ×2 |
+| ![CelestialForgeExt4DO.png](eternal_legends_data/sprites/CelestialForgeExt4DO.png) | **Extension 4** | — | Blue Gemstone ×1<br>Flametal ×14<br>Charcoal Resin ×8<br>Molten Core ×4 |
