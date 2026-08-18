@@ -59,11 +59,11 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 | Icon | Tên | Armor | Nguyên Liệu | Nâng Cấp | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
-| — | **Horus Helmet** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
-| — | **Horus Chestguard** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
-| — | **Horus Greaves** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
-| — | **Horus Wings** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Feathers ×16 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
-| — | **Horus Belt** | — | ScarabHorusDO ×10<br>Black Core ×1<br>Eitr ×12<br>Seeker Trophy ×2 | — | Lv.1 | — |
+| ![ArmorHorusHelmet.png](eternal_legends_data/sprites/ArmorHorusHelmet.png) | **Horus Helmet** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
+| ![ArmorHorusChest.png](eternal_legends_data/sprites/ArmorHorusChest.png) | **Horus Chestguard** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
+| ![ArmorHorusLegs.png](eternal_legends_data/sprites/ArmorHorusLegs.png) | **Horus Greaves** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
+| ![ArmorHorusCape.png](eternal_legends_data/sprites/ArmorHorusCape.png) | **Horus Wings** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Feathers ×16 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
+| ![ArmorHorusBelt.png](eternal_legends_data/sprites/ArmorHorusBelt.png) | **Horus Belt** | — | ScarabHorusDO ×10<br>Black Core ×1<br>Eitr ×12<br>Seeker Trophy ×2 | — | Lv.1 | — |
 
 🔮 **$item_horus_cape_DO**: 📦 +50 Carry Weight | 🦘 Jump Stamina: -20% | ⬇️ Fall Damage: -100%
 
@@ -91,11 +91,11 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 | Icon | Tên | Armor | Nguyên Liệu | Nâng Cấp | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
-| — | **Anubis Helm** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
-| — | **Anubis Chestguard** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
-| — | **Anubis Greaves** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
-| — | **Anubis Mantle** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Giant Blood Sack ×16 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
-| — | **Anubis Ring** | — | ScarabAnubisDO ×10<br>Black Core ×1<br>Eitr ×12<br>Gjall Trophy ×1 | — | Lv.1 | — |
+| ![ArmorAnubisHelmet.png](eternal_legends_data/sprites/ArmorAnubisHelmet.png) | **Anubis Helm** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
+| ![ArmorAnubisChest.png](eternal_legends_data/sprites/ArmorAnubisChest.png) | **Anubis Chestguard** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
+| ![ArmorAnubisLegs.png](eternal_legends_data/sprites/ArmorAnubisLegs.png) | **Anubis Greaves** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
+| ![ArmorAnubisCape.png](eternal_legends_data/sprites/ArmorAnubisCape.png) | **Anubis Mantle** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Giant Blood Sack ×16 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
+| ![ArmorAnubisBelt.png](eternal_legends_data/sprites/ArmorAnubisBelt.png) | **Anubis Ring** | — | ScarabAnubisDO ×10<br>Black Core ×1<br>Eitr ×12<br>Gjall Trophy ×1 | — | Lv.1 | — |
 
 🔮 **$item_anubis_cape_DO**: 🏃 Speed: +7% | ❤️ +1 HP / 0s | 🌬️ Wind Movement: +25% | 🌬️ Wind Run Stamina: immune | 🏃 Run Stamina: -10%
 
@@ -109,7 +109,7 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 | — | **Twilight Blades** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
 | — | **Circle of Judgment** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
 | — | **Soulreaper Claws** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
-| — | **Crimson Pact** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
+| ![BastardAnubis.png](eternal_legends_data/sprites/BastardAnubis.png) | **Crimson Pact** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
 
 ### 💀 Thanatos Set — Deathbringer
 
@@ -136,10 +136,10 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 | Icon | Tên | Nguyên Liệu | Nâng Cấp | Sát Thương | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
-| — | **Final Testament** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
-| — | **Three-Faced Hammer** | FeatherThanatosDO ×6<br>Flametal ×16<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×8 | — | Lv.2 | — |
-| — | **Aegis of Faces** | FeatherThanatosDO ×6<br>Flametal ×14<br>Blackwood ×8 | FeatherThanatosDO ×3<br>Flametal ×7 | — | Lv.2 | — |
-| — | **Twilight Oath** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
+| ![ScytheThanatos.png](eternal_legends_data/sprites/ScytheThanatos.png) | **Final Testament** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
+| ![MaceThanatos.png](eternal_legends_data/sprites/MaceThanatos.png) | **Three-Faced Hammer** | FeatherThanatosDO ×6<br>Flametal ×16<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×8 | — | Lv.2 | — |
+| ![ShieldThanatos.png](eternal_legends_data/sprites/ShieldThanatos.png) | **Aegis of Faces** | FeatherThanatosDO ×6<br>Flametal ×14<br>Blackwood ×8 | FeatherThanatosDO ×3<br>Flametal ×7 | — | Lv.2 | — |
+| ![BastardThanatos.png](eternal_legends_data/sprites/BastardThanatos.png) | **Twilight Oath** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
 
 ### 📊 Tổng Nguyên Liệu Cần Thiết (craft all)
 
