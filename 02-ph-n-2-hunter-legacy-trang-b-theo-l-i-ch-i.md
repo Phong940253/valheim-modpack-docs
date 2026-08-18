@@ -7,7 +7,7 @@ Hướng dẫn đầy đủ cho mod **Hunter Legacy** (Dreanegade, v1.0.8): 12 b
 **Hunter's Table** là bàn chính — tối đa **cấp 6** nhờ 5 mảnh mở rộng (mỗi mảnh +1 cấp). **Munitions Bench** là bàn phụ chế tạo đạn dược (không có mở rộng).
 
 | Icon | Tên | Craft Cost | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![MarksmanTable.png](Hunter_Legacy_Icons/MarksmanTable.png) | **Hunter's Table** (HunterTableDO) — Bàn chế tạo | Bronze x10 • Core Wood x30 • Bronze Nails x40 • Resin x15 |  |
 | ![MunitionsBench.png](Hunter_Legacy_Icons/MunitionsBench.png) | **Munitions Bench** (MunitionsBenchDO) — Bàn chế tạo phụ | Bronze x10 • Core Wood x20 • Bronze Nails x20 • Wood x20 |  |
 | ![MarksmanTableExt1.png](Hunter_Legacy_Icons/MarksmanTableExt1.png) | **Aiming Target** (HunterTableExt1DO) — Mảnh mở rộng | Wood x15 • Iron x3 • Resined Leather x6 |  |
@@ -21,7 +21,7 @@ Hướng dẫn đầy đủ cho mod **Hunter Legacy** (Dreanegade, v1.0.8): 12 b
 Chuỗi **6 loại da chế biến** theo tiến trình biome; **Draw Lever** và **Eternal Bowstring** là linh kiện khởi đầu của chuỗi EVO; **Celestine / Cryolite** tìm thấy trong rương Charred Fortress (Ashlands).
 
 | Icon | Tên | Chế tạo | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![DrawLever.png](Hunter_Legacy_Icons/DrawLever.png) | **Draw Lever** (DrawLeverDO) — Nguyên liệu | [Hunter's Table]<br>Bronze x4 • Bronze Nails x10 • Resined Leather x2 |  |
 | ![EternalBowstring.png](Hunter_Legacy_Icons/EternalBowstring.png) | **Eternal Bowstring** (EternalBowstringDO) — Nguyên liệu | [Hunter's Table]<br>Coarse Thread x10 • Resined Leather x3 • Ancient seed x1 |  |
 | ![CoarseThreadDO.png](Hunter_Legacy_Icons/CoarseThreadDO.png) | **Coarse Thread** (CoarseThreadDO) — Nguyên liệu | [Hunter's Table]<br>Thistle x2 • Dandelion x4 • Resin x3 |  |
@@ -39,7 +39,7 @@ Chuỗi **6 loại da chế biến** theo tiến trình biome; **Draw Lever** v�
 ### 3.1 Bolts (phi tiêu nỏ)
 
 | Icon | Tên | Chế tạo | Stats | Ghi chú |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | ![BoltFlint.png](Hunter_Legacy_Icons/BoltFlint.png) | **Flint Bolt** (BoltFlintDO) — Phi tiêu nỏ | [Munitions Bench]<br>Flint x2 • Wood x8 • Feathers x2 | Pierce: 27 |  |
 | ![BoltStone.png](Hunter_Legacy_Icons/BoltStone.png) | **Stone Bolt** (BoltStoneDO) — Phi tiêu nỏ | [Munitions Bench]<br>Stone x4 • Core Wood x8 • Feathers x2 | Pierce: 25<br>Blunt: 6 |  |
 | ![BoltBone.png](Hunter_Legacy_Icons/BoltBone.png) | **Bone Bolt** (BoltBoneDO) — Phi tiêu nỏ | [Munitions Bench]<br>Withered bone x2 • Elder bark x2 • Feathers x2 | Pierce: 25<br>Spirit: 25 |  |
@@ -51,7 +51,7 @@ Chuỗi **6 loại da chế biến** theo tiến trình biome; **Draw Lever** v�
 ### 3.2 Pellets (đạn cao su)
 
 | Icon | Tên | Chế tạo | Stats |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![PelletStone.png](Hunter_Legacy_Icons/PelletStone.png) | **Stone Pellet** (PelletStoneDO) — Đạn cao su | [Workbench]<br>• Stone x4 | Blunt: 22 |
 | ![PelletObsidian.png](Hunter_Legacy_Icons/PelletObsidian.png) | **Obsidian Pellet** (PelletObsidianDO) — Đạn cao su | [Munitions Bench]<br>• Obsidian x2 | Blunt: 42 |
 | ![PelletMarble.png](Hunter_Legacy_Icons/PelletMarble.png) | **Marble Pellet** (PelletMarbleDO) — Đạn cao su | [Munitions Bench]<br>• Black Marble x2 | Blunt: 58 |
@@ -62,7 +62,7 @@ Chuỗi **6 loại da chế biến** theo tiến trình biome; **Draw Lever** v�
 Vũ khí tầm xa mới: sát thương **blunt**, lên đạn nhanh; phụ công bắn 3 viên. Trải từ Meadows → Ashlands. Rough Slingshot chế tại Workbench (cấp 1), số còn lại tại Hunter's Table.
 
 | Icon | Tên | Chế tạo | Nâng cấp | Stats | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![SlingWood.png](Hunter_Legacy_Icons/SlingWood.png) | **Rough Slingshot** (SlingshotWoodDO) — Súng cao su | [Workbench]<br>• Wood x8 • Leather Scraps x6 | • Wood x4 • Leather Scraps x3 | Blunt: 19-28<br>Stamina Use: 3 | Secondary Attack:<br>Fires three pellets at once with slightly reduced accuracy, offering strong performance at medium-to-close range. |
 | ![SlingCorewood.png](Hunter_Legacy_Icons/SlingCorewood.png) | **Sturdy Slingshot** (SlingshotCorewoodDO) — Súng cao su | [Hunter's Table]<br>• Core Wood x8 • Resined Leather x4 | • Core Wood x4 • Resined Leather x2 | Blunt: 28-37<br>Stamina Use: 4 |  |
 | ![SlingIron.png](Hunter_Legacy_Icons/SlingIron.png) | **Iron Slingshot** (SlingshotIronDO) — Súng cao su | [Hunter's Table]<br>• Iron x10 • Greased Leather x6 | • Iron x5 • Greased Leather x3 | Blunt: 35-44<br>Stamina Use: 6 |  |
@@ -74,7 +74,7 @@ Vũ khí tầm xa mới: sát thương **blunt**, lên đạn nhanh; phụ công
 ## 🔪 5. Vũ Khí Ném
 
 | Icon | Tên | Chế tạo | Stats | Hiệu ứng |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | ![ThrowingKnifeBronze.png](Hunter_Legacy_Icons/ThrowingKnifeBronze.png) | **Bronze Throwing Knife** (ThrowingKnifeCoreBronzeDO) — Dao ném | [Munitions Bench]<br>Bronze x1 • Resined Leather x1 | Pierce: 20<br>Stamina Use: 7 |  |
 | ![ThrowingKnifeIron.png](Hunter_Legacy_Icons/ThrowingKnifeIron.png) | **Iron Throwing Knife** (ThrowingKnifeCoreIronDO) — Dao ném | [Munitions Bench]<br>Iron x1 • Greased Leather x1 | Pierce: 30<br>Stamina Use: 8 |  |
 | ![ThrowingKnifeSilver.png](Hunter_Legacy_Icons/ThrowingKnifeSilver.png) | **Silver Throwing Knife** (ThrowingKnifeCoreSilverDO) — Dao ném | [Munitions Bench]<br>Silver x1 • Frosted Leather x1 | Pierce: 40<br>Spirit: 5<br>Stamina Use: 9 |  |
@@ -92,7 +92,7 @@ Vũ khí tầm xa mới: sát thương **blunt**, lên đạn nhanh; phụ công
 Mỗi cung dùng **cung trước đó làm lõi**: **Bloodbane** → **Verdant Recurve** → **Thunderstring** → **Mistlands Vow** → **Plains Horizon** → 3 nhánh cuối: **Mountain Arc** / **Swamp Serpent** / **Forest Draw**
 
 | Icon | Tên | Chế tạo (lõi EVO in đậm) | Nâng cấp | Stats | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BowEvoBlood.png](Hunter_Legacy_Icons/BowEvoBlood.png) | **Bloodbane** (BowEvoCoreAshlandsBloodDO) | **Mistlands Vow** x1; Flametal x6; Bloodstone x1 | Flametal x4; Bloodstone x1 | Pierce: 101 - 113<br>Health Use: 10%<br>Draw Stamina Use: 4/s | Damage increased Per Health Missing:<br><br>0.5% |
 | ![BowEvoNature.png](Hunter_Legacy_Icons/BowEvoNature.png) | **Verdant Recurve** (BowEvoCoreAshlandsNatureDO) | **Mistlands Vow** x1; Flametal x6; Jade x1 | Flametal x4; Jade x1 | Pierce: 94 - 103<br>Spirit: 12 - 15<br>Block Armor: 115 - 133<br>Draw Stamina Use: 15/s | Chance to apply Immobilized effect:<br><br>30% |
 | ![BowEvoLightning.png](Hunter_Legacy_Icons/BowEvoLightning.png) | **Thunderstring** (BowEvoCoreAshlandsLightningDO) | **Mistlands Vow** x1; Flametal x6; Iolite x1 | Flametal x5; Iolite x1 | Lightning: 50 - 59<br>Eitr Use: 24 | Chance to apply Chain Lightning effect:<br><br>20% |
@@ -107,7 +107,7 @@ Mỗi cung dùng **cung trước đó làm lõi**: **Bloodbane** → **Verdant R
 Lộ trình song song với cung EVO: **Bloodreign** → **Verdant Bastion** → **Thunderpiercer** → **Mistlands Sentinel** → **Plains Strider** → 3 nhánh cuối: **Mountain Crest** / **Swamp Viper** / **Forest Warden**
 
 | Icon | Tên | Chế tạo (lõi EVO in đậm) | Nâng cấp | Stats | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![CBDH_B.png](Hunter_Legacy_Icons/CBDH_B.png) | **Bloodreign** (CrossbowEvoCoreAshlandsBloodDO) | **Mistlands Sentinel** x1; Flametal x6; Bloodstone x1 | Flametal x4; Bloodstone x1 | Pierce: 270 - 282<br>Health Use: 15% | Damage increased Per Health Missing:<br><br>0.4% |
 | ![CBDH_N.png](Hunter_Legacy_Icons/CBDH_N.png) | **Verdant Bastion** (CrossbowEvoCoreAshlandsNatureDO) | **Mistlands Sentinel** x1; Flametal x6; Jade x1 | Flametal x4; Jade x1 | Pierce: 250 - 259<br>Spirit: 15 - 18<br>Block Armor: 115 - 133 | Chance to apply Immobilized effect:<br><br>30% |
 | ![CBDH_L.png](Hunter_Legacy_Icons/CBDH_L.png) | **Thunderpiercer** (CrossbowEvoCoreAshlandsLightningDO) | **Mistlands Sentinel** x1; Flametal x6; Iolite x1 | Flametal x4; Iolite x1 | Lightning: 80 - 89<br>Eitr Use: 30 | Chance to apply Chain Lightning effect:<br><br>15% |
@@ -122,7 +122,7 @@ Lộ trình song song với cung EVO: **Bloodreign** → **Verdant Bastion** →
 Nhánh phụ hệ **poison**, dùng linh kiện riêng từ Black Forest: **Soultrace** → **Cryobite** → **Venom Reaper** → **Poison Prototype** → **Toxic Pulse** → 2 nhánh cuối: **Hardened Spine** / **Field Construct**
 
 | Icon | Tên | Chế tạo (lõi in đậm) | Nâng cấp | Stats | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![CrossbowEvoDreadT0Spirit.png](Hunter_Legacy_Icons/CrossbowEvoDreadT0Spirit.png) | **Soultrace** (CrossbowEvoRenegadeAshlandsSpiritDO) | **Venom Reaper** x1; Flametal x6; Celestine x1 | Flametal x4; Celestine x1 | Pierce: 125 - 134<br>Spirit: 150 - 162 | HP gain on hit: 10 |
 | ![CrossbowEvoDreadT0Frost.png](Hunter_Legacy_Icons/CrossbowEvoDreadT0Frost.png) | **Cryobite** (CrossbowEvoRenegadeAshlandsFrostDO) | **Venom Reaper** x1; Flametal x6; Cryolite x1 | Flametal x4; Cryolite x1 | Pierce: 125 - 134<br>Frost: 150 - 162 | Heat Resistance when equipped: +20% |
 | ![CrossbowEvoDreadT5.png](Hunter_Legacy_Icons/CrossbowEvoDreadT5.png) | **Venom Reaper** (CrossbowEvoRenegadeMistlandsDO) | **Poison Prototype** ×1; Carapace ×9; Eitr ×9; Sapped Leather ×3 | Carapace ×3; Eitr ×3 | Pierce: 100 - 109<br>Poison: 200 - 212 | Poison AoE explosion triggered by each fired bolt on impact. |
@@ -138,7 +138,7 @@ Hai nhánh: **Light-Medium** (cơ động, tiết kiệm stamina) và **Medium-H
 #### FOREST SENTINEL
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ForestSentinelChest.png](Hunter_Legacy_Icons/ForestSentinelChest.png) | **Forest Sentinel Vest** (ArmorForestSentinelChestDO) — Ngực | [Hunter's Table]<br>Bronze x2; Resined Leather x6; Coarse Thread x4 | Bronze x2; Resined Leather x4 | Armor: 7 - 13 | Movement Speed: +4%<br>Bows: +4<br>Pierce: +3% |
 | ![ForestSentinelLegs.png](Hunter_Legacy_Icons/ForestSentinelLegs.png) | **Forest Sentinel Trousers** (ArmorForestSentinelLegsDO) — Chân | [Hunter's Table]<br>Bronze x2; Resined Leather x6; Coarse Thread x4 | Bronze x2; Resined Leather x4 | Armor: 7 - 13 |  |
 | ![ForestSentinelHelmet.png](Hunter_Legacy_Icons/ForestSentinelHelmet.png) | **Forest Sentinel Hat** (ArmorForestSentinelHelmetDO) — Mũ | [Hunter's Table]<br>Bronze x2; Resined Leather x6; Coarse Thread x4 | Bronze x2; Resined Leather x4 | Armor: 7 - 13 |  |
@@ -149,7 +149,7 @@ Hai nhánh: **Light-Medium** (cơ động, tiết kiệm stamina) và **Medium-H
 #### FROSTPEAK HARRIER
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![HarrierChestDO.png](Hunter_Legacy_Icons/HarrierChestDO.png) | **Frostpeak Harrier Wrap** (ArmorFrostpeakHarrierChestDO) — Ngực | [Hunter's Table]<br>Silver x4; Frosted Leather x12; Coarse Thread x8 | Silver x2; Frosted Leather x4 | Armor: 16 - 22 | Resistant vs Frost<br>Run Stamina Usage: -10%<br>Bows: +8<br>Pierce: +5% |
 | ![HarrierLegsDO.png](Hunter_Legacy_Icons/HarrierLegsDO.png) | **Frostpeak Harrier Trousers** (ArmorFrostpeakHarrierLegsDO) — Chân | [Hunter's Table]<br>Silver x4; Frosted Leather x12; Coarse Thread x8 | Silver x2; Frosted Leather x4 | Armor: 16 - 22 |  |
 | ![HarrierHelmetDO.png](Hunter_Legacy_Icons/HarrierHelmetDO.png) | **Frostpeak Harrier Helm** (ArmorFrostpeakHarrierHelmetDO) — Mũ | [Hunter's Table]<br>Silver x4; Frosted Leather x12; Coarse Thread x8 | Silver x2; Frosted Leather x4 | Armor: 16 - 22 |  |
@@ -160,7 +160,7 @@ Hai nhánh: **Light-Medium** (cơ động, tiết kiệm stamina) và **Medium-H
 #### GOLDEN STRIDER
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![GoldenStriderChestDO.png](Hunter_Legacy_Icons/GoldenStriderChestDO.png) | **Golden Strider Vest** (ArmorGoldenStriderChestDO) — Ngực | [Hunter's Table]<br>Black metal x5; Tarred Leather x15; Linen thread x10 | Black metal x3; Tarred Leather x6 | Armor: 21 - 27 | Attack Stamina Usage: -10%<br>Bows: +10<br>Pierce: +7% |
 | ![GoldenStriderLegsDO.png](Hunter_Legacy_Icons/GoldenStriderLegsDO.png) | **Golden Strider Trousers** (ArmorGoldenStriderLegsDO) — Chân | [Hunter's Table]<br>Black metal x5; Tarred Leather x15; Linen thread x10 | Black metal x3; Tarred Leather x6 | Armor: 21 - 27 |  |
 | ![GoldenStriderHelmetDO.png](Hunter_Legacy_Icons/GoldenStriderHelmetDO.png) | **Golden Strider Adornment** (ArmorGoldenStriderHelmetDO) — Mũ | [Hunter's Table]<br>Black metal x5; Tarred Leather x15; Linen thread x10 | Black metal x3; Tarred Leather x6 | Armor: 21 - 27 |  |
@@ -171,7 +171,7 @@ Hai nhánh: **Light-Medium** (cơ động, tiết kiệm stamina) và **Medium-H
 #### SAPPHIRE FALCON
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![SapphireFalconChest.png](Hunter_Legacy_Icons/SapphireFalconChest.png) | **Sapphire Falcon Chestguard** (ArmorSapphireFalconChestDO) — Ngực | [Hunter's Table]<br>Carapace x6; Sapped Leather x18; Linen thread x12 | Carapace x3; Sapped Leather x6 | Armor: 30 - 36 | Resistant vs Pierce<br>Bows: +12<br>Pierce: +9% |
 | ![SapphireFalconLegs.png](Hunter_Legacy_Icons/SapphireFalconLegs.png) | **Sapphire Falcon Greaves** (ArmorSapphireFalconLegsDO) — Chân | [Hunter's Table]<br>Carapace x6; Sapped Leather x18; Linen thread x12 | Carapace x3; Sapped Leather x6 | Armor: 30 - 36 |  |
 | ![SapphireFalconHelmet.png](Hunter_Legacy_Icons/SapphireFalconHelmet.png) | **Sapphire Falcon Helm** (ArmorSapphireFalconHelmetDO) — Mũ | [Hunter's Table]<br>Carapace x6; Sapped Leather x18; Linen thread x12 | Carapace x3; Sapped Leather x6 | Armor: 30 - 36 |  |
@@ -182,7 +182,7 @@ Hai nhánh: **Light-Medium** (cơ động, tiết kiệm stamina) và **Medium-H
 #### NOCTURNE ARROW
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArcherChest.png](Hunter_Legacy_Icons/ArcherChest.png) | **Nocturne Arrow Vestments** (ArmorNocturneArrowChestDO) — Ngực | [Hunter's Table]<br>Carapace x4; Sapped Leather x22; Linen thread x12 | Carapace x2; Sapped Leather x8 | Armor: 26 - 32 | Jump Stamina Usage: -10%<br>Run Stamina Usage: -10%<br>Bows: +12<br>Sneak: +20<br>Pierce: +9% |
 | ![ArcherLegs.png](Hunter_Legacy_Icons/ArcherLegs.png) | **Nocturne Arrow Treads** (ArmorNocturneArrowLegsDO) — Chân | [Hunter's Table]<br>Carapace x4; Sapped Leather x22; Linen thread x18 | Carapace x2; Sapped Leather x8 | Armor: 26 - 32 |  |
 | ![ArcherHelmet.png](Hunter_Legacy_Icons/ArcherHelmet.png) | **Nocturne Arrow Hood** (ArmorNocturneArrowHelmetDO) — Mũ | [Hunter's Table]<br>Carapace x4; Sapped Leather x22; Linen thread x18 | Carapace x2; Sapped Leather x8 | Armor: 26 - 32 |  |
@@ -192,7 +192,7 @@ Hai nhánh: **Light-Medium** (cơ động, tiết kiệm stamina) và **Medium-H
 #### ASHEN EXILE
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![AshenExileChest.png](Hunter_Legacy_Icons/AshenExileChest.png) | **Ashen Exile Cuirass** (ArmorAshenExileChestDO) — Ngực | [Hunter's Table]<br>Flametal x6; Eitr x6; Charred Leather x18; Linen thread x12 |  | Armor: 34 - 40<br>Movement Speed: -4%<br>Eitr Regen: +30%<br>Heat Resistance: +10% | Resistant vs Slash<br>Bows: +15<br>Pierce: +10%<br>Lightning: +10% |
 | ![AshenExileLegs.png](Hunter_Legacy_Icons/AshenExileLegs.png) | **Ashen Exile Greaves** (ArmorAshenExileLegsDO) — Chân | [Hunter's Table]<br>Flametal x6; Eitr x6; Charred Leather x18; Linen thread x12 | Flametal x2; Charred Leather x4 | Armor: 34 - 40<br>Movement Speed: -4%<br>Eitr Regen: +30%<br>Heat Resistance: +10% |  |
 | ![AshenExileHelmet.png](Hunter_Legacy_Icons/AshenExileHelmet.png) | **Ashen Exile Helm** (ArmorAshenExileHelmetDO) — Mũ | [Hunter's Table]<br>Flametal x6; Eitr x6; Charred Leather x18; Linen thread x12 | Flametal x2; Charred Leather x4 | Armor: 34 - 40<br>Eitr Regen: +15% |  |
@@ -207,7 +207,7 @@ Giáp trung bình, cân bằng cho chiến đấu nỏ ổn định.
 #### GRAVE MERCENARY
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![GraveMercenaryChestDO.png](Hunter_Legacy_Icons/GraveMercenaryChestDO.png) | **Grave Mercenary Vest** (ArmorGraveMercenaryChestDO) — Ngực | [Hunter's Table]<br>Iron x6; Greased Leather x12; Coarse Thread x4 | Iron x3; Greased Leather x3 | Armor: 12 - 18<br>Movement Speed: -2% | Slightly Resistant vs Poison<br>Run Stamina usage: -5%<br>Crossbows: +6<br>Pierce: +4% |
 | ![GraveMercenaryLegsDO.png](Hunter_Legacy_Icons/GraveMercenaryLegsDO.png) | **Grave Mercenary Boots** (ArmorGraveMercenaryLegsDO) — Chân | [Hunter's Table]<br>Iron x6; Greased Leather x12; Coarse Thread x4 | Iron x3; Greased Leather x3 | Armor: 12 - 18<br>Movement Speed: -2% |  |
 | ![GraveMercenaryHelmetDO.png](Hunter_Legacy_Icons/GraveMercenaryHelmetDO.png) | **Grave Mercenary Helmet** (ArmorGraveMercenaryHelmetDO) — Mũ | [Hunter's Table]<br>Iron x6; Greased Leather x12; Coarse Thread x4 | Iron x3; Greased Leather x3 | Armor: 12 - 18 |  |
@@ -216,7 +216,7 @@ Giáp trung bình, cân bằng cho chiến đấu nỏ ổn định.
 #### DREAD RENEGADE
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![DreadRenegadeChestDO.png](Hunter_Legacy_Icons/DreadRenegadeChestDO.png) | **Dread Renegade Coat** (ArmorDreadRenegadeChestDO) — Ngực | [Hunter's Table]<br>Black metal x8; Tarred Leather x16; Linen thread x6 | Black metal x3; Tarred Leather x3 | Armor: 23 - 29<br>Movement Speed: -2%<br>Eitr Regen: +20% | Slightly Resistant vs Pierce<br>Run Stamina Usage: -10%<br>Crossbows: +10<br>Pierce: +7% |
 | ![DreadRenegadeLegsDO.png](Hunter_Legacy_Icons/DreadRenegadeLegsDO.png) | **Dread Renegade Trousers** (ArmorDreadRenegadeLegsDO) — Chân | [Hunter's Table]<br>Black metal x8; Tarred Leather x16; Linen thread x6 | Black metal x3; Tarred Leather x3 | Armor: 23 - 29<br>Movement Speed: -2%<br>Eitr Regen: +20% |  |
 | ![DreadRenegadeHatDO.png](Hunter_Legacy_Icons/DreadRenegadeHatDO.png) | **Dread Renegade Hat** (ArmorDreadRenegadeHelmetDO) — Mũ | [Hunter's Table]<br>Black metal x8; Tarred Leather x16; Linen thread x6 | Black metal x3; Tarred Leather x3 | Armor: 23 - 29<br>Eitr Regen: +10% |  |
@@ -225,7 +225,7 @@ Giáp trung bình, cân bằng cho chiến đấu nỏ ổn định.
 #### DEMON HUNTER
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![DHChest.png](Hunter_Legacy_Icons/DHChest.png) | **Demon Hunter Coat** (ArmorDemonHunterChestDO) — Ngực | [Hunter's Table]<br>Flametal x10; Eitr x6; Charred Leather x18; Linen thread x8 | Flametal x3; Charred Leather x3 | Armor: 32 - 38<br>Movement Speed: -2%<br>Eitr Regen: +30%<br>Heat Resistance: +10% | Slightly Resistant vs Slash<br>Run Stamina Usage: -10%<br>Crossbows: +15<br>Pierce: +10%<br>Lightning: +10% |
 | ![DHLegs.png](Hunter_Legacy_Icons/DHLegs.png) | **Demon Hunter Trousers** (ArmorDemonHunterLegsDO) — Chân | [Hunter's Table]<br>Flametal x10; Eitr x6; Charred Leather x18; Linen thread x8 | Flametal x3; Charred Leather x3 | Armor: 32 - 38<br>Movement Speed: -2%<br>Eitr Regen: +30%<br>Heat Resistance: +10% |  |
 | ![DHHelmet.png](Hunter_Legacy_Icons/DHHelmet.png) | **Demon Hunter Hat** (ArmorDemonHunterHelmetDO) — Mũ | [Hunter's Table]<br>Flametal x10; Eitr x6; Charred Leather x18; Linen thread x8 | Flametal x3; Charred Leather x3 | Armor: 32 - 38<br>Eitr Regen: +15%<br>Resistant vs Fire |  |
@@ -240,7 +240,7 @@ Bộ mở rộng cho lối chơi tàng hình & cận chiến nhanh: Silent Thorn
 #### SILENT THORN
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![SilentThornChest.png](Hunter_Legacy_Icons/SilentThornChest.png) | **Silent Thorn Vest** (ArmorSilentThornChestDO) — Ngực | [Hunter's Table]<br>Bronze x2; Resined Leather x10; Coarse Thread x6 | Bronze x2; Resined Leather x6 | Armor: 7 - 13 | Movement Speed: +4%<br>Knives: +4<br>Slash: +2%<br>Pierce: +2% |
 | ![SilentThornLegs.png](Hunter_Legacy_Icons/SilentThornLegs.png) | **Silent Thorn Leggings** (ArmorSilentThornLegsDO) — Chân | [Hunter's Table]<br>Bronze x2; Resined Leather x10; Coarse Thread x6 | Bronze x2; Resined Leather x6 | Armor: 7 - 13 |  |
 | ![SilentThornHelmet.png](Hunter_Legacy_Icons/SilentThornHelmet.png) | **Silent Thorn Wrap** (ArmorSilentThornHelmetDO) — Mũ | [Hunter's Table]<br>Bronze x2; Resined Leather x10; Coarse Thread x6 | Bronze x2; Resined Leather x6 | Armor: 7 - 13 |  |
@@ -250,7 +250,7 @@ Bộ mở rộng cho lối chơi tàng hình & cận chiến nhanh: Silent Thorn
 #### SNOW TALON
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![SnowTalonChest.png](Hunter_Legacy_Icons/SnowTalonChest.png) | **Snow Talon Vestments** (ArmorSnowTalonChestDO) — Ngực | [Hunter's Table]<br>Silver x3; Frosted Leather x15; Coarse Thread x10 | Silver x2; Frosted Leather x8 | Armor: 16 - 22 | Resistant vs Frost<br>Movement Speed: +8%<br>Knives: +8<br>Slash: +3%<br>Pierce: +3% |
 | ![SnowTalonLegs.png](Hunter_Legacy_Icons/SnowTalonLegs.png) | **Snow Talon Leggings** (ArmorSnowTalonLegsDO) — Chân | [Hunter's Table]<br>Silver x3; Frosted Leather x15; Coarse Thread x10 | Silver x2; Frosted Leather x8 | Armor: 16 - 22 |  |
 | ![SnowTalonHelmet.png](Hunter_Legacy_Icons/SnowTalonHelmet.png) | **Snow Talon Hood** (ArmorSnowTalonHelmetDO) — Mũ | [Hunter's Table]<br>Silver x3; Frosted Leather x15; Coarse Thread x10 | Silver x2; Frosted Leather x8 | Armor: 16 - 22 |  |
@@ -261,7 +261,7 @@ Bộ mở rộng cho lối chơi tàng hình & cận chiến nhanh: Silent Thorn
 #### NOCTURNE BLADE
 
 | Icon | Mảnh | Chế tạo | Nâng cấp | Armor / Stats | Hiệu ứng / Set Bonus |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![AssChest.png](Hunter_Legacy_Icons/AssChest.png) | **Nocturne Blade Vestments** (ArmorNocturneBladeChestDO) — Ngực | [Hunter's Table]<br>Carapace x4; Silver x4; Sapped Leather x18; Linen thread x12 | Silver x3; Sapped Leather x8 | Armor: 26 - 32 | Movement Speed: +8%<br>Attack Stamina Usage: -10%<br>Knives: +12<br>Dodge: +20<br>Slash: +5%<br>Pierce: +5% |
 | ![AssLegs.png](Hunter_Legacy_Icons/AssLegs.png) | **Nocturne Blade Treads** (ArmorNocturneBladeLegsDO) — Chân | [Hunter's Table]<br>Carapace x4; Silver x4; Sapped Leather x18; Linen thread x12 | Silver x3; Sapped Leather x8 | Armor: 26 - 32 |  |
 | ![AssHelmet.png](Hunter_Legacy_Icons/AssHelmet.png) | **Nocturne Blade Hood** (ArmorNocturneBladeHelmetDO) — Mũ | [Hunter's Table]<br>Carapace x4; Silver x4; Sapped Leather x18; Linen thread x12 | Silver x3; Sapped Leather x8 | Armor: 26 - 32 |  |
@@ -274,7 +274,7 @@ Bộ mở rộng cho lối chơi tàng hình & cận chiến nhanh: Silent Thorn
 Các mảnh trang trí trong category *Distant Origins Decor* — build bằng Hammer (khi đứng gần Hunter's Table / Munitions Bench).
 
 | Icon | Tên (prefab) | Craft Cost |
-| --- | --- | --- |
+| :---: | --- | --- |
 | ![ArmorStandCopper.png](Hunter_Legacy_Icons/ArmorStandCopper.png) | **Copper Armour Stand** (ArmorStandCopperDO) | Copper 2, Resin 4 |
 | ![ArmorStandCorewood.png](Hunter_Legacy_Icons/ArmorStandCorewood.png) | **Corewood Armour Stand** (ArmorStandCorewoodDO) | RoundLog 10, Bronze Nails 5 |
 | ![ArmorStandMarble.png](Hunter_Legacy_Icons/ArmorStandMarble.png) | **Marble Armour Stand** (ArmorStandMarbleDO) | BlackMarble 5 |

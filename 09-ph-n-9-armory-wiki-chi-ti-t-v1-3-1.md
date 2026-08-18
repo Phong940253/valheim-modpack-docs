@@ -7,7 +7,7 @@ Mod **Armory** (Therzie) thêm bàn chế tạo **Armory Forge** — nơi bạn 
 **Armory_TW** (category Warfare, dựng bằng Hammer) — nâng cấp bằng các mảnh Forge thường (cấp tối đa 4). Dùng **giáp vanilla làm nguyên liệu lõi** (vd `HelmetTrollLeather` cho Assasin) để tạo bản tăng cường. Cấp bàn càng cao mở tier càng cao.
 
 | Icon | Tên | Chế tạo | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![Armory_TW.png](Armory_Icons/Armory_TW.png) | **Armory Forge** (Armory_TW) | [Forge]<br>Stone ×20, Bronze Nails ×40, Bronze ×10, Surtling Core ×5, Eikthyr Trophy ×1 | Bàn nâng cấp giáp — tối đa cấp 4 |
 
 ## 🦺 2. Giáp Theo Hệ (Set)
@@ -19,7 +19,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Speed +3% · Run +10
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorLeatherChest_TW.png](Armory_Icons/ArmorLeatherChest_TW.png) | **Stag leather tunic** (ArmorLeatherChest_TW) | 🛡️ Armor 2+2/lvl<br>Block 10<br>Weight 5<br>Durability 400 | ArmorLeatherChest ×1, Deer Hide ×6, Leather Scraps ×3 | Leather Scraps ×2, Deer Hide ×3 | **Set (Stag, 3 pcs):** Speed +3% · Run +10 |
 | ![ArmorLeatherLegs_TW.png](Armory_Icons/ArmorLeatherLegs_TW.png) | **Stag leather pants** (ArmorLeatherLegs_TW) | 🛡️ Armor 2+2/lvl<br>Block 10<br>Weight 5<br>Durability 400 | ArmorLeatherLegs ×1, Leather Scraps ×6, Deer Hide ×3 | Leather Scraps ×3, Deer Hide ×2 | **Set (Stag, 3 pcs):** Speed +3% · Run +10 |
 | ![HelmetLeather_TW.png](Armory_Icons/HelmetLeather_TW.png) | **Stag hood** (HelmetLeather_TW) | 🛡️ Armor 2+2/lvl<br>Block 10<br>Weight 1<br>Durability 400 | HelmetLeather ×1, Deer Trophy ×1, Deer Hide ×4 | Leather Scraps ×2, Deer Hide ×2 | A tough leather hood adorned with antlers.<br>**Set (Stag, 3 pcs):** Speed +3% · Run +10 |
@@ -29,7 +29,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Stamina regen +5% · Polearms +5 · Spears +5
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorRazorbackChest_TW.png](Armory_Icons/ArmorRazorbackChest_TW.png) | **Razorback bronze vest** (ArmorRazorbackChest_TW) | 🛡️ Armor 7+2/lvl<br>Block 10<br>Weight 5<br>Durability 1000<br>Movement -4% | Razorback Leather ×12, Bronze ×6, Razorback Tusk ×2 | Razorback Leather ×6, Bronze ×3 | A black leather bronze vest with tusk shoulderpads.<br>**Set (Spellslinger, 3 pcs):** Stamina regen +5% · Polearms +5 · Spears +5 |
 | ![ArmorRazorbackLegs_TW.png](Armory_Icons/ArmorRazorbackLegs_TW.png) | **Razorback leather leggings** (ArmorRazorbackLegs_TW) | 🛡️ Armor 7+2/lvl<br>Block 10<br>Weight 10<br>Durability 1000<br>Movement -4% | Razorback Leather ×8, Bronze ×6, Razorback Tusk ×2 | Razorback Leather ×4, Bronze ×3 | A pair of black leather trousers and tusk boots<br>**Set (Spellslinger, 3 pcs):** Stamina regen +5% · Polearms +5 · Spears +5 |
 | ![HelmetRazorback_icon.png](Armory_Icons/HelmetRazorback_icon.png) | **Razorback hood** (HelmetRazorback_TW) | 🛡️ Armor 7+2/lvl<br>Block 10<br>Weight 2<br>Durability 1000 | Razorback Leather ×8, Razorback Tusk ×6, Boar Trophy ×2 | Razorback Leather ×4, Razorback Tusk ×3 | A boar hunters trophy helmet.<br>**Set (Spellslinger, 3 pcs):** Stamina regen +5% · Polearms +5 · Spears +5 |
@@ -39,7 +39,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Bows +2→+10 · Crossbows +2→+10
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorHunterChest_TW.png](Armory_Icons/ArmorHunterChest_TW.png) | **Black leather hunting vest** (ArmorHunterChest_TW) | 🛡️ Armor 5+2/lvl<br>Block 10<br>Weight 5<br>Durability 1000<br>Movement +1% | Black Bear Pelt ×8, Bronze ×6, Troll Bone ×2 | Black Bear Pelt ×4, Bronze ×3 | A black leather vest adorned with claw shoulderpads and war paint.<br>**Set (Hunter (Bronze), 3 pcs):** Bows +2 · Crossbows +2 |
 | ![ArmorHunterLegs_TW.png](Armory_Icons/ArmorHunterLegs_TW.png) | **Black leather hunting leggings** (ArmorHunterLegs_TW) | 🛡️ Armor 5+2/lvl<br>Block 10<br>Weight 10<br>Durability 1000<br>Movement +1% | Black Bear Pelt ×8, Bronze ×4, Razorback Tusk ×2 | Black Bear Pelt ×4, Bronze ×2 | A pair of black leather fur boots.<br>**Set (Hunter (Bronze), 3 pcs):** Bows +2 · Crossbows +2 |
 | ![HelmetHunter_TW.png](Armory_Icons/HelmetHunter_TW.png) | **Black leather hunting hood** (HelmetHunter_TW) | 🛡️ Armor 5+2/lvl<br>Block 10<br>Weight 2<br>Durability 1000<br>Movement +1% | Black Bear Pelt ×6, Bronze ×8, Boar Trophy ×1 | Black Bear Pelt ×3, Bronze ×4 | An intimidating black leather trophy helmet.<br>**Set (Hunter (Bronze), 3 pcs):** Bows +2 · Crossbows +2 |
@@ -61,7 +61,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Knives +2→+10
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorTrollBlackChest_TW.png](Armory_Icons/ArmorTrollBlackChest_TW.png) | **Assasin's tunic** (ArmorRogueChest_TW) | 🛡️ Armor 6+2/lvl<br>Block 10<br>Weight 5<br>Durability 1000<br>Movement +1% | Troll Leather Tunic ×1, Bone Fragments ×10, Troll Bone ×2 | Troll Hide ×3, Bone Fragments ×4, Troll Bone ×1 | A black dyed leather tunic.<br>**Set (Rogue (Bronze), 3 pcs):** Knives +2 |
 | ![ArmorTrollBlackChest_TW.png](Armory_Icons/ArmorTrollBlackChest_TW.png) | **Assasin's tunic** (ArmorRogueChest_TW1) | 🛡️ Armor 6+2/lvl<br>Block 10<br>Weight 5<br>Durability 1000<br>Movement +1% | Troll Leather Tunic ×1, Bone Fragments ×10, Troll Bone ×2 | Troll Hide ×3, Bone Fragments ×4, Troll Bone ×1 | A black dyed leather tunic.<br>**Set (Rogue (Bronze), 3 pcs):** Knives +2 |
 | ![ArmorTrollBlackLegs_TW.png](Armory_Icons/ArmorTrollBlackLegs_TW.png) | **Assasin's striders** (ArmorRogueLegs_TW) | 🛡️ Armor 6+2/lvl<br>Block 10<br>Weight 5<br>Durability 1000<br>Movement +1% | Troll Leather Pants ×1, Troll Hide ×8, Deer Hide ×6 | Troll Hide ×4, Bone Fragments ×3, Deer Hide ×3 | Silent as the grave.<br>**Set (Rogue (Bronze), 3 pcs):** Knives +2 |
@@ -84,7 +84,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Axes +2→+10
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorBronzeChest_TW.png](Armory_Icons/ArmorBronzeChest_TW.png) | **Raider vest** (ArmorVigorousChest_TW) | 🛡️ Armor 8+2/lvl<br>Block 10<br>Weight 10<br>Durability 1000<br>Movement -5% | ArmorBronzeChest ×1, Bronze ×8, Troll Bone ×4 | Bronze ×4, Deer Hide ×2, Troll Bone ×2 | A loose vest with some metal protection sewn in.<br>**Set (Vigorous (Bronze), 3 pcs):** Axes +2 |
 | ![ArmorBronzeLegs_TW.png](Armory_Icons/ArmorBronzeLegs_TW.png) | **Raider trousers** (ArmorVigorousLegs_TW) | 🛡️ Armor 8+2/lvl<br>Block 10<br>Weight 10<br>Durability 1000<br>Movement -5% | ArmorBronzeLegs ×1, Bronze ×6, Deer Hide ×4 | Bronze ×3, Leather Scraps ×4, Deer Hide ×2 | Excellent for raiding and sleeping parties!<br>**Set (Vigorous (Bronze), 3 pcs):** Axes +2 |
 | ![HelmetBronze_TW.png](Armory_Icons/HelmetBronze_TW.png) | **Raider helmet** (HelmetVigorous_TW) | 🛡️ Armor 8+2/lvl<br>Block 10<br>Weight 3<br>Durability 1000 | HelmetBronze ×1, Bronze ×6, Bone Fragments ×4 | Bronze ×3, Deer Hide ×1, Bone Fragments ×2 | Bronze helmet that protects your skull from fatal blows.<br>**Set (Vigorous (Bronze), 3 pcs):** Axes +2 |
@@ -106,7 +106,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Clubs +4→+12
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorIronChest_TW.png](Armory_Icons/ArmorIronChest_TW.png) | **Warrior's scalemail** (ArmorWarriorChest_TW) | 🛡️ Armor 14+2/lvl<br>Block 10<br>Weight 15<br>Durability 1000<br>Movement -5% | ArmorIronChest ×1, Iron ×12, Rotten Pelt ×6, Guck ×6 | Iron ×12, Rotten Pelt ×3, Guck ×4 | A sturdy scalemail to protects one's insides.<br>**Set (Warrior (Iron), 3 pcs):** Clubs +4 |
 | ![ArmorIronLegs_TW.png](Armory_Icons/ArmorIronLegs_TW.png) | **Warrior's legguards** (ArmorWarriorLegs_TW) | 🛡️ Armor 14+2/lvl<br>Block 10<br>Weight 15<br>Durability 1000<br>Movement -5% | ArmorIronLegs ×1, Iron ×12, Ooze ×5, Entrails ×6 | Iron ×12, Ooze ×4, Entrails ×4 | Wooly pants with metal sheen protection.<br>**Set (Warrior (Iron), 3 pcs):** Clubs +4 |
 | ![HelmetIron_TW.png](Armory_Icons/HelmetIron_TW.png) | **Warrior's skullcage** (HelmetWarrior_TW) | 🛡️ Armor 14+2/lvl<br>Block 10<br>Weight 3<br>Durability 1000 | HelmetIron ×1, Iron ×12, Rotten Pelt ×6, Withered Bone ×3 | Iron ×12, Rotten Pelt ×3, Withered Bone ×2 | A sturdy iron helmet, fit for a warrior.<br>**Set (Warrior (Iron), 3 pcs):** Clubs +4 |
@@ -128,7 +128,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Unarmed +6→+14
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorFenrirChest_TW.png](Armory_Icons/ArmorFenrirChest_TW.png) | **Fenrir tunic** (ArmorFenrirChest_TW) | 🛡️ Armor 16+2/lvl<br>Block 10<br>Weight 10<br>Durability 1000<br>Movement +2% | ArmorFenringChest ×1, Silver ×20, Red Jute ×8, Wolf Pelt ×6 | Silver ×10, Red Jute ×4, Wolf Pelt ×3 | A furry tunic made of wolf hair, does it smell like wet dog in here?<br>**Set (Fenrir (Silver), 3 pcs):** Unarmed +6 |
 | ![ArmorFenrirLegs_TW.png](Armory_Icons/ArmorFenrirLegs_TW.png) | **Fenrir leggings** (ArmorFenrirLegs_TW) | 🛡️ Armor 16+2/lvl<br>Block 10<br>Weight 10<br>Durability 1000<br>Movement +2% | ArmorFenringLegs ×1, Silver ×20, Wolf Hair Bundle ×20, Obsidian ×12 | Silver ×10, Wolf Hair Bundle ×10, Obsidian ×6 | Lice riddled fur leggings made of wolf hair, itchy!<br>**Set (Fenrir (Silver), 3 pcs):** Unarmed +6 |
 | ![HelmetFenrir_TW.png](Armory_Icons/HelmetFenrir_TW.png) | **Fenrir hood** (HelmetFenrir_TW) | 🛡️ Armor 16+2/lvl<br>Block 10<br>Weight 1<br>Durability 1000 | HelmetFenring ×1, Silver ×20, Red Jute ×6, Wolf Fang ×6 | Silver ×10, Red Jute ×3, Wolf Fang ×3 | A furry hood made of wolf hair, you feel an insatiable lust for blood..<br>**Set (Fenrir (Silver), 3 pcs):** Unarmed +6 |
@@ -147,7 +147,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Swords +6→+12
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorVidarChest_TW.png](Armory_Icons/ArmorVidarChest_TW.png) | **Vidar chainmail** (ArmorVidarChest_TW) | 🛡️ Armor 20+2/lvl<br>Block 10<br>Weight 15<br>Durability 1000<br>Movement -5% | ArmorWolfChest ×1, Silver ×12, Bronze ×10, Wolf Pelt ×4 | Silver ×12, Bronze ×6, Wolf Pelt ×3 | A durable chainmail fit with fur to protect yourself against the harsh weathers.<br>**Set (Vidar (Silver), 3 pcs):** Swords +6 |
 | ![ArmorVidarLegs_TW.png](Armory_Icons/ArmorVidarLegs_TW.png) | **Vidar hide leggings** (ArmorVidarLegs_TW) | 🛡️ Armor 20+2/lvl<br>Block 10<br>Weight 15<br>Durability 1000<br>Movement -5% | ArmorWolfLegs ×1, Silver ×12, Bronze ×10, Wolf Hair Bundle ×10 | Silver ×12, Bronze ×6, Wolf Hair Bundle ×8 | Cozy fur sweat pants, I'm never taking these off!<br>**Set (Vidar (Silver), 3 pcs):** Swords +6 |
 | ![HelmetVidarSilver_TW.png](Armory_Icons/HelmetVidarSilver_TW.png) | **Vidar visage** (HelmetVidar_TW) | 🛡️ Armor 20+2/lvl<br>Block 10<br>Weight 3<br>Durability 1000 | HelmetDrake ×1, Silver ×12, Bronze ×10, Wolf Fang ×4 | Silver ×12, Bronze ×6, Wolf Fang ×3 | An inspiring, silver visage adorned with brass. Great fit for a Huskarl.<br>**Set (Vidar (Silver), 3 pcs):** Swords +6 |
@@ -166,7 +166,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Polearms +8→+12
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorPaddedChest_TW.png](Armory_Icons/ArmorPaddedChest_TW.png) | **Halberdier's cuirass** (ArmorBoldChest_TW) | 🛡️ Armor 26+2/lvl<br>Block 10<br>Weight 10<br>Durability 1000<br>Movement -5% | ArmorPaddedCuirass ×1, Black Metal ×12, Tar ×6, Lox Pelt ×6 | Black Metal ×12, Tar ×6, Lox Pelt ×4 | A cuirass made out of metal plating and leathers to move freely in combat.<br>**Set (Bold (Blackmetal), 3 pcs):** Polearms +8 |
 | ![ArmorPaddedLegs_TW.png](Armory_Icons/ArmorPaddedLegs_TW.png) | **Halberdier's greaves** (ArmorBoldLegs_TW) | 🛡️ Armor 26+2/lvl<br>Block 10<br>Weight 10<br>Durability 1000<br>Movement -5% | ArmorPaddedGreaves ×1, Black Metal ×12, Linen Thread ×10, Needle ×6 | Black Metal ×12, Linen Thread ×6, Needle ×4 | Protective greaves that offer quite the kick!<br>**Set (Bold (Blackmetal), 3 pcs):** Polearms +8 |
 | ![HelmetPadded_TW.png](Armory_Icons/HelmetPadded_TW.png) | **Halberdier's chainhelmet** (HelmetBold_TW) | 🛡️ Armor 26+2/lvl<br>Block 10<br>Weight 3<br>Durability 1000 | HelmetPadded ×1, Black Metal ×12, Lox Pelt ×6, Lox Bone ×4 | Black Metal ×12, Lox Pelt ×4, Lox Bone ×3 | A strong black metal chainhelmet to protect your pretty face from nasty things!<br>**Set (Bold (Blackmetal), 3 pcs):** Polearms +8 |
@@ -182,7 +182,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 **Set bonus:** Spears +10→+12
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArmorLegionChest_TW.png](Armory_Icons/ArmorLegionChest_TW.png) | **Skirmisher's scalemail** (ArmorLegionChest_TW) | 🛡️ Armor 32+2/lvl<br>Block 10<br>Weight 10<br>Durability 1200<br>Movement -5% | ArmorCarapaceChest ×1, Carapace ×12, Eitr ×8, Dark Crystal ×6 | Carapace ×12, Eitr ×4, Dark Crystal ×3 | A scalemail made out of carapace plating and exotic leathers.<br>**Set (Legion (Carapace), 3 pcs):** Spears +10 |
 | ![ArmorLegionLegs_TW.png](Armory_Icons/ArmorLegionLegs_TW.png) | **Skirmisher's pants** (ArmorLegionLegs_TW) | 🛡️ Armor 32+2/lvl<br>Block 10<br>Weight 10<br>Durability 1200<br>Movement -5% | ArmorCarapaceLegs ×1, Soft Tissue ×12, Eitr ×8, ScaleHide ×8 | Soft Tissue ×12, Eitr ×4, ScaleHide ×4 | A pair of coated leather pants to keep ticks at a distance.<br>**Set (Legion (Carapace), 3 pcs):** Spears +10 |
 | ![HelmetCarapace_TW.png](Armory_Icons/HelmetCarapace_TW.png) | **Skirmisher's faceguard** (HelmetLegion_TW) | 🛡️ Armor 32+2/lvl<br>Block 10<br>Weight 3<br>Durability 1200 | HelmetCarapace ×1, Carapace ×12, Eitr ×8, Mandible ×4 | Carapace ×12, Eitr ×4, Mandible ×2 | A scaly carapace helmet adorned with mandibles.<br>**Set (Legion (Carapace), 3 pcs):** Spears +10 |
@@ -195,7 +195,7 @@ Mỗi hệ gồm 3 mảnh (Hood/Visage/Helmet + Tunic/Chainmail/Scalemail + Pant
 Black Troll Cape, Ymir's Belt và các mũ da thú (Lox, Grizzly Bear, Ursa Bear).
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BeltYmir_TW.png](Armory_Icons/BeltYmir_TW.png) | **Ymir's belt** (BeltYmir_TW) | 🛡️ Armor 10+1/lvl<br>Block 10<br>Weight 2<br>Durability 100 | BeltStrength ×1, Eitr ×20, Ymir Remains ×4 |  | It's said that one can carry worlds wearing this magical belt.<br>Equipped: Carry weight +300kg |
 | ![HelmetUrsaBear_TW.png](Armory_Icons/HelmetUrsaBear_TW.png) | **Ursa bear hood** (HelmetArcticBear_TW) | 🛡️ Armor 42+2/lvl<br>Block 10<br>Weight 2<br>Durability 1200 |  |  | A bear hunters trophy helmet.<br>Equipped: Health regen +25% |
 | ![HelmetGrizzlyBear_TW.png](Armory_Icons/HelmetGrizzlyBear_TW.png) | **Grizzly bear hood** (HelmetGrizzlyBear_TW) | 🛡️ Armor 19+2/lvl<br>Block 10<br>Weight 2<br>Durability 1000 |  |  | A bear hunters trophy helmet.<br>Equipped: Health regen +12% |

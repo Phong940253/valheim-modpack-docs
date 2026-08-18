@@ -19,7 +19,7 @@ Wiki từ **decompile MagicPlugin.dll** (tác giả *blacks7ar*) — mod không 
 - Skill dùng: **ElementalMagic** cho staffs/scepters/Heritage, **BloodMagic** cho HealStaff/summons; đạn mọi vũ khí magic được khuếch đại Velocity ×2 / accuracy ×0 (trừ Arctic).
 
 | Icon | Config toàn cục | Default | Khoảng | Hiệu lực |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | Velocity Multiplier | 2.0 | 1–5 | Nhân tốc độ đạn vũ khí magic (trừ scepter / Flame / Thunder) |  |
 | Accuracy Multiplier | 0 | 0–1 | Độ lệch ngẫu nhiên đạn (0 = bắn chính xác thẳng) |  |
 | Enable Slow Fall | On | On/Off | Bật "rơi chậm" + miễn sát thương rơi trên áo choàng 4 set |  |
@@ -32,7 +32,7 @@ Wiki từ **decompile MagicPlugin.dll** (tác giả *blacks7ar*) — mod không 
 Mọi staff bắn đạn: Velocity ×2, Accuracy ×0; bán kính AoE đạn = config + 2 × skillFactor(ElementalMagic) — cấp skill càng cao vùng nổ càng rộng.
 
 | Icon | Staff | Công dụng / Giá trị (C) | Bàn chế | Craft → nâng cấp |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | ![BMP_WoodenStaff.png](MagicPlugin_Icons/BMP_WoodenStaff.png) | **Beginner Staff** (BMP_BeginnerStaff) | Staff khởi đầu — dùng từ đầu game | Workbench lv1 | BoneFragments×2, Resin×4, Wood×12 → Resin×2, Wood×6 |
 | ![BMP_SurtlingStaff.png](MagicPlugin_Icons/BMP_SurtlingStaff.png) | **Surtling Staff** (BMP_SurtlingStaff) | Đạn lửa; AoE 3(C); **(H)** chặt cây: damage chop → toolTier = quality, +skill Wood Cutting 0.2 | Forge lv1 | SurtlingCore×1, RoundLog×12, Copper×6, Coal×6 → RoundLog×6, Copper×3, Coal×3 |
 | ![BMP_EikthyrsStaff.png](MagicPlugin_Icons/BMP_EikthyrsStaff.png) | **Eikthyrs Staff** (BMP_EikthyrsStaff) | Đạn sét; AoE 3(C); **(H)** đập đá: pickaxe → toolTier = quality, +skill Pickaxes 0.2 | Workbench lv1 | TrophyEikthyr×1, HardAntler×3, Wood×25, Flint×10 → HardAntler×1, Wood×12, Flint×5 |
@@ -48,7 +48,7 @@ Mọi staff bắn đạn: Velocity ×2, Accuracy ×0; bán kính AoE đạn = co
 Mỗi scepter có **đòn chính + đòn phụ**. Magic Source (nguồn năng): mặc định **Eitr** — có thể đổi Stamina / Both. Eitr/đòn **(C)**: chính = 35, phụ = 80 (phạm vi 5–300).
 
 | Icon | Scepter | Đòn phụ | Chế (MageTable lv1) | Nâng cấp |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | ![BMP_FlameScepter.png](MagicPlugin_Icons/BMP_FlameScepter.png) | **Flame Scepter** | Clusterbomb nổ AoE | TrophySurtling×5, BlackCore×5, YggdrasilWood×24, Eitr×36 | Eitr×18, Softtissue×12, Mandible×12, YggdrasilWood×12 |
 | ![BMP_IceScepter.png](MagicPlugin_Icons/BMP_IceScepter.png) | **Ice Scepter** | Nova quanh người chơi | DragonTear×5, BlackCore×5, YggdrasilWood×24, Eitr×36 | Giống Flame |
 | ![BMP_LightningScepter.png](MagicPlugin_Icons/BMP_LightningScepter.png) | **Lightning Scepter** | Đạn rút (nhuyễn) | Thunderstone×5, BlackCore×5, YggdrasilWood×24, Eitr×36 | Giống Flame |
@@ -58,7 +58,7 @@ Mỗi scepter có **đòn chính + đòn phụ**. Magic Source (nguồn năng): 
 Chế tại **Workbench lv1**; nâng cấp theo quality (Q2→Q5): Q2 mọi wand giống nhau (core/mắt), Q3 lấy nguyên liệu zone tương ứng, Q4/Q5 dùng Eitr + Mandible + BlackCore/Softtissue.
 
 | Icon | Wand | Chế | Nâng cấp Q3 |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![BMP_FlameWand.png](MagicPlugin_Icons/BMP_FlameWand.png) | **Flame Wand** | Resin×12, Wood×8 | TrophySurtling×5, Root×4 |
 | ![BMP_IceWand.png](MagicPlugin_Icons/BMP_IceWand.png) | **Ice Wand** | GreydwarfEye×6, Wood×8 | FreezeGland×18, Crystal×12 |
 | ![BMP_LightningWand.png](MagicPlugin_Icons/BMP_LightningWand.png) | **Lightning Wand** | GreydwarfEye×6, Wood×8 | Thunderstone×5, Iron×12 |
@@ -69,7 +69,7 @@ Nâng cấp khác dùng chung: Q2 = SurtlingCore×5 + AncientSeed×6; Q4 = Eitr�
 ## 5. Books / Tomes (khe sách)
 
 | Icon | Sách | +Eitr (C) | Recipe |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![BMP_BeginnersMagicBook.png](MagicPlugin_Icons/BMP_BeginnersMagicBook.png) | **Beginner's Magic Book** | +24 | GreydwarfEye×6, Resin×4, Feathers×6, Wood×12 |
 | ![BMP_AdvanceMagicBook.png](MagicPlugin_Icons/BMP_AdvanceMagicBook.png) | **Advanced Magic Book** | +48 | YmirRemains×2, SurtlingCore×5, Crystal×52, AncientSeed×12 |
 | ![BMP_DruidsTome.png](MagicPlugin_Icons/BMP_DruidsTome.png) | **Druids Tome** | +62 | GoblinTotem×3, LoxPelt×12, LinenThread×16, ElderBark×8 |
@@ -81,7 +81,7 @@ Nâng cấp khác dùng chung: Q2 = SurtlingCore×5 + AncientSeed×6; Q4 = Eitr�
 Cả 6 bộ craft tại **Workbench lv1**. Armor value nằm trong asset (A). Mỗi mảnh: +Eitr (C) + eitr regen/s (C). **Cape 5** set (Sorcerers→Crimson, trừ Tattered) còn có SE *SlowFallAndEitr* — rơi chậm (tốc độ ≤ 5 m/s) + miễn 100% sát thương rơi.
 
 | Icon | Bộ | Cape | Chest | Helm/Hat | Legs | Eitr Regen | Ghi chú |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- | --- | --- |
 | ![BMR_TatteredCape.png](MagicPlugin_Icons/BMR_TatteredCape.png) | **1. Tattered** (Rootweave) | +10 | +12 | +10 | +12 | 0.07 | Set đầu game (Meadows — thực ra đòi Root/Deer) |
 | ![BMR_SorcerersCape.png](MagicPlugin_Icons/BMR_SorcerersCape.png) | **2. Sorcerers** (Shadowleaf) | +14 ⭐ | +16 | +14 | +16 | 0.12 | BlackForest+ |
 | ![BMR_WarlocksCape.png](MagicPlugin_Icons/BMR_WarlocksCape.png) | **3. Warlocks** (Arcane Weavers) | +22 ⭐ | +24 | +22 | +24 | 0.22 | Swamp |
@@ -92,7 +92,7 @@ Cả 6 bộ craft tại **Workbench lv1**. Armor value nằm trong asset (A). M�
 ## 7. Đai (Belts)
 
 | Icon | Đai | Hiệu ứng (C) | Recipe (ArtisanTable) |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![BMP_DvergrBelt.png](MagicPlugin_Icons/BMP_DvergrBelt.png) | **Dvergrs Belt** | +1.0 (100%) eitr regen | Thunderstone×6, Amber×10, BlackMetal×12, YggdrasilWood×18 |
 | ![BMP_EitrBelt.png](MagicPlugin_Icons/BMP_EitrBelt.png) | **Wizards Belt** (Eitr Belt) | SE AddEitr **+72** eitr | Thunderstone×6, AmberPearl×10, BlackMetal×12, Eitr×18 |
 | ![BMP_ElementalistBelt.png](MagicPlugin_Icons/BMP_ElementalistBelt.png) | **Elementalist Belt** | +30 ElementalMagic skill | Thunderstone×6, Ruby×10, BlackMetal×12, ElderBark×18 |
@@ -107,7 +107,7 @@ Cả 6 bộ craft tại **Workbench lv1**. Armor value nằm trong asset (A). M�
 ### Khuyên tai (magic slot)
 
 | Icon | Earring | Hiệu ứng | Recipe (Forge lv1) |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![BMP_Dvergr_Earring.png](MagicPlugin_Icons/BMP_Dvergr_Earring.png) | Dvergr Earring | Stat từ asset (A) | BlackCore×1, Eitr×16, BlackMetal×4, Iron×4 |
 | ![BMP_Eitr_Earring.png](MagicPlugin_Icons/BMP_Eitr_Earring.png) | Eitr Earring | +48 eitr (C) | Giống Dvergr |
 | ![BMP_FireResist_Earring.png](MagicPlugin_Icons/BMP_FireResist_Earring.png) | Fire Res Earring | Very Resistant Fire | TrophySurtling×2, Ruby×2, AncientSeed×2, Iron×4 |
@@ -127,7 +127,7 @@ Cả 6 bộ craft tại **Workbench lv1**. Armor value nằm trong asset (A). M�
 ## 9. Heritage Staff (vũ khí boss)
 
 | Icon | Vũ khí | Damage (C) | AoE | Drain / CD | Recipe → upgrade |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BMP_ModersInheritence.png](MagicPlugin_Icons/BMP_ModersInheritence.png) | **Moders Heritage** (mưa băng) | Frost 120+120×skill; Chop 50; Pick 50; Pierce 40 | 5+2×skill | Eitr 100 / Stam 30; CD 15s | Forged lv1: TrophyDragonQueen×1, DragonTear×2, Silver×32, WolfFang×16 → FreezeGland×10, Silver×16, WolfFang×8 |
 | ![BMP_YagluthsInheritence.png](MagicPlugin_Icons/BMP_YagluthsInheritence.png) | **Yagluths Heritage** (mưa sao băng) | Fire 120+120×skill; Blunt 40; Chop 50; Pick 50 | 5+2×skill | Eitr 100 / Stam 30; CD 15s | Forged lv1: TrophyGoblinKing×1, Wisp×10, BlackMetal×32, ElderBark×16 → Wisp×5, BlackMetal×16, ElderBark×8 |
 
@@ -146,7 +146,7 @@ Cả 6 bộ craft tại **Workbench lv1**. Armor value nằm trong asset (A). M�
 (C) = Health summon mặc định; cooldown toàn bộ totem = 60s (5–300). Summons thuộc tính (H): started tamed, gỡ khi chủ logout >120s, +skill BloodMagic 0.5 khi gọi.
 
 | Icon | Totem | Summon | HP (C) | Yêu cầu | Bàn chế + Recipe gọn |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BMP_NeckTotem.png](MagicPlugin_Icons/BMP_NeckTotem.png) | Neck Totem | Neck (Summon) | 160 | — | WB: TrophyNeck×2, AncientSeed×4, NeckTail×8, Resin×20 |
 | ![BMP_WolfTotem.png](MagicPlugin_Icons/BMP_WolfTotem.png) | Wolf Totem | Fenring Cultist (Summon)* | 350 | BloodMagic lv20 | WB: TrophyWolf×2, YmirRemains×5, WolfPelt×22, Silver×18 |
 | ![BMP_CrystalTotem.png](MagicPlugin_Icons/BMP_CrystalTotem.png) | Crystal Totem | Armored Skeleton | 500 | — | Forge: DragonTear×2, BlackMetal×24, Silver×22, Iron×20 |
@@ -174,7 +174,7 @@ Cả 6 bộ craft tại **Workbench lv1**. Armor value nằm trong asset (A). M�
 ## 12. Thức ăn Eitr
 
 | Icon | Món | Recipe (Cauldron lv1) |
-| --- | --- | --- |
+| :---: | --- | --- |
 | ![BMP_MushroomJam.png](MagicPlugin_Icons/BMP_MushroomJam.png) | **Mushroom Jam** | MushroomYellow×8, Mushroom×4, Blueberries×4, Thistle×2 |
 | ![BMP_SautedMeatMushroom.png](MagicPlugin_Icons/BMP_SautedMeatMushroom.png) | **Sauted Meat N Mushroom** | MushroomYellow×6, DeerMeat×3, Dandelion×6, RawMeat×3 |
 | ![BMP_MushroomPie.png](MagicPlugin_Icons/BMP_MushroomPie.png) | **Mushroom Pie** | MushroomYellow×14, Mushroom×10, Blueberries×6, Raspberry×10 |

@@ -7,7 +7,7 @@ Mod **Wizardry** (Therzie) thêm hệ **pháp sư (Spellslinger)**: 6 loại **s
 **Wizard Table** (bàn chính) nâng cấp bằng Ancient Spell Book, Spell Cabinet, Ritual Circle; **Arcane Anvil** để enchant staff (Wizard Table improvement); **Potion Cauldron** pha thuốc; **Robe Weaving Loom** may giáp vải.
 
 | Icon | Tên | Chế tạo | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![WizardTable_TW.png](Wizardry_Icons/WizardTable_TW.png) | **Wizard Table** (WizardTable_TW) | [Workbench]<br>Surtling Core ×5, Bronze ×10, RoundLog ×8, Troll Hide ×4, Bone Fragments ×6 | Bàn phép thuật chính |
 | ![ArcaneAnvil_TW.png](Wizardry_Icons/ArcaneAnvil_TW.png) | **Arcane Anvil** (ArcaneAnvil_TW) | [WizardTable_TW]<br>Stone ×12, Surtling Core ×4, Elder shard ×2 | Enchant staff — Wizard Table +1 cấp |
 | ![PotionCauldron_TW.png](Wizardry_Icons/PotionCauldron_TW.png) | **Potion Cauldron** (PotionCauldron_TW) | [WizardTable_TW]<br>Iron ×8, Bronze ×4, Guck ×8, Bonemass shard ×2 | Bàn pha thuốc |
@@ -21,7 +21,7 @@ Mod **Wizardry** (Therzie) thêm hệ **pháp sư (Spellslinger)**: 6 loại **s
 6 staff theo biome: Evergrowth (Black Forest) → Underworld (Swamp) → Crystalline (Mountain) → Chaos (Plains) → Tempest (Mistlands). Dùng **Arcane scroll** cùng tên để nâng cấp sức mạnh staff. Staffbase/Staffcore là nguyên liệu chế tạo.
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![StaffBlackforest_icon 1.png](Wizardry_Icons/StaffBlackforest_icon 1.png) | **Evergrowth staff** (StaffBlackforest_TW) | ⚔️ 35+6/lvl Blunt<br>5+1/lvl Spirit<br>🛡️ Block armor 15+1/lvl<br>Block 2 · Deflection 20+5/lvl<br>Knockback 10<br>Skill: Elemental Magic<br>Eitr 10 · Range 2m · Speed 0.3× · Proj 18 m/s · Accuracy 1°<br>Alt: Eitr 26 · Range 1.5m · Speed 0.2× · Accuracy 6°<br>Weight 0.3<br>Durability 250<br>Movement -10% | Gnarly staff base ×1, Evergrowth core ×1 | Arcane scroll: 'Evergrowth' ×2 | A living weapon enchanted with Freya's magic, great for rooting your enemies to oblivion! |
 | ![staffsurtling_icon1.png](Wizardry_Icons/staffsurtling_icon1.png) | **Firestarter** (StaffSurtling_TW) | 🛡️ Block armor 15+1/lvl<br>Block 12<br>Skill: Blood Magic<br>Eitr 40 · Speed 0.3× · Accuracy 1°<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 0.3<br>Durability 200<br>Movement -5% | Surtling Core ×12, Bonemass shard ×6, Surtling Trophy ×1 | Surtling Core ×4, Arcane scroll: 'Underworld' ×2 | A wicked magic infused head to summon demonic friends with.. |
 | ![StaffSwamp_icon.png](Wizardry_Icons/StaffSwamp_icon.png) | **Underworld staff** (StaffSwamp_TW) | ⚔️ 25+1/lvl Blunt<br>60+5/lvl Poison<br>🛡️ Block armor 15+1/lvl<br>Block 14 · Deflection 20+5/lvl<br>Knockback 10<br>Skill: Elemental Magic<br>Eitr 15 · Range 2m · Speed 0.3× · Proj 15 m/s · Accuracy 10°<br>Alt: Eitr 38 · Range 1.5m · Speed 0.2× · Proj 20 m/s · Accuracy 10°<br>Weight 0.3<br>Durability 300<br>Movement -10% | Rotting staff base ×1, Underworld core ×1 | Arcane scroll: 'Underworld' ×2 | A horrific weapon enchanted with Hel's magic, great for sickening your enemies to their doom!<br>On hit: 4s · Speed -35% |
@@ -33,7 +33,7 @@ Mod **Wizardry** (Therzie) thêm hệ **pháp sư (Spellslinger)**: 6 loại **s
 ### Staff base & core (nguyên liệu)
 
 | Icon | Tên (prefab) | Chế tạo / Nguồn | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![Staffcore_BlackForest_TW.png](Wizardry_Icons/Staffcore_BlackForest_TW.png) | **Evergrowth core** (Staffcore_BlackForest_TW) | Ancient Seed ×9, Elder shard ×3 | This magic core can be enchanted into a magical staff. |
 | ![StaffbaseBlackForest_TW.png](Wizardry_Icons/StaffbaseBlackForest_TW.png) | **Gnarly staff base** (Staffbase_BlackForest_TW) | Magical infused pine wood ×10, Surtling Core ×4 | This staff base can be enchanted into a magical staff or for smacking a foe on the head! |
 | ![Staffbase_Swamp_TW.png](Wizardry_Icons/Staffbase_Swamp_TW.png) | **Rotting staff base** (Staffbase_Swamp_TW) | Magical infused ancient wood ×14, Iron ×8, Withered Bone ×6 | This staff base can be enchanted into a magical staff or for smacking a foe on the head! |
@@ -50,7 +50,7 @@ Mod **Wizardry** (Therzie) thêm hệ **pháp sư (Spellslinger)**: 6 loại **s
 5 tier theo biome: Black Forest (Novice) → Swamp (Scholar) → Mountain (Wizard) → Plains (Electromancer) → Mistlands (Magus). Mỗi tier: Hood + Jersey + Robe + Cape. Giáp cộng **Eitr regen** và set bonus khi đủ bộ.
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![HelmetSpellslingerIconPrefab_BF.png](Wizardry_Icons/HelmetSpellslingerIconPrefab_BF.png) | **Novice hood** (HelmetSpellslinger_BlackForest_TW) | 🛡️ Armor 6+2/lvl<br>Block 10<br>Weight 1<br>Durability 1000 | Novice fabric bundle ×4, Feathers ×8, Elder shard ×2 | Novice fabric bundle ×2, Feathers ×4, Elder shard ×1 | A magical hood, fit for the starting magic weaver.<br>**Set (Spellslinger, 3 pcs):** Elemental Magic +3 · Blood Magic +3<br>Eitr regen +0.06 |
 | ![SpellSlingerChestIconPrefab_BF.png](Wizardry_Icons/SpellSlingerChestIconPrefab_BF.png) | **Novice robe** (ArmorSpellSlingerChest_BlackForest_TW) | 🛡️ Armor 6+2/lvl<br>Block 10<br>Weight 10<br>Durability 1000 | Novice fabric bundle ×6, Bronze ×10, Elder shard ×2 | Novice fabric bundle ×3, Bronze ×5, Elder shard ×2 | Enchanted robes to focus the wearers mind.<br>**Set (Spellslinger, 3 pcs):** Elemental Magic +3 · Blood Magic +3<br>Eitr regen +0.12 |
 | ![ArmorSpellslingerLegs_BlackForest_TW.png](Wizardry_Icons/ArmorSpellslingerLegs_BlackForest_TW.png) | **Novice jersey** (ArmorSpellslingerLegs_BlackForest_TW) | 🛡️ Armor 6+2/lvl<br>Block 10<br>Weight 5<br>Durability 1000 | Novice fabric bundle ×4, Bone Fragments ×4, Elder shard ×2 | Novice fabric bundle ×2, Bone Fragments ×2, Elder shard ×1 | Comfy spell pants, perfect for wearing on a lazy afternoon.<br>**Set (Spellslinger, 3 pcs):** Elemental Magic +3 · Blood Magic +3<br>Eitr regen +0.12 |
@@ -70,7 +70,7 @@ Mod **Wizardry** (Therzie) thêm hệ **pháp sư (Spellslinger)**: 6 loại **s
 ### Cape
 
 | Icon | Mảnh (prefab) | Armor / Stats | Chế tạo | Nâng cấp | Set bonus / Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![CapeSpellslingerPrefabIcon_BF.png](Wizardry_Icons/CapeSpellslingerPrefabIcon_BF.png) | **Novice cape** (CapeSpellslinger_Blackforest_TW) | 🛡️ Armor 1+1/lvl<br>Block 10<br>Weight 4<br>Durability 500 | Novice fabric bundle ×4, Bone Fragments ×6, Elder shard ×2 | Novice fabric bundle ×2, Bone Fragments ×3, Elder shard ×1 | A runic cape for the long road.<br>Equipped: Eitr regen +2% |
 | ![CapeSpellslingerBlackforest_TW.png](Wizardry_Icons/CapeSpellslingerBlackforest_TW.png) | **Scholar cape** (CapeSpellslinger_Swamp_TW) | 🛡️ Armor 1+1/lvl<br>Block 10<br>Weight 4<br>Durability 500 | Scholar fabric bundle ×4, Withered Bone ×2, Bonemass shard ×3 | Scholar fabric bundle ×2, Withered Bone ×1, Bonemass shard ×1 | A runic cape for the long road.<br>Equipped: Eitr regen +3% · +100% Poison dmg |
 | ![CapeSpellslingerPrefabIcon_Mountain.png](Wizardry_Icons/CapeSpellslingerPrefabIcon_Mountain.png) | **Magus cape** (CapeSpellslinger_Mountain_TW) | 🛡️ Armor 1+1/lvl<br>Block 10<br>Weight 4<br>Durability 500 | Magus fabric bundle ×4, Wolf Fang ×4, Moder shard ×3, Silver ×1 | Magus fabric bundle ×2, Wolf Fang ×2, Moder shard ×1 | A runic cape for the long road.<br>Equipped: Eitr regen +4% · +100% Frost dmg |
@@ -82,7 +82,7 @@ Mod **Wizardry** (Therzie) thêm hệ **pháp sư (Spellslinger)**: 6 loại **s
 5 chất liệu (Bronze/Iron/Silver/Blackmetal/Carapace) × 4 biến thể enchanted (Elemental +Ma thuật, Hunter +Cung/Nỏ, Sneak +Lẻn, Stamina +Stamina). Biến thể enchanted dùng scroll tương ứng để chế.
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![HelmetCircletBronze_TW.png](Wizardry_Icons/HelmetCircletBronze_TW.png) | **Bronze circlet** (HelmetCircletBronze_TW) | 🛡️ Armor 2+1/lvl<br>Block 10<br>Weight 1<br>Durability 1000 | Bronze ×6 |  | A simple but elegant circlet forged from bronze. |
 | ![HelmetCircletBronze_Elemental_TW.png](Wizardry_Icons/HelmetCircletBronze_Elemental_TW.png) | **Enchanted bronze circlet: Elemental** (HelmetCircletBronze_Elemental_TW) | 🛡️ Armor 6+2/lvl<br>Block 10<br>Weight 1<br>Durability 1000 | Bronze circlet ×1, Ruby ×1, Elder shard ×3, Surtling Core ×2 | Bronze ×4, Elder shard ×1 | Magically enchanted bronze circlet that increases it's wearer's elemental skill.<br>Equipped: Elemental Magic +4 |
 | ![HelmetCircletBronze_Hunter_TW.png](Wizardry_Icons/HelmetCircletBronze_Hunter_TW.png) | **Enchanted bronze circlet: Hunter** (HelmetCircletBronze_Hunter_TW) | 🛡️ Armor 6+2/lvl<br>Block 10<br>Weight 1<br>Durability 1000 | Bronze circlet ×1, Ruby ×1, Elder shard ×3, Bone Fragments ×6 | Bronze ×4, Elder shard ×1 | Magically enchanted bronze circlet that increases it's wearer's bow and crossbow skill.<br>Equipped: Bows +3 · Crossbows +3 |
@@ -112,7 +112,7 @@ Mod **Wizardry** (Therzie) thêm hệ **pháp sư (Spellslinger)**: 6 loại **s
 ## 💍 5. Nhẫn Ma Thuật
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![RingBlackForest_TW.png](Wizardry_Icons/RingBlackForest_TW.png) | **Magical bronze ring** (RingBlackForest_TW) |  | Elder shard ×4, Bronze ×4, Ruby ×2 |  | An enchanted ring that gives it's wearer +5 skill in sneaking.<br>Equipped: Sneak +5 |
 | ![RingSwamp_TW.png](Wizardry_Icons/RingSwamp_TW.png) | **Magical iron ring** (RingSwamp_TW) |  | Bonemass shard ×4, Iron ×4, Withered Bone ×2 |  | An enchanted ring that gives it's wearer +3 skill in elemental magic.<br>Equipped: Elemental Magic +3 |
 | ![RingMountain_TW.png](Wizardry_Icons/RingMountain_TW.png) | **Magical silver ring** (RingMountain_TW) |  | Moder shard ×4, Silver ×4, Wolf Claw ×2 |  | An enchanted ring that gives it's wearer 4% increased eitr regeneration.<br>Equipped: Eitr regen +4% |
@@ -124,7 +124,7 @@ Mod **Wizardry** (Therzie) thêm hệ **pháp sư (Spellslinger)**: 6 loại **s
 Potion craft tại **Potion Cauldron**; mead eitr tại Cauldron.
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![PotionRejuvenationMedium_TW.png](Wizardry_Icons/PotionRejuvenationMedium_TW.png) | **Medium rejuvenation potion** (PotionRejuvenationMedium_TW) | Weight 1 | Yagluth shard ×2, MeadHealthMedium ×2, MeadStaminaMedium ×2, Medium eitr mead ×2 |  | That kicks like a Lox!<br>On use: 480s · +70 HP (4s) · +63 Stamina (4s) · +90 Eitr (4s) |
 | ![PotionMiner_TW.png](Wizardry_Icons/PotionMiner_TW.png) | **Miner potion** (PotionMiner_TW) | Weight 1 | Bonemass shard ×2, Deathcap ×4, Bone Fragments ×6, Blueberries ×6 |  | A treasure hunter's favorite soft drink.<br>On use: 600s · Pickaxes +10 |
 | ![PotionMinorRejuvenation_TW.png](Wizardry_Icons/PotionMinorRejuvenation_TW.png) | **Minor rejuvenation potion** (PotionRejuvenationMinor_TW) | Weight 1 | Bonemass shard ×2, MeadHealthMinor ×2, MeadStaminaMinor ×2, Small eitr mead ×2 |  | That kicks like a Abomination!<br>On use: 480s · +32 HP (4s) · +28 Stamina (4s) · +55 Eitr (4s) |
@@ -141,7 +141,7 @@ Potion craft tại **Potion Cauldron**; mead eitr tại Cauldron.
 | ![MeadEitrMountain_TW.png](Wizardry_Icons/MeadEitrMountain_TW.png) | **Medium eitr mead** (MeadEitrMountain_TW) | Weight 1 |  |  | On use: 120s · +85 Eitr (8s) |
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BerryCandyBlackForest_TW.png](Wizardry_Icons/BerryCandyBlackForest_TW.png) | **Honey glazed eitr berry** (BerryCandyBlackForest_TW) | Weight 0.3 | Witch eye ×2, Blueberries ×4, Honey ×6 |  | Eating that is gonna cost you your tooth enamel..<br>Food: +17 HP (1500s)<br>+19 Stamina<br>+19 Eitr |
 | ![UncookedBerryCakePlains_TW.png](Wizardry_Icons/UncookedBerryCakePlains_TW.png) | **Uncooked berry cake** (UncookedBerryCakePlains_TW) | Weight 0.3 | Cloudberry ×8, Devil's tongue ×4, Honey ×8, Barley Flour ×4 |  | Filled with berries and Devil's tongue mushrooms, bake it in the oven. |
 | ![ShroomSoupBlackForest_TW.png](Wizardry_Icons/ShroomSoupBlackForest_TW.png) | **Witcheye soup** (ShroomSoupBlackForest_TW) | Weight 0.3 | Witch eye ×3, Mushroom ×4, Raw Meat ×2 |  | A simple yet delicious eitr soup, made with Witcheye mushrooms.<br>Food: +25 HP (1500s)<br>+21 Stamina<br>+10 Eitr |
@@ -157,7 +157,7 @@ Potion craft tại **Potion Cauldron**; mead eitr tại Cauldron.
 Scroll nâng cấp staff theo biome (Evergrowth/Underworld/Cleansing/Hellfire/Storm) và scroll buff (Destruction/Gust/Frog/Feather light).
 
 | Icon | Tên (prefab) | Chế tạo / Nguồn | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![ArcaneScroll_ElementalDamage_TW.png](Wizardry_Icons/ArcaneScroll_ElementalDamage_TW.png) | **Arcane scroll: 'Destruction'** (ArcaneScroll_DamageBuff_TW) | Arcane scroll: 'Underworld' ×1, Arcane scroll: 'Hellfire' ×1 | A powerful upgrade spell bound in a magic scroll, this can be used to upgrade your staff.<br>On use: 900s |
 | ![ArcaneScroll_JumpBuff_TW.png](Wizardry_Icons/ArcaneScroll_JumpBuff_TW.png) | **Arcane scroll: 'Frog'** (ArcaneScroll_JumpBuff_TW) | Arcane scroll: 'Underworld' ×1, Ooze ×6 | A powerful upgrade spell bound in a magic scroll, this can be used to upgrade your staff.<br>On use: 900s |
 | ![ArcaneScroll_SlowfallBuff_TW.png](Wizardry_Icons/ArcaneScroll_SlowfallBuff_TW.png) | **Arcane scroll: 'Feather light'** (ArcaneScroll_SlowfallBuff_TW) | Arcane scroll: 'Cleansing' ×1, Wolf Claw ×2, Surtling Core ×2 | A powerful upgrade spell bound in a magic scroll, this can be used to upgrade your staff.<br>On use: 600s · Fall damage --100% |
@@ -171,7 +171,7 @@ Scroll nâng cấp staff theo biome (Evergrowth/Underworld/Cleansing/Hellfire/St
 ## 🧵 8. Nguyên Liệu
 
 | Icon | Tên (prefab) | Chế tạo / Nguồn | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![ShardBonemass_TW.png](Wizardry_Icons/ShardBonemass_TW.png) | **Bonemass shard** (ShardBonemass_TW) |  | The shard oozes with vicious undead energy.. |
 | ![WoolYarn_Brown_TW.png](Wizardry_Icons/WoolYarn_Brown_TW.png) | **Brown yarn** (WoolYarn_Brown_TW) | Wool ×4 |  |
 | ![TrophySheep_TW.png](Wizardry_Icons/TrophySheep_TW.png) | **Darkhorn sheep trophy** (TrophySheep_TW) |  | You still have that empty spot on your living room wall that needs decorating.. |

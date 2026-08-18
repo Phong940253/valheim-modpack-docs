@@ -7,7 +7,7 @@ Mod **Warfare** (Therzie, GUID `Therzie.Warfare`) bổ sung **107 vũ khí, 8 kh
 **Fletcher table** là bàn chính cho cung/nỏ/đạn — tối đa **cấp 5** nhờ 4 mảnh mở rộng (Bow rack, Target dummy, Bow vise, Wood lathe), mỗi mảnh +1 cấp. **Black anvil** & **Eitr-infused sharpening stone** là mảnh mở rộng của Black Forge (mở vũ khí cấp cao).
 
 | Icon | Tên | Chế tạo | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![FletcherTable_TW.png](Warfare_Icons/FletcherTable_TW.png) | **Fletcher table** (FletcherTable_TW) | [Workbench]<br>Feathers ×6, RoundLog ×10, Leather Scraps ×6, Deer Hide ×4 | Bàn cung/nỏ/đạn |
 | ![FletcherTable_ext_1088 666_TW.png](Warfare_Icons/FletcherTable_ext_1088 666_TW.png) | **Bow rack** (FletcherTable_ext1_TW) | [FletcherTable_TW]<br>Bronze ×4, Fine Wood ×12, Bronze Nails ×20, Deer Hide ×4 | Fletcher table +1 cấp |
 | ![FletcherTable_ext_1090 666_TW.png](Warfare_Icons/FletcherTable_ext_1090 666_TW.png) | **Target dummy** (FletcherTable_ext2_TW) | [FletcherTable_TW]<br>Bronze Nails ×20, RoundLog ×8, Troll Hide ×10, Troll Bone ×2 | Fletcher table +1 cấp |
@@ -21,7 +21,7 @@ Mod **Warfare** (Therzie, GUID `Therzie.Warfare`) bổ sung **107 vũ khí, 8 kh
 Nguyên liệu mới dùng cho vũ khí/giáp của bộ Therzie mods (Warfare + Armory). **Đá quý** mua từ thương nhân (Haldor/Hildir): Onyx 30 vàng, Diamond 45, Emerald 60, Amethyst 80, Sapphire 100, Topaz 100. **Runes** hiện chưa được dùng (UNUSED theo README).
 
 | Icon | Tên (prefab) | Chế tạo / Nguồn | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![Onyx_TW.png](Warfare_Icons/Onyx_TW.png) | **Onyx** (Onyx_TW) |  | A valuable gem stone, the trader will pay a pretty price for this. |
 | ![Topaz_TW.png](Warfare_Icons/Topaz_TW.png) | **Topaz** (Topaz_TW) |  | A valuable gem stone, the trader will pay a pretty price for this. |
 | ![Sapphire_TW.png](Warfare_Icons/Sapphire_TW.png) | **Sapphire** (Sapphire_TW) |  | A valuable gem stone, the trader will pay a pretty price for this. |
@@ -41,7 +41,7 @@ Nguyên liệu mới dùng cho vũ khí/giáp của bộ Therzie mods (Warfare +
 | ![mannazrune_icon.png](Warfare_Icons/mannazrune_icon.png) | **Mannaz rune** (RuneMannaz_TW) |  | A magical rune, used for enchanting powerful keys. |
 
 | Icon | Tên (prefab) | Chế tạo / Nguồn | Ghi chú |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![AncientArtifact_TW.png](Warfare_Icons/AncientArtifact_TW.png) | **Ancient Artifact** (AncientArtifact_TW) |  | Rare ancient artifact, the trader might be interested in this! |
 | ![AncientScroll_TW.png](Warfare_Icons/AncientScroll_TW.png) | **Ancient Scroll** (AncientScroll_TW) |  | An ancient scroll that's said to increase ones skill in the ways of magic. |
 | ![blackbearpelt_icon.png](Warfare_Icons/blackbearpelt_icon.png) | **Black Bear Pelt** (BlackBearPelt_TW) |  | A thick black pelt of a black bear. |
@@ -66,7 +66,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.1 Kiếm 1 Tay (Sword)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![SwordChitin_TW.png](Warfare_Icons/SwordChitin_TW.png) | **Abyssal Sword** (SwordChitin_TW) | ⚔️ 45+6/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 17 · Deflection 20+5/lvl<br>Knockback 40<br>Backstab ×3<br>Skill: Swords<br>Stamina 9 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 18 · Range 2.4m · Speed 0.2×<br>Weight 0.8<br>Durability 150<br>Movement -5% | Chitin ×20, Bronze ×12, Elder Bark ×8 | Chitin ×10, Bronze ×6, Elder Bark ×4 | A sharp chitin sword to stab your enemies with. |
 | ![SwordBone_TW.png](Warfare_Icons/SwordBone_TW.png) | **Bone Sword** (SwordBone_TW) | ⚔️ 7+2/lvl Blunt<br>28+4/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 12 · Deflection 20+5/lvl<br>Knockback 40<br>Backstab ×3<br>Skill: Swords<br>Stamina 8 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 16 · Range 2.4m · Speed 0.2×<br>Weight 0.8<br>Durability 150<br>Movement -5% | Bone Fragments ×10, RoundLog ×8, Tin ×8 | Bone Fragments ×5, RoundLog ×4, Tin ×4 | A sharp bone sword to stab your enemies with. |
 | ![SwordFlint_TW.png](Warfare_Icons/SwordFlint_TW.png) | **Flint Sword** (SwordFlint_TW) | ⚔️ 15+6/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 3 · Deflection 20+5/lvl<br>Knockback 40<br>Backstab ×3<br>Skill: Swords<br>Stamina 6 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 12 · Range 2.4m · Speed 0.2×<br>Weight 0.8<br>Durability 150<br>Movement -5% | Flint ×8, Wood ×6, Greydwarf Eye ×1, Leather Scraps ×2 | Flint ×4, Wood ×3 | A sharp flint sword to stab your enemies with. |
@@ -76,7 +76,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.2 Bastard Sword (Kiếm 2 Tay)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BastardChitin_TW.png](Warfare_Icons/BastardChitin_TW.png) | **Abyssal Bastard Sword** (BastardChitin_TW) | ⚔️ 56+6/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 22 · Deflection 50+10/lvl<br>Knockback 55<br>Backstab ×3<br>Skill: Swords<br>Stamina 13 · Range 2.6m · Speed 0.3×<br>Alt: Stamina 26 · Range 3m · Speed 0.2×<br>Weight 4<br>Durability 150<br>Movement -5% | Elder Bark ×14, Chitin ×30, Bronze ×12 | Elder Bark ×7, Chitin ×15, Bronze ×6 | A savage sword made of chitin. Used to slash and decapitate your enemies with. |
 | ![BastardBone_TW.png](Warfare_Icons/BastardBone_TW.png) | **Bone Bastard Sword** (BastardBone_TW) | ⚔️ 30+2/lvl Blunt<br>16+4/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 16 · Deflection 50+10/lvl<br>Knockback 55<br>Backstab ×3<br>Skill: Swords<br>Stamina 10 · Range 2.6m · Speed 0.3×<br>Alt: Stamina 20 · Range 3m · Speed 0.2×<br>Weight 4<br>Durability 150<br>Movement -5% | Bone Fragments ×14, Copper ×8, Skeleton Trophy ×1 | Bone Fragments ×7, Copper ×4 | A huge sword made of bone. Used to slash and decapitate your enemies with. |
 | ![BastardFlint_TW.png](Warfare_Icons/BastardFlint_TW.png) | **Flint Bastard Sword** (BastardFlint_TW) | ⚔️ 26+4/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 4 · Deflection 50+10/lvl<br>Knockback 55<br>Backstab ×3<br>Skill: Swords<br>Stamina 8 · Range 2.6m · Speed 0.3×<br>Alt: Stamina 18 · Range 3m · Speed 0.2×<br>Weight 4<br>Durability 150<br>Movement -5% | Flint ×12, RoundLog ×6, Greydwarf Eye ×1, Leather Scraps ×2 | Flint ×6, RoundLog ×3 | A heavy sword made of flint. Used to slash and decapitate your enemies with. |
@@ -88,7 +88,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.3 Claymore (Đại Kiếm)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ClaymoreChitin_TW.png](Warfare_Icons/ClaymoreChitin_TW.png) | **Abyssal Claymore** (ClaymoreChitin_TW) | ⚔️ 56+6/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 22 · Deflection 50+10/lvl<br>Knockback 55<br>Backstab ×3<br>Skill: Swords<br>Stamina 13 · Range 2.6m · Speed 0.3×<br>Alt: Stamina 26 · Range 3m · Speed 0.2×<br>Weight 4<br>Durability 150<br>Movement -5% | Chitin ×30, Bronze ×16, Elder Bark ×16 | Chitin ×15, Bronze ×8, Elder Bark ×8 | A savage claymore made out of chitin. Used to slash your enemies in half with. |
 | ![ClaymoreBone_TW.png](Warfare_Icons/ClaymoreBone_TW.png) | **Bone Claymore** (ClaymoreBone_TW) | ⚔️ 30+2/lvl Blunt<br>15+4/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 16 · Deflection 50+10/lvl<br>Knockback 55<br>Backstab ×3<br>Skill: Swords<br>Stamina 10 · Range 2.6m · Speed 0.3×<br>Alt: Stamina 20 · Range 3m · Speed 0.3×<br>Weight 4<br>Durability 150<br>Movement -5% | Bone Fragments ×14, Copper ×8, Skeleton Trophy ×1 | Bone Fragments ×7, Copper ×4 | A huge claymore made out of bone. Used to slash your enemies in half with. |
 | ![ClaymoreBronze_TW.png](Warfare_Icons/ClaymoreBronze_TW.png) | **Bronze Claymore** (ClaymoreBronze_TW) | ⚔️ 46+6/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 16 · Deflection 50+10/lvl<br>Knockback 55<br>Backstab ×3<br>Skill: Swords<br>Stamina 12 · Range 2.6m · Speed 0.3×<br>Alt: Stamina 24 · Range 3m · Speed 0.2×<br>Weight 4<br>Durability 150<br>Movement -5% | RoundLog ×10, Bronze ×12, Greydwarf Brute Trophy ×1 | RoundLog ×5, Bronze ×6 | A sharp claymore made out of bronze. Used to slash your enemies in half with. |
@@ -100,14 +100,14 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.4 Kiếm Đôi (Dual Sword)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![DualSwordSkadi_icon.png](Warfare_Icons/DualSwordSkadi_icon.png) | **Blackmetal Scimitar Swords** (DualSwordScimitar_TW1) | ⚔️ 105+3/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 66 · Deflection 40+5/lvl<br>Knockback 40<br>Backstab ×3<br>Skill: Swords<br>Stamina 16 · Range 2.2m · Speed 0.3×<br>Alt: Stamina 48 · Range 1.8m · Speed 0.2×<br>Weight 0.3<br>Durability 200 | Fine Wood ×20, Black Metal ×40, Linen Thread ×15, Fuling Shaman Trophy ×1 | Fine Wood ×10, Black Metal ×20, Linen Thread ×8 | A sharp pair of blackmetal scimitar swords to make quick work of your enemies with. |
 | ![DualSwordScimitar_TW1.png](Warfare_Icons/DualSwordScimitar_TW1.png) | **Blackmetal Scimitar Swords** (DualSwordScimitar_TW) | ⚔️ 105+3/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 48 · Deflection 40+5/lvl<br>Knockback 40<br>Backstab ×3<br>Skill: Swords<br>Stamina 16 · Range 2.2m · Speed 0.3×<br>Alt: Stamina 48 · Range 1.8m · Speed 0.2×<br>Weight 0.3<br>Durability 200 | Fine Wood ×20, Black Metal ×40, Linen Thread ×15, Fuling Shaman Trophy ×1 | Fine Wood ×10, Black Metal ×20, Linen Thread ×8 | A sharp pair of blackmetal scimitar swords to make quick work of your enemies with. |
 
 ### 3.5 Dao Găm (Knife)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![KnifeBronze_icon_TW.png](Warfare_Icons/KnifeBronze_icon_TW.png) | **Bronze Knife** (KnifeBronze_TW) | ⚔️ 16+1/lvl Slash<br>16+1/lvl Pierce<br>🛡️ Block armor 20+1/lvl<br>Block 2 · Deflection 10+5/lvl<br>Knockback 10<br>Backstab ×6<br>Skill: Knives<br>Stamina 7 · Range 1.8m · Speed 0.3×<br>Alt: Stamina 20 · Range 1.8m<br>Weight 0.3<br>Durability 200 | Bone Fragments ×5, Bronze ×10, TrophyGreydwarfShaman ×1 | Bone Fragments ×3, Bronze ×5 | A sharp bronze knife used to stab your enemies with. |
 | ![KnifeViper_TW.png](Warfare_Icons/KnifeViper_TW.png) | **Viper** (KnifeViper_TW) ⭐ Rớt 6% từ Asmodeus (Monstrum) | ⚔️ 13+1/lvl Slash<br>13+1/lvl Pierce<br>5 Poison<br>🛡️ Block armor 20+1/lvl<br>Block 2 · Deflection 10+5/lvl<br>Knockback 10<br>Backstab ×6<br>Skill: Knives<br>Stamina 6 · Range 1.8m · Speed 0.3×<br>Alt: Stamina 18 · Range 1.8m<br>Weight 0.3<br>Durability 200 | Bronze ×22, Hard Antler ×12, Surtling Core ×4, TrophyGreydwarfShaman ×1 | Bronze ×11, Hard Antler ×6, Surtling Core ×2, TrophyGreydwarfShaman ×1 | A magical knife imbued with the Viper lord's venom. Used to stab and poison your enemies with. |
 | ![KnifeIron_TW.png](Warfare_Icons/KnifeIron_TW.png) | **Iron Knife** (KnifeIron_TW) | ⚔️ 22+1/lvl Slash<br>22+1/lvl Pierce<br>🛡️ Block armor 20+1/lvl<br>Block 2 · Deflection 10+5/lvl<br>Knockback 10<br>Backstab ×6<br>Skill: Knives<br>Stamina 8 · Range 1.8m · Speed 0.3×<br>Alt: Stamina 24 · Range 1.8m<br>Weight 0.3<br>Durability 200 | Elder Bark ×12, Iron ×20, Leech Trophy ×1 | Elder Bark ×6, Iron ×10 | A sharp iron knife used to stab your enemies with. |
@@ -116,7 +116,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.6 Dao Đôi (Dual Knife / Daggers)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![DualKnifeBone_TW.png](Warfare_Icons/DualKnifeBone_TW.png) | **Bone Daggers** (DualKnifeBone_TW) | ⚔️ 12+1/lvl Slash<br>12+1/lvl Pierce<br>🛡️ Block armor 20+1/lvl<br>Block 4 · Deflection 10+5/lvl<br>Knockback 10<br>Backstab ×6<br>Skill: Knives<br>Tool tier 1<br>Stamina 6 · Range 1.8m · Speed 0.3×<br>Alt: Stamina 20 · Range 1.8m<br>Weight 0.3<br>Durability 200 | Bone Fragments ×8, Copper ×10, Wood ×6 | Bone Fragments ×2, Copper ×3 | A sharp pair of bone daggers to slice your enemies with! |
 | ![DualKnifeChitin_TW.png](Warfare_Icons/DualKnifeChitin_TW.png) | **Chitin Daggers** (DualKnifeChitin_TW) | ⚔️ 18+1/lvl Slash<br>18+1/lvl Pierce<br>🛡️ Block armor 20+1/lvl<br>Block 8 · Deflection 10+5/lvl<br>Knockback 10<br>Backstab ×6<br>Skill: Knives<br>Tool tier 1<br>Stamina 7 · Range 1.8m · Speed 0.3×<br>Alt: Stamina 24 · Range 1.8m<br>Weight 0.3<br>Durability 200 | Elder Bark ×10, Chitin ×25, Bronze ×8 | Elder Bark ×4, Chitin ×12, Bronze ×4 | A sharp pair of chitin daggers to slice your enemies with! |
 | ![DualKnifeIron_TW.png](Warfare_Icons/DualKnifeIron_TW.png) | **Iron Daggers** (DualKnifeIron_TW) | ⚔️ 22+1/lvl Slash<br>22+1/lvl Pierce<br>🛡️ Block armor 20+1/lvl<br>Block 12 · Deflection 10+5/lvl<br>Knockback 10<br>Backstab ×6<br>Skill: Knives<br>Tool tier 2<br>Stamina 8 · Range 1.8m · Speed 0.3×<br>Alt: Stamina 28 · Range 1.8m<br>Weight 0.3<br>Durability 200 | Root ×8, Iron ×20, Draugr Elite Trophy ×1 | Root ×4, Iron ×10 | A sharp pair of iron daggers to slice your enemies with! |
@@ -127,14 +127,14 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.7 Liềm (Scythe)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ScytheVampiric_TW.png](Warfare_Icons/ScytheVampiric_TW.png) | **Blood Drinker** (ScytheVampiric_TW) ⭐ Rớt 6% từ Vrykolathas (Monstrum) | ⚔️ 42+4/lvl Slash<br>42+4/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 40 · Deflection 40+5/lvl<br>Knockback 30<br>Backstab ×3<br>Skill: Polearms<br>Stamina 16 · Range 3.2m · Speed 0.2×<br>Alt: Stamina 46 · Range 3m · Speed 0.2×<br>Weight 2.5<br>Durability 300<br>Movement -5% | Iron ×40, Withered Bone ×18, Blood Bag ×16, Bonemass Trophy ×1 | Iron ×20, Withered Bone ×9, Blood Bag ×8, Bonemass Trophy ×1 | A cursed ancient weapon forged by evil that does not sleep. |
 | ![DualScytheBloodthirst_TW1.png](Warfare_Icons/DualScytheBloodthirst_TW1.png) | **Blood Thirster** (DualScytheBloodthirst_TW) ⭐ Rớt 6% từ Vrykolathas (Monstrum) | ⚔️ 62+5/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 28 · Deflection 40+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Polearms<br>Tool tier 3<br>Stamina 14 · Range 2.2m · Speed 0.3×<br>Alt: Stamina 38 · Range 2.2m · Speed 0.3×<br>Weight 0.3<br>Durability 300 | Iron ×40, Rotten Pelt ×20, Blood Bag ×20, Bonemass Trophy ×1 | Iron ×20, Rotten Pelt ×10, Blood Bag ×10, Bonemass Trophy ×1 | Cursed ancient weapons forged by evil that hungers for blood. |
 
 ### 3.8 Rìu (Axe)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![AxeSilver_TW.png](Warfare_Icons/AxeSilver_TW.png) | **Silver Axe** (AxeSilver_TW) | ⚔️ 80+5/lvl Slash<br>60+3/lvl Chop<br>30 Spirit<br>🛡️ Block armor 20+1/lvl<br>Block 30 · Deflection 20+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Axes<br>Tool tier 3<br>Stamina 12 · Range 2.2m · Speed 0.2×<br>Alt: Stamina 24 · Range 2.2m · Speed 0.2×<br>Weight 2<br>Durability 175<br>Movement -5% | Elder Bark ×12, Silver ×25, Wolf Fang ×6, Wolf Trophy ×1 | Elder Bark ×6, Silver ×12, Wolf Fang ×3 | An axe made out of pure silver, that'll lift some spirits! |
 | ![axedvergr_icon.png](Warfare_Icons/axedvergr_icon.png) | **Dwarven Axe** (AxeDvergr_TW) | ⚔️ 105+5/lvl Slash<br>70+3/lvl Chop<br>12 Lightning<br>🛡️ Block armor 20+1/lvl<br>Block 48 · Deflection 20+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Axes<br>Tool tier 5<br>Stamina 16 · Range 2.2m · Speed 0.2×<br>Alt: Stamina 32 · Range 2.2m · Speed 0.2×<br>Weight 2<br>Durability 300<br>Movement -5% | Yggdrasil Wood ×20, Eitr ×12, Venomous Fang ×10, Tick Trophy ×1 | Yggdrasil Wood ×10, Eitr ×4, Venomous Fang ×5 | A dwarven axe infused with eitr. Used to chop and shock your enemies with. |
 | ![AxeFlametal_TW.png](Warfare_Icons/AxeFlametal_TW.png) | **Flametal Axe** (AxeFlametal_TW) | ⚔️ 140+5/lvl Slash<br>80+3/lvl Chop<br>🛡️ Block armor 20+1/lvl<br>Block 58 · Deflection 20+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Axes<br>Tool tier 6<br>Stamina 18 · Range 2.2m · Speed 0.2×<br>Alt: Stamina 36 · Range 2.2m · Speed 0.2×<br>Weight 2<br>Durability 300<br>Movement -5% | Blackwood ×16, Flametal ×14, Bonemaw Serpent Tooth ×4, Bonemaw Serpent Trophy ×1 | Blackwood ×8, Flametal ×7, Bonemaw Serpent Tooth ×2, Bonemaw Serpent Trophy ×1 | A flametal axe. Used to chop a tree or your enemies. |
@@ -142,7 +142,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.9 Rìu Chiến (Battleaxe)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BattleaxeFlint_TW.png](Warfare_Icons/BattleaxeFlint_TW.png) | **Flint Battleaxe** (BattleaxeFlint_TW) | ⚔️ 30+6/lvl Slash<br>20+2.5/lvl Chop<br>🛡️ Block armor 15+1/lvl<br>Block 16 · Deflection 70+5/lvl<br>Knockback 35<br>Backstab ×3<br>Skill: Axes<br>Tool tier 1<br>Stamina 12 · Range 2.5m · Speed 0.1×<br>Alt: Stamina 16 · Range 2.5m · Speed 0.2×<br>Weight 2.5<br>Durability 150<br>Movement -10% | Flint ×10, Wood ×15, Leather Scraps ×2 | Flint ×6, Wood ×8, Leather Scraps ×2 | A battleaxe made of flint used to chop your enemies or trees with. |
 | ![BattleaxeBronze_TW.png](Warfare_Icons/BattleaxeBronze_TW.png) | **Bronze Battleaxe** (BattleaxeBronze_TW) | ⚔️ 50+6/lvl Slash<br>30+2.5/lvl Chop<br>🛡️ Block armor 15+1/lvl<br>Block 16 · Deflection 70+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Axes<br>Tool tier 2<br>Stamina 14 · Range 2.5m · Speed 0.1×<br>Alt: Stamina 20 · Range 2.5m · Speed 0.2×<br>Weight 2.5<br>Durability 150<br>Movement -10% | RoundLog ×16, Bronze ×12, Greydwarf Brute Trophy ×1 | RoundLog ×8, Bronze ×6 | A battleaxe made of bronze used to chop your enemies or trees with. |
 | ![BattleaxeIron_TW.png](Warfare_Icons/BattleaxeIron_TW.png) | **Iron battleaxe** (BattleaxeIron_TW) | ⚔️ 70+6/lvl Slash<br>40+2.5/lvl Chop<br>🛡️ Block armor 15+1/lvl<br>Block 28 · Deflection 70+5/lvl<br>Knockback 70<br>Backstab ×3<br>Skill: Axes<br>Tool tier 3<br>Stamina 16 · Range 2.5m · Speed 0.1×<br>Alt: Stamina 24 · Range 2.5m · Speed 0.2×<br>Weight 2.5<br>Durability 200<br>Movement -10% | Elder Bark ×15, Iron ×25, Draugr Elite Trophy ×1 | Elder Bark ×8, Iron ×12 | A battleaxe made of iron used to chop your enemies or trees with. |
@@ -157,7 +157,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.10 Rìu Ném (Throwing Axe)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ThrowAxeFlint_icon.png](Warfare_Icons/ThrowAxeFlint_icon.png) | **Flint Throwing Axe** (ThrowAxeFlint_TW) | ⚔️ 10 Slash<br>10 Chop<br>🛡️ Block armor 1+1/lvl<br>Block 1<br>Knockback 8<br>Backstab ×3<br>Skill: Axes<br>Stamina 8 · Range 1m · Speed 0.3× · Proj 18 m/s<br>Alt: Stamina 20 · Range 1.5m · Speed 0.5× · Proj 21 m/s<br>Weight 0.1<br>Durability 1<br>Movement -5% | Wood ×8, Flint ×2 |  | An alternative flint axe, can be thrown at your enemies to split a skull or two! |
 | ![ThrowAxeBronze_projectile_TW1.png](Warfare_Icons/ThrowAxeBronze_projectile_TW1.png) | **Bronze Throwing Axe** (ThrowAxeBronze_TW) | ⚔️ 20 Slash<br>20 Chop<br>🛡️ Block armor 1+1/lvl<br>Block 1<br>Knockback 10<br>Backstab ×3<br>Skill: Axes<br>Tool tier 1<br>Stamina 10 · Range 1m · Speed 0.3× · Proj 19 m/s<br>Alt: Stamina 24 · Range 1.5m · Speed 0.5× · Proj 23 m/s<br>Weight 0.1<br>Durability 1<br>Movement -5% | RoundLog ×8, Bronze ×2 |  | An alternative bronze axe, can be thrown at your enemies to split a skull or two! |
 | ![ThrowAxeIron_projectile_TW1.png](Warfare_Icons/ThrowAxeIron_projectile_TW1.png) | **Iron Throwing Axe** (ThrowAxeIron_TW) | ⚔️ 30 Slash<br>30 Chop<br>🛡️ Block armor 1+1/lvl<br>Block 1<br>Knockback 12<br>Backstab ×3<br>Skill: Axes<br>Tool tier 2<br>Stamina 12 · Range 1m · Speed 0.3× · Proj 20 m/s<br>Alt: Stamina 28 · Range 1.5m · Speed 0.5× · Proj 24 m/s<br>Weight 0.1<br>Durability 1<br>Movement -5% | Elder Bark ×8, Iron ×3 |  | An alternative iron axe, can be thrown at your enemies to split a skull or two! |
@@ -168,7 +168,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.11 Chùy · Mace · Cudgel
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![MaceFlint_TW.png](Warfare_Icons/MaceFlint_TW.png) | **Flint Mace** (MaceFlint_TW) | ⚔️ 20+6/lvl Blunt<br>🛡️ Block armor 20+1/lvl<br>Block 3 · Deflection 20+5/lvl<br>Knockback 70<br>Backstab ×3<br>Skill: Clubs<br>Stamina 6 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 12 · Range 2.5m · Speed 0.2×<br>Weight 2<br>Durability 100<br>Movement -5% | Wood ×6, Flint ×8 | Wood ×3, Flint ×4, Leather Scraps ×2 | A flint mace to smash your enemies with. |
 | ![greatclub_icon.png](Warfare_Icons/greatclub_icon.png) | **Giant Club** (GreatClub_TW) | ⚔️ 20+6/lvl Blunt<br>🛡️ Block armor 20+1/lvl<br>Block 8 · Deflection 40+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Clubs<br>Stamina 12 · Range 2.7m · Speed 0.1×<br>Alt: Stamina 20 · Range 2.7m · Speed 0.1×<br>Weight 4<br>Durability 150<br>Movement -10% | Wood ×20 | Wood ×10 | A heavy club to smash your enemies with. |
 | ![MaceChitin_TW.png](Warfare_Icons/MaceChitin_TW.png) | **Abyssal Hammer** (MaceChitin_TW) | ⚔️ 30+6/lvl Blunt<br>15 Pierce<br>🛡️ Block armor 20+1/lvl<br>Block 18 · Deflection 20+5/lvl<br>Knockback 70<br>Backstab ×3<br>Skill: Clubs<br>Stamina 9 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 18 · Range 2.5m · Speed 0.2×<br>Weight 2<br>Durability 200<br>Movement -5% | Elder Bark ×10, Chitin ×20, Bronze ×8 | Elder Bark ×5, Chitin ×10, Bronze ×4 | A brutal hammer made of chitin to smash your enemies with. |
@@ -179,7 +179,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.12 Sledge · Battlehammer
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![SledgeStagbreaker.png](Warfare_Icons/SledgeStagbreaker.png) | **SledgeStagbreaker_TW** (SledgeStagbreaker_TW) ⭐ Rớt 7% từ Eikthyr | ⚔️ 20+6/lvl Blunt<br>5 Lightning<br>🛡️ Block armor 20+1/lvl<br>Block 4 · Deflection 50+10/lvl<br>Knockback 40<br>Backstab ×2<br>Skill: Clubs<br>Stamina 12 · Range 2.5m · Speed 0.3×<br>Alt: Stamina 12 · Range 2m · Speed 0.3×<br>Weight 4<br>Durability 100<br>Movement -15% |  |  |  |
 | ![SledgeBronze_TW.png](Warfare_Icons/SledgeBronze_TW.png) | **Bronze Sledgehammer** (SledgeBronze_TW) | ⚔️ 45+6/lvl Blunt<br>🛡️ Block armor 20+1/lvl<br>Block 16 · Deflection 50+10/lvl<br>Knockback 40<br>Backstab ×2<br>Skill: Clubs<br>Stamina 14 · Range 2.5m · Speed 0.3×<br>Alt: Stamina 16 · Range 2m · Speed 0.3×<br>Weight 4<br>Durability 100<br>Movement -15% | RoundLog ×10, Bronze ×12, Greydwarf Brute Trophy ×1 | RoundLog ×5, Bronze ×6 | A glimmering sledgehammmer made of bronze used to crush your enemies. |
 | ![BattlehammerElder_TW.png](Warfare_Icons/BattlehammerElder_TW.png) | **Cranium Basher** (BattlehammerElder_TW) ⭐ Rớt 4% từ Elder | ⚔️ 52+6/lvl Blunt<br>10+1/lvl Spirit<br>🛡️ Block armor 20+1/lvl<br>Block 28 · Deflection 70+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Clubs<br>Stamina 14 · Range 2.5m · Speed 0.3×<br>Alt: Stamina 22 · Range 2.5m · Speed 0.3×<br>Weight 4<br>Durability 200<br>Movement -10% | Elder Bark ×30, Stone ×40, Greydwarf Eye ×20, Elder Trophy ×1 | Elder Bark ×15, Stone ×20, Greydwarf Eye ×10, Elder Trophy ×1 | A magical battlehammer forged from the heart of the forest. Used to smash and cleanse your enemies with. |
@@ -198,14 +198,14 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.13 Atgeir (Kích)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![AtgeirFlint_TW.png](Warfare_Icons/AtgeirFlint_TW.png) | **Flint Atgeir** (AtgeirFlint_TW) | ⚔️ 25+6/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 4 · Deflection 40+5/lvl<br>Knockback 30<br>Backstab ×3<br>Skill: Polearms<br>Stamina 10 · Range 3.2m · Speed 0.2×<br>Alt: Stamina 20 · Range 3m · Speed 0.2×<br>Weight 2.5<br>Durability 200<br>Movement -5% | Flint ×8, Wood ×10, Leather Scraps ×4 | Flint ×4, Wood ×5 | A primitive atgeir made of flint used to pierce your enemies with. |
 | ![AtgeirSilver_TW.png](Warfare_Icons/AtgeirSilver_TW.png) | **Silver Atgeir** (AtgeirSilver_TW) | ⚔️ 85+6/lvl Pierce<br>30 Spirit<br>🛡️ Block armor 15+1/lvl<br>Block 40 · Deflection 40+5/lvl<br>Knockback 30<br>Backstab ×3<br>Skill: Polearms<br>Stamina 16 · Range 3.2m · Speed 0.2×<br>Alt: Stamina 32 · Range 3m · Speed 0.2×<br>Weight 2.5<br>Durability 200<br>Movement -5% | Elder Bark ×25, Silver ×25, Wolf Claw ×8, Cultist Trophy ×1 | Elder Bark ×12, Silver ×12, Wolf Claw ×4 | A purified atgeir made of silver used to pierce your enemies with. |
 
 ### 3.14 War Pike (Thương Chiến)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![WarpikeChitin_TW.png](Warfare_Icons/WarpikeChitin_TW.png) | **Abyssal War Pike** (WarpikeChitin_TW) | ⚔️ 48+6/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 17 · Deflection 20+5/lvl<br>Knockback 20<br>Backstab ×3<br>Skill: Spears<br>Stamina 11 · Range 2.7m · Speed 0.2×<br>Alt: Stamina 26 · Range 1m<br>Weight 1.5<br>Durability 150<br>Movement -5% | Elder Bark ×14, Chitin ×20, Bronze ×8 | Elder Bark ×7, Chitin ×10, Bronze ×4 | A thrustworthy pike made of chitin. Used to pierce your enemies or jumping into battle with. |
 | ![WarpikeBone_TW.png](Warfare_Icons/WarpikeBone_TW.png) | **Bone War Pike** (WarpikeBone_TW) | ⚔️ 38+6/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 12 · Deflection 20+5/lvl<br>Knockback 20<br>Backstab ×3<br>Skill: Spears<br>Stamina 8 · Range 2.7m · Speed 0.2×<br>Alt: Stamina 20 · Range 1m<br>Weight 1.5<br>Durability 150<br>Movement -5% | Bone Fragments ×15, Copper ×10, Skeleton Trophy ×1 | Bone Fragments ×8, Copper ×5 | A thrustworthy pike made of bone. Used to pierce your enemies or jumping into battle with. |
 | ![WarpikeElder_TW.png](Warfare_Icons/WarpikeElder_TW.png) | **Heartrender** (WarpikeElder_TW) ⭐ Rớt 4% từ Elder | ⚔️ 52+6/lvl Pierce<br>10+1/lvl Spirit<br>🛡️ Block armor 15+1/lvl<br>Block 20 · Deflection 20+5/lvl<br>Knockback 20<br>Backstab ×3<br>Skill: Spears<br>Stamina 11 · Range 2.7m · Speed 0.2×<br>Alt: Stamina 26 · Range 1m<br>Weight 1.5<br>Durability 200<br>Movement -5% | Elder Bark ×30, Bronze ×25, Ancient Seed ×8, Elder Trophy ×1 | Elder Bark ×15, Bronze ×12, Ancient Seed ×4, Elder Trophy ×1 | A magical pike forged from the heart of the forest. Used to pierce and cleanse your enemies or jumping into battle with. |
@@ -217,7 +217,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.15 Lance · Trident
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![LanceBlackmetal_TW.png](Warfare_Icons/LanceBlackmetal_TW.png) | **Blackmetal Lance** (LanceBlackmetal_TW) | ⚔️ 111+6/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 52 · Deflection 40+5/lvl<br>Knockback 90<br>Backstab ×3<br>Skill: Polearms<br>Stamina 16 · Range 3.3m · Speed 0.2×<br>Alt: Stamina 32 · Range 3.3m · Speed 0.2×<br>Weight 2.5<br>Durability 200<br>Movement -5% | Fine Wood ×40, Black Metal ×25, Lox Bone ×10, Lox Trophy ×1 | Fine Wood ×20, Black Metal ×12, Lox Bone ×5 | A blackmetal lance. Used to thrust and pierce your enemies with from a distance. |
 | ![TridentBlackmetal_TW.png](Warfare_Icons/TridentBlackmetal_TW.png) | **Blackmetal Trident** (TridentBlackmetal_TW) | ⚔️ 106+6/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 52 · Deflection 40+5/lvl<br>Knockback 30<br>Backstab ×3<br>Skill: Polearms<br>Stamina 18 · Range 3.2m · Speed 0.4×<br>Alt: Stamina 16 · Range 1m · Speed 0.2× · Proj 20 m/s · Accuracy 1°<br>Weight 2.5<br>Durability 175<br>Movement -5% | Fine Wood ×25, Black Metal ×25, Chitin ×30, Lox Trophy ×1 | Fine Wood ×12, Black Metal ×12, Chitin ×15 | A deadly trident made of blackmetal used to poke or throw at your enemies with. |
 | ![LanceDvergr_TW.png](Warfare_Icons/LanceDvergr_TW.png) | **Dwarven Lance** (LanceDvergr_TW) | ⚔️ 135+6/lvl Pierce<br>12 Lightning<br>🛡️ Block armor 15+1/lvl<br>Block 64 · Deflection 40+5/lvl<br>Knockback 90<br>Backstab ×3<br>Skill: Polearms<br>Stamina 20 · Range 3.3m · Speed 0.2×<br>Alt: Stamina 40 · Range 3.3m · Speed 0.2×<br>Weight 2.5<br>Durability 300<br>Movement -5% | Yggdrasil Wood ×40, Eitr ×15, Dark Crystal ×8, Gjall Trophy ×1 | Yggdrasil Wood ×20, Eitr ×5, Dark Crystal ×4 | A dwarven lance infused with eitr. Used to thrust and shock your enemies with from a distance. |
@@ -225,13 +225,13 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.16 Giáo (Spear)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![SpearBlackmetal_TW.png](Warfare_Icons/SpearBlackmetal_TW.png) | **Blackmetal Spear** (SpearBlackmetal_TW) | ⚔️ 95+6/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 39 · Deflection 20+5/lvl<br>Knockback 20<br>Backstab ×3<br>Skill: Spears<br>Stamina 14 · Range 1.9m · Speed 0.2×<br>Alt: Stamina 16 · Range 1m · Speed 0.3× · Proj 20 m/s · Accuracy 1°<br>Weight 1.5<br>Durability 150<br>Movement -5% | Fine Wood ×30, Black Metal ×20, Needle ×12, Lox Trophy ×1 | Fine Wood ×15, Black Metal ×10, Needle ×6 | A pointy spear made of blackmetal used to poke and throw at your enemies. |
 
 ### 3.17 Tay Không (Fist · Claws · Katars)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![FistFlint_TW.png](Warfare_Icons/FistFlint_TW.png) | **Flint Claws** (FistFlint_TW) | ⚔️ 10+4/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 1+1/lvl · Deflection 10+5/lvl<br>Knockback 15<br>Backstab ×6<br>Skill: Unarmed<br>Stamina 4 · Range 2m · Speed 0.3×<br>Alt: Stamina 26 · Range 2.1m · Speed 0.2×<br>Weight 2<br>Durability 200 | Flint ×10, Wood ×6, Deer Hide ×2 | Flint ×5, Deer Hide ×1 | Sharp flint stone claws to slash and stab your enemies in the face with. |
 | ![FistChitin_TW.png](Warfare_Icons/FistChitin_TW.png) | **Abyssal Katars** (FistChitin_TW) | ⚔️ 30+4/lvl Slash<br>🛡️ Block armor 20+1/lvl<br>Block 4+1/lvl · Deflection 10+5/lvl<br>Knockback 20<br>Backstab ×6<br>Skill: Unarmed<br>Stamina 7 · Range 2m · Speed 0.3×<br>Alt: Stamina 22 · Range 2.5m<br>Weight 2<br>Durability 250 | Deer Hide ×6, Chitin ×20, Bronze ×8 | Deer Hide ×4, Chitin ×9, Bronze ×4 | Deadly chitin katars used to bleed your prey out with. |
 | ![FistBronze_TW.png](Warfare_Icons/FistBronze_TW.png) | **Bronze Knuckles** (FistBronze_TW) | ⚔️ 20+4/lvl Blunt<br>🛡️ Block armor 20+1/lvl<br>Block 1+1/lvl · Deflection 10+5/lvl<br>Knockback 20<br>Backstab ×6<br>Skill: Unarmed<br>Stamina 6 · Range 2m · Speed 0.3×<br>Alt: Stamina 30 · Range 2.1m · Speed 0.2×<br>Weight 2<br>Durability 250 | Deer Hide ×4, Bronze ×12, Greydwarf Trophy ×1 | Deer Hide ×2, Bronze ×6 | Deadly bronze fist knuckles to bash some teeth with. |
@@ -245,20 +245,20 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.18 Rìu Đôi (Dual Axe — Cleavers)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![DualAxeIconModels.png](Warfare_Icons/DualAxeIconModels.png) | **Hellblade Cleavers** (DualAxeDemonic_TW) ⭐ Rớt 7% từ Svält (Monstrum) | ⚔️ 47+5/lvl Slash<br>60+3/lvl Chop<br>9+1/lvl Fire<br>🛡️ Block armor 20+1/lvl<br>Block 22 · Deflection 40+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Axes<br>Tool tier 3<br>Stamina 12 · Range 2.2m · Speed 0.3×<br>Alt: Stamina 36 · Range 2.2m · Speed 0.3×<br>Weight 0.3<br>Durability 300 | Iron ×30, Surtling Core ×15, Blood Bag ×15, Draugr Elite Trophy ×1 | Iron ×15, Surtling Core ×8, Blood Bag ×8, Draugr Elite Trophy ×1 | A demonic pair of axes from the burning realm of Surtr. |
 
 ### 3.19 Cung (Bow)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BowTrollBone_TW.png](Warfare_Icons/BowTrollBone_TW.png) | **Trollbone Bow** (BowTrollBone_TW) | ⚔️ 37+3/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 3<br>Knockback 20<br>Backstab ×3<br>Skill: Bows<br>Range 1m · Speed 0.3× · Reload 2s · Draw 2.5s<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 1.5<br>Durability 100<br>Movement -5% | Troll Bone ×5, Bone Fragments ×6, Bronze ×6 | Troll Bone ×2, Bone Fragments ×3 | A sturdy bow made out of troll bones and bronze. Used to shoot arrows with at your enemies. |
 | ![BowBlackmetal_TW.png](Warfare_Icons/BowBlackmetal_TW.png) | **Blackmetal Bow** (BowBlackmetal_TW) | ⚔️ 62+3/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 3<br>Knockback 20<br>Backstab ×3<br>Skill: Bows<br>Range 1m · Speed 0.3× · Reload 2s · Draw 2.5s<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 1.5<br>Durability 100<br>Movement -5% | Fine Wood ×30, Black Metal ×25, Needle ×20, Deathsquito Trophy ×1 | Fine Wood ×15, Black Metal ×12, Needle ×10 | A deadly bow made of blackmetal. Used to shoot arrows with at your enemies. |
 
 ### 3.20 Greatbow (Cung Lớn)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![GreatbowModer_TW.png](Warfare_Icons/GreatbowModer_TW.png) | **Skystrike** (GreatbowModer_TW) ⭐ Rớt 6% từ Moder | ⚔️ 25+4/lvl Pierce<br>60+6/lvl Frost<br>🛡️ Block armor 15+1/lvl<br>Block 6<br>Knockback 70<br>Backstab ×4<br>Skill: Bows<br>Range 1m · Speed 2× · Reload 2s · Draw 5s<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 3<br>Durability 100<br>Movement -5% | Silver ×50, Crystal ×30, Freeze Gland ×20, Dragon Queen Trophy ×1 | Silver ×25, Crystal ×15, Freeze Gland ×10, Dragon Queen Trophy ×1 | A heavy pulled greatbow invoked with Moder's magic.<br>On hit: 4s · Speed -50% |
 | ![GreatbowBlackmetal_TW.png](Warfare_Icons/GreatbowBlackmetal_TW.png) | **Blackmetal Greatbow** (GreatbowBlackmetal_TW) | ⚔️ 87+4/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 6<br>Knockback 70<br>Backstab ×4<br>Skill: Bows<br>Range 1m · Speed 2× · Reload 2s · Draw 5s<br>Alt: Stamina 20 · Range 1.5m · Speed 2×<br>Weight 3<br>Durability 100<br>Movement -5% | Fine Wood ×40, Black Metal ×30, Lox Bone ×10, Fuling Brute Trophy ×1 | Fine Wood ×20, Black Metal ×15, Lox Bone ×5 | A heavy pulled greatbow made out of blackmetal that can shoot large distances.<br>On hit: 1s |
 | ![GreatbowDvergr_icon.png](Warfare_Icons/GreatbowDvergr_icon.png) | **Dwarven Greatbow** (GreatbowDvergr_TW) | ⚔️ 100+4/lvl Pierce<br>12+4/lvl Lightning<br>🛡️ Block armor 15+1/lvl<br>Block 6<br>Knockback 80<br>Backstab ×4<br>Skill: Bows<br>Range 1m · Speed 2× · Reload 2s · Draw 5s<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 3<br>Durability 100<br>Movement -5% | Yggdrasil Wood ×40, Eitr ×15, Venomous Fang ×10, Gjall Trophy ×1 | Yggdrasil Wood ×20, Eitr ×5, Venomous Fang ×5 | A heavy pulled greatbow infused with Eitr that can shoot arrows with additional lightning damage at large distances.<br>On hit: 1s |
@@ -266,7 +266,7 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.21 Nỏ (Crossbow)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![CrossbowEikthyr_TW.png](Warfare_Icons/CrossbowEikthyr_TW.png) | **Buckshot** (CrossbowEikthyr_TW) ⭐ Rớt 4% từ Eikthyr | ⚔️ 38+3/lvl Pierce<br>3+2/lvl Lightning<br>🛡️ Block armor 15+1/lvl<br>Block 3<br>Knockback 95<br>Backstab ×3<br>Skill: Crossbows<br>Range 1m · Speed 0.3× · Reload 3.5s<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 1.5<br>Durability 100<br>Movement -5% | RoundLog ×30, Hard Antler ×16, Deer Hide ×16, Eikthyr Trophy ×1 | RoundLog ×15, Hard Antler ×8, Deer Hide ×8, Eikthyr Trophy ×1 | A brutal crossbow to shoot long distance bolts and destroy your enemies with, this magic weapon collects stacks of charged energy over time that can stack up to 3 stacks maximum.<br>Equipped: 1s |
 | ![CrossbowWood_TW.png](Warfare_Icons/CrossbowWood_TW.png) | **Crude Crossbow** (CrossbowWood_TW) | ⚔️ 30+3/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 3<br>Knockback 50<br>Backstab ×3<br>Skill: Crossbows<br>Range 1m · Speed 0.3× · Reload 4s<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 1.5<br>Durability 50<br>Movement -5% | Wood ×12, Deer Hide ×6 | Wood ×6, Deer Hide ×3, Leather Scraps ×2 | A basic and slow wooden crossbow to shoot bolts with at your enemies. |
 | ![CrossbowBronze_TW.png](Warfare_Icons/CrossbowBronze_TW.png) | **Bronze Crossbow** (CrossbowBronze_TW) | ⚔️ 50+3/lvl Pierce<br>🛡️ Block armor 15+1/lvl<br>Block 3<br>Knockback 80<br>Backstab ×3<br>Skill: Crossbows<br>Range 1m · Speed 0.3× · Reload 3.5s<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 1.5<br>Durability 75<br>Movement -5% | RoundLog ×12, Bronze ×12, TrophyGreydwarfShaman ×1 | RoundLog ×6, Bronze ×6 | A slow but deadly bronze crossbow to shoot long distance bolts with at your enemies. |
@@ -278,14 +278,14 @@ Damage dạng `nền+bonus/lvl`; mỗi nhóm sắp theo thời kỳ. ⭐ = vũ k
 ### 3.22 Cúp (Pickaxe)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![pickaxesilver_icon.png](Warfare_Icons/pickaxesilver_icon.png) | **Silver Pickaxe** (PickaxeSilver_TW) | ⚔️ 41+5/lvl Pierce<br>41+5/lvl Pickaxe<br>🛡️ Block armor 20+1/lvl<br>Block 2 · Deflection 20+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Pickaxes<br>Tool tier 2<br>Stamina 10 · Range 1.8m · Speed 0.1×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 2<br>Durability 180<br>Movement -5% | Silver ×10, Elder Bark ×10 | Silver ×5, Elder Bark ×5 | A durable pickaxe made of silver used, to mine ores and stone. |
 | ![PickaxeFader_TW.png](Warfare_Icons/PickaxeFader_TW.png) | **Flametal Enchanted Pickaxe** (PickaxeFader_TW) | ⚔️ 65+5/lvl Pierce<br>65+5/lvl Pickaxe<br>🛡️ Block armor 20+1/lvl<br>Block 2 · Deflection 20+5/lvl<br>Knockback 50<br>Backstab ×3<br>Skill: Pickaxes<br>Tool tier 6<br>Stamina 10 · Range 1.8m · Speed 0.1×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 2<br>Durability 300<br>Movement -5% | Flametal ×15, Fader Drop ×2 | Flametal ×8, Fader Drop ×2 | A magical flametal pickaxe forged with the Fader relic. |
 
 ## 🛡️ 4. Khiên (sắp theo thời kỳ)
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ShieldChitin_TW.png](Warfare_Icons/ShieldChitin_TW.png) | **Barnacle Shield** (ShieldChitin_TW) | ⚔️ 5 Blunt<br>🛡️ Block armor 200+1/lvl<br>Block 33+6/lvl · Deflection 30+5/lvl<br>Knockback 40<br>Backstab ×4<br>Skill: Blocking<br>Stamina 20 · Range 2.4m · Speed 0.2×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 5<br>Durability 200<br>Movement -5% | Chitin ×15, Elder Bark ×12, Bronze ×10 | Chitin ×8, Elder Bark ×6, Bronze ×5 | A solid shield made of sharp, old barnacles, watch your fingers! |
 | ![ShieldBronzeBanded_icon.png](Warfare_Icons/ShieldBronzeBanded_icon.png) | **Bronze Banded Shield** (ShieldBronzeBanded_TW) | ⚔️ 5 Blunt<br>🛡️ Block armor 200+1/lvl<br>Block 24+6/lvl · Deflection 30+5/lvl<br>Knockback 40<br>Backstab ×4<br>Skill: Blocking<br>Stamina 20 · Range 2.4m · Speed 0.2×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 5<br>Durability 200<br>Movement -5% | RoundLog ×10, Bronze ×12, Deer Hide ×2 | RoundLog ×5, Bronze ×6 | Banded with hoops of bronze, a true adventurers companion.. |
 | ![ShieldBronzeTower_icon.png](Warfare_Icons/ShieldBronzeTower_icon.png) | **Bronze Tower Shield** (ShieldBronzeTower_TW) | 🛡️ Block armor 100+1/lvl<br>Block 34+6/lvl · Deflection 100+5/lvl<br>Knockback 40<br>Backstab ×4<br>Skill: Blocking<br>Stamina 20 · Range 2.4m · Speed 0.2×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 4<br>Durability 200<br>Movement -20% | RoundLog ×12, Bronze ×14, Deer Hide ×2 | RoundLog ×6, Bronze ×7 | A tall shield of strong bronze. |
@@ -302,7 +302,7 @@ Craft tại **Fletcher table**. Bolt dùng cho Nỏ, Arrow cho Cung.
 ### 5.1 Arrows
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ArrowBone_icon.png](Warfare_Icons/ArrowBone_icon.png) | **Bone Arrows** (ArrowBone_TW) | ⚔️ 38 Blunt<br>5 Pierce<br>🛡️ Block armor 10+1/lvl<br>Block 10<br>Knockback 10<br>Backstab ×3<br>Skill: Bows<br>Stamina 20 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 0.1<br>Durability 100 | Wood ×8, Bone Fragments ×4, Feathers ×2 |  | Bone arrows that deal blunt damage on impact. |
 | ![ArrowPickaxe_icon.png](Warfare_Icons/ArrowPickaxe_icon.png) | **Pickaxe Arrows** (ArrowPickaxe_TW) | ⚔️ 10 Pierce<br>60 Pickaxe<br>🛡️ Block armor 10+1/lvl<br>Block 10<br>Knockback 15<br>Backstab ×3<br>Skill: Bows<br>Stamina 20 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 0.1<br>Durability 100 | Elder Bark ×8, Resin ×1, Surtling Core ×1, Feathers ×2 |  | Special arrows that deal pickaxe damage on impact. |
 | ![ArrowExplosivePoison_icon.png](Warfare_Icons/ArrowExplosivePoison_icon.png) | **Explosive Poison Arrows** (ArrowExplosivePoison_TW) | ⚔️ 45 Pierce<br>🛡️ Block armor 10+1/lvl<br>Block 10<br>Knockback 20<br>Backstab ×3<br>Skill: Bows<br>Stamina 20 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 0.1<br>Durability 100 | Wood ×8, Black Metal ×2, Ooze ×2 |  | Poison arrows that explode on impact. |
@@ -311,7 +311,7 @@ Craft tại **Fletcher table**. Bolt dùng cho Nỏ, Arrow cho Cung.
 ### 5.2 Bolts
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BoltAntler_TW.png](Warfare_Icons/BoltAntler_TW.png) | **Antler Bolt** (BoltAntler_TW) | ⚔️ 27 Pierce<br>🛡️ Block armor 10+1/lvl<br>Block 10<br>Backstab ×3<br>Skill: Bows<br>Stamina 20 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 0.1<br>Durability 100 | Wood ×8, Hard Antler ×1 |  | A wooden bolt with a hard antler head. |
 | ![BoltFire_TW.png](Warfare_Icons/BoltFire_TW.png) | **Fire Bolt** (BoltFire_TW) | ⚔️ 16 Pierce<br>34 Fire<br>🛡️ Block armor 10+1/lvl<br>Block 10<br>Backstab ×3<br>Skill: Bows<br>Stamina 20 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 0.1<br>Durability 100 | Wood ×8, Resin ×6, Feathers ×2 |  | This bolt pierces and sets your enemies ablaze. |
 | ![BoltWood_TW.png](Warfare_Icons/BoltWood_TW.png) | **Wooden Bolt** (BoltWood_TW) | ⚔️ 22 Pierce<br>🛡️ Block armor 10+1/lvl<br>Block 10<br>Backstab ×3<br>Skill: Bows<br>Stamina 20 · Range 2.4m · Speed 0.3×<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 0.1<br>Durability 100 | Wood ×8 |  | Watch out for splinters! |
@@ -329,7 +329,7 @@ Craft tại **Fletcher table**. Bolt dùng cho Nỏ, Arrow cho Cung.
 Mead **thành phẩm** được chế trực tiếp từ **Mead base** tương ứng (cơ chế conversion của mod, không cần Fermenter). Base craft tại [Mead Cauldron].
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![lightningresistmead_icon.png](Warfare_Icons/lightningresistmead_icon.png) | **Lightning resistance mead** (MeadLightningResist_TW) | Weight 1 |  |  | Protects you from lightning.<br>On use: 600s · +100% Lightning dmg |
 | ![MeadBase.png](Warfare_Icons/MeadBase.png) | **Mead base: Medium lingering stamina** (MeadBaseLingeringStaminaMedium_TW) | Weight 1 | MeadTasty ×3, Cloudberry ×5, Honey ×10 |  | On use: 300s · Stamina regen +18% |
 | ![MeadBase.png](Warfare_Icons/MeadBase.png) | **Mead base: Minor lingering stamina** (MeadBaseLingeringStaminaMinor_TW) | Weight 1 | MeadTasty ×3, MushroomYellow ×5, Honey ×10 |  | On use: 300s · Stamina regen +10% |
@@ -338,13 +338,13 @@ Mead **thành phẩm** được chế trực tiếp từ **Mead base** tương �
 | ![MeadBase.png](Warfare_Icons/MeadBase.png) | **Mead base: Lightning resistance** (MeadBaseLightningResist_TW) | Weight 1 | Honey ×12, Barley ×5, Flax ×7 |  | On use: 600s · +100% Lightning dmg |
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![BombSpirit_TW.png](Warfare_Icons/BombSpirit_TW.png) | **Spirit Bomb** (BombSpirit_TW) | ⚔️ 5 Blunt<br>🛡️ Block armor 15+1/lvl<br>Block 2<br>Knockback 40<br>Backstab ×3<br>Stamina 8 · Range 1.5m · Speed 0.3× · Proj 20 m/s · Accuracy 5°<br>Alt: Stamina 20 · Range 1.5m · Speed 0.2×<br>Weight 0.3<br>Durability 100 | Silver Ore ×2, Wolf Hair Bundle ×2, Cloudberry ×2 |  | Unleashes a spiritual cleansing on impact! |
 
 ## 🧣 7. Cape
 
 | Icon | Tên (prefab) | Stats | Chế tạo | Nâng cấp | Hiệu ứng |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![CapeRotten_icon.png](Warfare_Icons/CapeRotten_icon.png) | **Rotten Leather Cape** (CapeRotten_TW) | 🛡️ Armor 1+1/lvl<br>Block 10<br>Weight 4<br>Durability 600 | Rotten Pelt ×6, Guck ×8, Ooze ×4, TrophyBlob ×1 | Rotten Pelt ×3, Guck ×4, Ooze ×2 | A disgusting cape made out of rotten pelts.<br>Equipped: +100% Poison dmg |
 
 **Nguồn dữ liệu:** prefab ItemDrop/SE_Stats từ asset bundle nhúng trong `Warfare.dll v1.8.9` (type tree Unity), chi phí chế tạo/nâng cấp từ `Therzie.Warfare.cfg` (default), tên & mô tả từ `TherzieTranslations/Warfare.English.yml`. Có thể khác với server nếu server override config.

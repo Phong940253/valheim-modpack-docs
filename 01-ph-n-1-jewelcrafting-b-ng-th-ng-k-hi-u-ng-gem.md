@@ -799,7 +799,7 @@ Ghi chú: field có `OptionalPower` chỉ định nghĩa giá trị mặc địn
 Mod **Comfort Tweaks** (Smoothbrain) mở rộng hệ thống comfort/rested và bổ sung cho **Jewelcrafting** 2 loại gem mới: **Comfortite** (blueish) & **Comfordium** (redish) — nguồn của 8 gem effects đã chèn vào các bảng phía trên (Weapon/Chest/Legs/Head/Cloak/Utility). Bộ 3 **Resting Potion** dưới đây cho rested buff ngay cả khi không có giường/lửa; nâng cấp theo chuỗi Campfire → Bonfire → Livingroom.
 
 | Icon | Tên | Recipe | Rested time | Cooldown | Ghi chú |
-| --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- |
 | ![ct_campfireinabottle.png](ComfortTweaks_Icons/ct_campfireinabottle.png) | **Campfire in a Bottle** (ct_campfireinabottle) | [Cauldron cấp 1]<br>Queen's Jam ×1 | **480s (8:00)** | 1s | Comfort 1 khi dùng |
 | ![ct_bonfireinabottle.png](ComfortTweaks_Icons/ct_bonfireinabottle.png) | **Bonfire in a Bottle** (ct_bonfireinabottle) | [Cauldron cấp 2]<br>Nâng cấp: Campfire in a Bottle ×1 + Onion Soup ×1<br>(hoặc Queen's Jam ×1 + Onion Soup ×1) | **780s (13:00)** | 1s | Comfort 6 khi dùng |
 | ![ct_livingroominabottle.png](ComfortTweaks_Icons/ct_livingroominabottle.png) | **Livingroom in a Bottle** (ct_livingroominabottle) | [Cauldron cấp 3]<br>Nâng cấp: Bonfire in a Bottle ×1 + Barley Wine Base ×1<br>(hoặc Queen's Jam ×1 + Onion Soup ×1 + Barley Wine Base ×1) | **1080s (18:00)** | 1s | Comfort 11 khi dùng · có cooldown icon |

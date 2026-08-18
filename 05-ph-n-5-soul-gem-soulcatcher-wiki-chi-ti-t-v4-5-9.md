@@ -207,7 +207,7 @@ Mô tả tiếng Việt dựa trên phân tích mã nguồn decompile của mod 
 Khi gắn nhiều viên **cùng loại soul gem** trên các mảnh khác nhau, power được gộp theo attribute tương ứng (xem bảng attribute ở PHẦN 1 — mục "Cách Stack Power Của Gem"). Field **Cooldown** dùng lấy min (thời gian hồi ngắn nhất thắng).
 
 | Icon | Slot | Gem (Soul Power) | Field | Attribute / Cách stack |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | ![AbominationGem_Default.png](Soulcatcher_GemIcons/AbominationGem_Default.png) | ✨ | **Abomination Soul Power** | Value | **Lấy max** (MaxPower)<br>viên 5% + viên 10% → 10% |
 | ![AbominationGem_Default.png](Soulcatcher_GemIcons/AbominationGem_Default.png) | ✨ | **Abomination Soul Power** | Cooldown | **Lấy min** (MinPower)<br>CD 30s + CD 20s → 20s |
 | ![BatGem_Default.png](Soulcatcher_GemIcons/BatGem_Default.png) | ⚔️ | **Bat Soul Power** | Value | **Nhân chéo nghịch** (InverseMultiplicativePercentagePower)<br>2 viên giảm 50% → 75% |

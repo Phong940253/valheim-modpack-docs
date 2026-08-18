@@ -21,7 +21,7 @@ Wiki từ **decompile Vikings_Summoner.dll** (tác giả *radamanto*) — mod ne
 - **Thời gian sống** (TTL) rồi suy thoái; summon follow chủ, tự hủy khi chủ chết/teleport; HUD icon riêng; **voice override** EN/Brazilian.
 
 | Icon | Config toàn cục (C) | Default | Khoảng | Hiệu lực |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | Health Regen Debuff | On | On/Off | Mỗi summon đang có trừ **1%** HP regen của chủ |  |
 | Summon Decay Health | 80% | 0–100 | 80% đầu đời giữ nguyên HP; 20% cuối giảm dần về 1% |  |
 | Summon Decay Tick | 0.5s | 0.1–10 | Nhịp trừ máu theo decay |  |
@@ -35,7 +35,7 @@ Wiki từ **decompile Vikings_Summoner.dll** (tác giả *radamanto*) — mod ne
 Craft trên **Workbench vanilla**. Bàn `RD_necromancer_table` (cấp Meadows→Mountain, levelcraft 1–2 theo extension) và `RD_necromancer_table_02` (Plains+). Tất cả nguyên liệu `recover: true` (trả lại khi thu hồi).
 
 | Icon | Bàn | Recipe (C) | Nâng cấp bàn |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![ico_necro_table.png](Vikings_Summoner_Icons/ico_necro_table.png) | **Necromancer Table I** (RD_necromancer_table) | Resin×10, Wood×20, DeerHide×10 | — |
 | ![ico_necro_table_ext_01.png](Vikings_Summoner_Icons/ico_necro_table_ext_01.png) | Extension 01 | GreydwarfEye×10, Wood×10, DeerHide×5 | Bàn lv2 |
 | ![ico_necro_table_ext_02.png](Vikings_Summoner_Icons/ico_necro_table_ext_02.png) | Extension 02 | Bronze×10, FineWood×10, Feathers×5 | Bàn lv2 |
@@ -51,7 +51,7 @@ Craft trên **Workbench vanilla**. Bàn `RD_necromancer_table` (cấp Meadows→
 Staff kích hoạt `SpawnAbility` → triệu hồi đúng con summon của biome tương ứng (xem bảng 6). Stats damage/stamina nằm trong asset `(A)`; maxQuality = 4 `(A)`. Mọi staff config được recipe + stats.
 
 | Icon | Staff | Triệu hồi | Bàn chế | Craft → nâng cấp |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | ![icon_staff_meadows.png](Vikings_Summoner_Icons/icon_staff_meadows.png) | **Staff Meadows** (RD_inv_staff_meadows) | Skeleton Meadows | Bàn I lv1 | TrophyBoar×1, Wood×16, GreydwarfEye×10, Flint×10 → Wood×8, GreydwarfEye×4, Flint×4 |
 | ![ico.staff_bflorest.png](Vikings_Summoner_Icons/ico.staff_bflorest.png) | **Staff Black Forest** (RD_inv_staff_bforest) | Skeleton Black Forest | Bàn I lv2 | TrophySkeleton×1, RoundLog×12, SurtlingCore×5, Bronze×6 → RoundLog×8, SurtlingCore×5, Bronze×2 |
 | ![ico_staff_swamp.png](Vikings_Summoner_Icons/ico_staff_swamp.png) | **Staff Swamp** (RD_inv_staff_swamp) | Draugr Swamp | Bàn I lv2 | YmirRemains×5, Guck×16, Iron×20, ElderBark×14 → Guck×8, Iron×10, TrophySkeleton×6 |
@@ -65,7 +65,7 @@ Staff kích hoạt `SpawnAbility` → triệu hồi đúng con summon của biom
 Tất cả đều là **Tome** (đặt khe sách, đòi AzuEPI), craft tại bảng, không nâng cấp. Sách **summons** (`RD_grimoire_summons_0x`) trừ tốc độ di chuyển người dùng `(A)` (m_movementModifier): g1 -5%, g2 -10%, g3 -15%.
 
 | Icon | Grimoire | Hiệu ứng (A) | Recipe (C) |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![book_g1.png](Vikings_Summoner_Icons/book_g1.png) | **Grimoire I** (Summoning I) | +2 BloodMagic skill; HP regen ×1.02; +1% spirit dmg | DeerHide×20, LeatherScraps×10, Feathers×15, GreydwarfEye×10 |
 | ![book_01.png](Vikings_Summoner_Icons/book_01.png) | **Grimoire Summons I** | +1 summon tối đa; cost HP summon +5%; MaxHP −5% (C) | TrophyAbomination×1, DeerHide×20, Iron×2, Guck×15 |
 | ![book_g2.png](Vikings_Summoner_Icons/book_g2.png) | **Grimoire II** (Summoning II) | +4 BM; Regen ×1.02; +2% spirit | WolfPelt×10, WolfFang×4, Crystal×5, Resin×15 |
@@ -78,7 +78,7 @@ Tất cả đều là **Tome** (đặt khe sách, đòi AzuEPI), craft tại b�
 7 bộ theo biome, mỗi bộ 4 mảnh (Helmet/Chest/Legs/Cape), maxQuality = 4 `(A)`. Mặc **set 3 mảnh** kích SE: **+HP/tick** khi đủ level + regen ×% + **BMI skill** + kháng hệ `(A)`. Chest/Legs Ashlands có `heatResistance` 0.15 và kháng Pierce `(1)`.
 
 | Icon | Bộ | Cape | Chest | Helmet | Legs | Set bonus (A) |
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- | --- |
 | ![ico_cape_meadows.png](Vikings_Summoner_Icons/ico_cape_meadows.png) | **Meadows** | 1 | 2 | 2 | 2 | +1 HP/tick; regen ×1.02; BM +2 |
 | ![ico_cape.png](Vikings_Summoner_Icons/ico_cape.png) | **Black Forest** | 1 | 7 | 7 | 7 | +2 HP/tick; ×1.03; BM +2 |
 | ![ico_cape_bflorest.png](Vikings_Summoner_Icons/ico_cape_bflorest.png) | **Swamp** | 1 | 11 | 11 | 11 | +3 HP/tick; ×1.04; BM +4; Poison Res |
@@ -94,7 +94,7 @@ Armor value = armor `(A)` (trường hợp Cape: armor 1–4; các mảnh còn l
 `(A)` Health = % máu tối đa mất để summon (asset/prefab mặc định, override qua config), `Eitr` = eitr trừ tương ứng (xem bảng 8.1). Totem nâng cấp (quality) kéo dài thời gian sống +10s/lvl (Meadows→Plains) / +15s/lvl (Mistlands+). Summon tất cả of bộ đặt được `Player Statistic "creatures summoned" +1` khi triệu hồi `(H)`.
 
 | Icon | Totem | Summon | Gate BM | HP base (A) | Health/Eitr cost (A) | Recipe → upgrade |
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- | --- |
 | ![ico.png](Vikings_Summoner_Icons/ico.png) | Totem Meadows | **Skeleton Meadows** | 10 | 50 | 5% / 5 | TrophyDeer×1, LeatherScraps×20, BoneFragments×20 → LS×5, BF×5 |
 | ![ico_staff_inv_bflorest.png](Vikings_Summoner_Icons/ico_staff_inv_bflorest.png) | Totem Black Forest | **Skeleton Black Forest** | 20 | 100 | 7% / 7 | TrophySkeletonPoison×1, LeatherScraps×25, Bronze×20, BF×20 → LS×7, B×5, BF×5 |
 | ![ico.png](Vikings_Summoner_Icons/ico.png) | Totem Ghost | **Ghost** | 30 | 80 | 7% / 7 | TrophyGhost×1, DeerHide×25, Bronze×20, BF×20 → DH×7, B×5, BF×5 |
@@ -171,7 +171,7 @@ Ghi chú: tên giáp Ashlands chưa trích đầy đủ khi audit (truncated tro
 Craft nhận **5 con/mẻ** (CraftAmount = 5). Giá trị dinh dưỡng `(A)` (lấy từ asset):
 
 | Icon | Món | HP | Stamina | Eitr | Regen | BurnTime | Recipe (C) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- | --- | --- |
 | ![hamburguer.png](Vikings_Summoner_Icons/hamburguer.png) | **Hamburger** (RD_meat_patty) | 14 | 9 | 25 | 2 | 1200 | Inventory: RawMeat×2, Dandelion×4 |
 | ![Fruit_Mead.png](Vikings_Summoner_Icons/Fruit_Mead.png) | **Fruit Mead** (RD_fruit_mead) | 8 | 16 | 24 | 2 | 1200 | Inventory: Blueberries×4, Raspberry×4, Mushroom×4 |
 | ![food01.png](Vikings_Summoner_Icons/food01.png) | **Roasted Meat** (RD_roast_meat) | 18 | 12 | 30 | 2 | 1200 | Cauldron: DeerMeat×2, Dandelion×4, Thistle×4 |

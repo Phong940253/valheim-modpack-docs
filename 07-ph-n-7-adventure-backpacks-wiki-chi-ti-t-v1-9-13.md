@@ -55,7 +55,7 @@ Mỗi ba lô có kích thước grid riêng cho từng cấp 1–4 (config đư�
 ## 4. Sáu ba lô chính
 
 | Ba lô (icon) | Biome | Kích thước L1 → L4 | Carry (+/cấp) | Bàn chế tạo (cấp tối đa) | Công thức chế tạo | Công thức nâng cấp | Drops (mặc định OFF) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- | --- | --- |
 | ![backpack_meadows__BackpackMeadows_02_64_64.png](AdventureBackpacks_Icons/backpack_meadows__BackpackMeadows_02_64_64.png) **Satchel** | Meadows | 3×1 → 4×1 → 5×1 → 6×1 | +5 | Workbench cấp 2 (tối đa 3) | CapeDeerHide ×1 + DeerHide ×8 + BoneFragments ×2 | LeatherScraps ×5 + DeerHide ×3 | Greyling 0.2% · Eikthyr 4% |
 | ![backpack_black_forest__IronBackpack_Icon.png](AdventureBackpacks_Icons/backpack_black_forest__IronBackpack_Icon.png) **Rugged Backpack** | BlackForest | 3×2 → 4×2 → 5×2 → 6×2 | +10 | Forge cấp 1 (tối đa 3) | CapeTrollHide ×1 + Copper ×5 | TrollHide ×3 + Bronze ×3 | Greydwarf 0.2% · Elite/Shaman 0.4% · Troll 1% · Bjorn 4% · gd_king 8% |
 | ![backpack_swamp__BackpackSwamp_02_64_64.png](AdventureBackpacks_Icons/backpack_swamp__BackpackSwamp_02_64_64.png) **Bloodbag Wetpack** | Swamp | 2×3 → 3×3 → 4×3 → 5×3 | +15 | Workbench cấp 2 (tối đa 5) | Bloodbag ×10 + Root ×4 + Guck ×4 | Bloodbag ×2 + Iron ×5 | Draugr 0.2% · Ranged/Elite 0.4% · Abomination 0.8% · Bonemass 4% |
@@ -85,7 +85,7 @@ Mô tả hiệu ứng trích từ mã nguồn `EffectsFactory.cs`: Cold Immunity
 Hai ba lô cũ từ các bản trước, cố định 1 kích thước (6×3), không có biome (Biome = None — không nhận hiệu ứng biome).
 
 | Ba lô (icon) | Kích thước | Carry | Chống đóng băng (Prevent freezing/cold) |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ![backpack_mountains__SilverBackpack_Icon.png](AdventureBackpacks_Icons/backpack_mountains__SilverBackpack_Icon.png) **Old Arctic Backpack** | 6×3 (cố định) | +45 | **Có** (mặc định true) |
 | ![backpack_black_forest__IronBackpack_Icon.png](AdventureBackpacks_Icons/backpack_black_forest__IronBackpack_Icon.png) **Old Rugged Backpack** | 6×3 (cố định) | +25 | Không (mặc định false) |
 
