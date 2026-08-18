@@ -55,29 +55,29 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 📦 Crafting Level: **1** tại Celestial Forge
 
-#### 🧥 Armor (0 pieces)
+#### 🧥 Armor (5 pieces)
 
 | Icon | Tên | Armor | Nguyên Liệu | Nâng Cấp | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
+| — | **Horus Helmet** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
+| — | **Horus Chestguard** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
+| — | **Horus Greaves** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
+| — | **Horus Wings** | — | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Feathers ×16 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
+| — | **Horus Belt** | — | ScarabHorusDO ×10<br>Black Core ×1<br>Eitr ×12<br>Seeker Trophy ×2 | — | Lv.1 | — |
 
 🔮 **$item_horus_cape_DO**: 📦 +50 Carry Weight | 🦘 Jump Stamina: -20% | ⬇️ Fall Damage: -100%
 
 🔮 **$item_horus_belt_DO**: 📦 +150 Carry Weight | ❤️ HP Regen: +10%
 
-#### ⚔️ Vũ Khí (10)
+#### ⚔️ Vũ Khí (5)
 
 | Icon | Tên | Nguyên Liệu | Nâng Cấp | Sát Thương | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
-| — | **ArmorHorusHelmetDO** | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | — | Lv.1 | — |
-| — | **ArmorHorusChestDO** | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | — | Lv.1 | — |
-| — | **ArmorHorusLegsDO** | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabHorusDO ×3<br>Eitr ×4 | — | Lv.1 | — |
-| — | **ArmorHorusCapeDO** | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Feathers ×16 | ScarabHorusDO ×3<br>Eitr ×4 | — | Lv.1 | — |
-| — | **ArmorHorusBeltDO** | ScarabHorusDO ×10<br>Black Core ×1<br>Eitr ×12<br>Seeker Trophy ×2 | — | — | Lv.1 | — |
-| — | **AtgeirHorusDO** | ScarabHorusDO ×6<br>Black Metal ×18<br>Yggdrasil Wood ×16 | ScarabHorusDO ×3<br>Yggdrasil Wood ×8 | — | Lv.1 | — |
-| — | **SwordHorusDO** | ScarabHorusDO ×6<br>Black Metal ×24<br>Linen Thread ×8 | ScarabHorusDO ×3<br>Black Metal ×12 | — | Lv.1 | — |
-| — | **ShieldDaggerHorusDO** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
-| — | **DaggerHorusDO** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
-| — | **MaceHorusDO** | ScarabHorusDO ×6<br>Black Metal ×26<br>Linen Thread ×6 | ScarabHorusDO ×3<br>Black Metal ×13 | — | Lv.1 | — |
+| — | **Solar Spear** | ScarabHorusDO ×6<br>Black Metal ×18<br>Yggdrasil Wood ×16 | ScarabHorusDO ×3<br>Yggdrasil Wood ×8 | — | Lv.1 | — |
+| — | **Khopesh of Dawn** | ScarabHorusDO ×6<br>Black Metal ×24<br>Linen Thread ×8 | ScarabHorusDO ×3<br>Black Metal ×12 | — | Lv.1 | — |
+| — | **Pharaoh's Guardian** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
+| — | **Pharaoh's Blade** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
+| — | **Royal Judgment** | ScarabHorusDO ×6<br>Black Metal ×26<br>Linen Thread ×6 | ScarabHorusDO ×3<br>Black Metal ×13 | — | Lv.1 | — |
 
 ### 🐺 Anubis Set — Jackal God / Death
 
@@ -87,29 +87,29 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 📦 Crafting Level: **1** tại Celestial Forge
 
-#### 🧥 Armor (0 pieces)
+#### 🧥 Armor (5 pieces)
 
 | Icon | Tên | Armor | Nguyên Liệu | Nâng Cấp | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
+| — | **Anubis Helm** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
+| — | **Anubis Chestguard** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
+| — | **Anubis Greaves** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
+| — | **Anubis Mantle** | — | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Giant Blood Sack ×16 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
+| — | **Anubis Ring** | — | ScarabAnubisDO ×10<br>Black Core ×1<br>Eitr ×12<br>Gjall Trophy ×1 | — | Lv.1 | — |
 
 🔮 **$item_anubis_cape_DO**: 🏃 Speed: +7% | ❤️ +1 HP / 0s | 🌬️ Wind Movement: +25% | 🌬️ Wind Run Stamina: immune | 🏃 Run Stamina: -10%
 
 🔮 **$item_anubis_belt_DO**: 📦 +150 Carry Weight | ⚡ Stamina Regen: +10%
 
-#### ⚔️ Vũ Khí (10)
+#### ⚔️ Vũ Khí (5)
 
 | Icon | Tên | Nguyên Liệu | Nâng Cấp | Sát Thương | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
-| — | **ArmorAnubisHelmetDO** | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | — | Lv.1 | — |
-| — | **ArmorAnubisChestDO** | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | — | Lv.1 | — |
-| — | **ArmorAnubisLegsDO** | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Scale Hide ×4 | ScarabAnubisDO ×3<br>Eitr ×4 | — | Lv.1 | — |
-| — | **ArmorAnubisCapeDO** | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Giant Blood Sack ×16 | ScarabAnubisDO ×3<br>Eitr ×4 | — | Lv.1 | — |
-| — | **ArmorAnubisBeltDO** | ScarabAnubisDO ×10<br>Black Core ×1<br>Eitr ×12<br>Gjall Trophy ×1 | — | — | Lv.1 | — |
-| — | **DaggerAnubisDO** | ScarabAnubisDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabAnubisDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
-| — | **DaggerDualAnubisDO** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
-| — | **BattleAxeAnubisDO** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
-| — | **FistClawAnubisDO** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
-| — | **BastardAnubisDO** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
+| — | **Anubis Fang** | ScarabAnubisDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabAnubisDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
+| — | **Twilight Blades** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
+| — | **Circle of Judgment** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
+| — | **Soulreaper Claws** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
+| — | **Crimson Pact** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
 
 ### 💀 Thanatos Set — Deathbringer
 
@@ -119,27 +119,27 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 📦 Crafting Level: **2** tại Celestial Forge
 
-#### 🧥 Armor (0 pieces)
+#### 🧥 Armor (4 pieces)
 
 | Icon | Tên | Armor | Nguyên Liệu | Nâng Cấp | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
+| — | **Thanatos Helm** | — | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
+| — | **Thanatos Chestguard** | — | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
+| — | **Thanatos Greaves** | — | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
+| — | **Thanatos Wings** | — | Flametal ×12<br>FeatherThanatosDO ×10<br>Eitr ×12<br>Volture Trophy ×2 | FeatherThanatosDO ×5<br>Eitr ×6 | Lv.2 | — |
 
 🔮 **$item_thanatos_cape_DO**: ⚡ Stamina Regen: +10% | ⬇️ Fall Damage: -100% | ❤️ +2 HP / 0s
 
 💀 **Debuff on enemies:** 🏃 Speed: -35% | ⏱️ 5s
 
-#### ⚔️ Vũ Khí (8)
+#### ⚔️ Vũ Khí (4)
 
 | Icon | Tên | Nguyên Liệu | Nâng Cấp | Sát Thương | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
-| — | **ArmorThanatosHelmetDO** | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | — | Lv.2 | — |
-| — | **ArmorThanatosChestDO** | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | — | Lv.2 | — |
-| — | **ArmorThanatosLegsDO** | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | — | Lv.2 | — |
-| — | **ArmorThanatosCapeDO** | Flametal ×12<br>FeatherThanatosDO ×10<br>Eitr ×12<br>Volture Trophy ×2 | FeatherThanatosDO ×5<br>Eitr ×6 | — | Lv.2 | — |
-| — | **ScytheThanatosDO** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
-| — | **MaceThanatosDO** | FeatherThanatosDO ×6<br>Flametal ×16<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×8 | — | Lv.2 | — |
-| — | **ShieldThanatosDO** | FeatherThanatosDO ×6<br>Flametal ×14<br>Blackwood ×8 | FeatherThanatosDO ×3<br>Flametal ×7 | — | Lv.2 | — |
-| — | **BastardThanatosDO** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
+| — | **Final Testament** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
+| — | **Three-Faced Hammer** | FeatherThanatosDO ×6<br>Flametal ×16<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×8 | — | Lv.2 | — |
+| — | **Aegis of Faces** | FeatherThanatosDO ×6<br>Flametal ×14<br>Blackwood ×8 | FeatherThanatosDO ×3<br>Flametal ×7 | — | Lv.2 | — |
+| — | **Twilight Oath** | FeatherThanatosDO ×6<br>Flametal ×24<br>Ask Hide ×8 | FeatherThanatosDO ×3<br>Flametal ×12 | — | Lv.2 | — |
 
 ### 📊 Tổng Nguyên Liệu Cần Thiết (craft all)
 
