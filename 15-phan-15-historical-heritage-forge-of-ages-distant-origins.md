@@ -66,11 +66,11 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Slot | Station | Recipe | Armor | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![MinerChest.png](historical_heritage_data/sprites/MinerChest.png) | **Miner's Chestguard** | 🦺 Chest | ForgeOfAgesDO | Bronze ×6<br>Deer Hide ×3<br>FittingsBronzeDO ×10 | — | Bronze ×3<br>Deer Hide ×1 |
-| ![MinerLegs.png](historical_heritage_data/sprites/MinerLegs.png) | **Miner's Leggings** | 👖 Legs | ForgeOfAgesDO | Bronze ×6<br>Deer Hide ×3<br>FittingsBronzeDO ×10 | — | Bronze ×3<br>Deer Hide ×1 |
-| ![MinerHelmet.png](historical_heritage_data/sprites/MinerHelmet.png) | **Miner's Helm** | 🪖 Helmet | ForgeOfAgesDO | Bronze ×6<br>Deer Hide ×3<br>FittingsBronzeDO ×10 | — | Bronze ×3<br>Deer Hide ×1 |
-| ![MinerCape.png](historical_heritage_data/sprites/MinerCape.png) | **Miner's Pack Frame** | 🧣 Cape | ForgeOfAgesDO | Bronze ×6<br>Round Log ×20<br>Deer Hide ×3<br>FittingsBronzeDO ×15 | — | Bronze ×3<br>Round Log ×10 |
-| ![MinerBelt.png](historical_heritage_data/sprites/MinerBelt.png) | **Miner's Belt** | 📿 Belt | ForgeOfAgesDO | PickaxeDualMinerBronzeDO ×1<br>Bronze ×6<br>Deer Hide ×6<br>FittingsBronzeDO ×20 | — | — |
+| ![MinerChest.png](historical_heritage_data/sprites/MinerChest.png) | **Miner's Chestguard** | 🦺 Chest | ForgeOfAgesDO | Bronze ×6<br>Deer Hide ×3<br>FittingsBronzeDO ×10 | 🛡️ 8 +2/lv | Bronze ×3<br>Deer Hide ×1 |
+| ![MinerLegs.png](historical_heritage_data/sprites/MinerLegs.png) | **Miner's Leggings** | 👖 Legs | ForgeOfAgesDO | Bronze ×6<br>Deer Hide ×3<br>FittingsBronzeDO ×10 | 🛡️ 8 +2/lv | Bronze ×3<br>Deer Hide ×1 |
+| ![MinerHelmet.png](historical_heritage_data/sprites/MinerHelmet.png) | **Miner's Helm** | 🪖 Helmet | ForgeOfAgesDO | Bronze ×6<br>Deer Hide ×3<br>FittingsBronzeDO ×10 | 🛡️ 8 +2/lv | Bronze ×3<br>Deer Hide ×1 |
+| ![MinerCape.png](historical_heritage_data/sprites/MinerCape.png) | **Miner's Pack Frame** | 🧣 Cape | ForgeOfAgesDO | Bronze ×6<br>Round Log ×20<br>Deer Hide ×3<br>FittingsBronzeDO ×15 | 🛡️ 4 +1/lv | Bronze ×3<br>Round Log ×10 |
+| ![MinerBelt.png](historical_heritage_data/sprites/MinerBelt.png) | **Miner's Belt** | 📿 Belt | ForgeOfAgesDO | PickaxeDualMinerBronzeDO ×1<br>Bronze ×6<br>Deer Hide ×6<br>FittingsBronzeDO ×20 | 🛡️ 10 +1/lv | — |
 
 #### ☠️ Plague Doctor — Plague / Alchemy
 
@@ -98,11 +98,11 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Slot | Station | Recipe | Armor | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![SailorChest.png](historical_heritage_data/sprites/SailorChest.png) | **Sailor's Shirt** | 🦺 Chest | ForgeOfAgesDO | Deer Hide ×6<br>Leather Scraps ×12<br>FittingsIronDO ×25 | — | Deer Hide ×2<br>Leather Scraps ×6 |
-| ![SailorLegs.png](historical_heritage_data/sprites/SailorLegs.png) | **Sailor's Trousers** | 👖 Legs | ForgeOfAgesDO | Deer Hide ×6<br>Leather Scraps ×12<br>FittingsIronDO ×25 | — | Deer Hide ×2<br>Leather Scraps ×6 |
-| ![SailorHelmet.png](historical_heritage_data/sprites/SailorHelmet.png) | **Sailor's Headband** | 🪖 Helmet | ForgeOfAgesDO | Deer Hide ×6<br>Leather Scraps ×12<br>FittingsIronDO ×25 | — | Deer Hide ×2<br>Leather Scraps ×6 |
-| ![SailorCape.png](historical_heritage_data/sprites/SailorCape.png) | **Sailor's Shoulder Strap** | 🧣 Cape | ForgeOfAgesDO | Deer Hide ×4<br>Leather Scraps ×8<br>FittingsIronDO ×15 | — | Deer Hide ×2<br>Leather Scraps ×4 |
-| ![SailorBelt.png](historical_heritage_data/sprites/SailorBelt.png) | **Sailor's Belt** | 📿 Belt | ForgeOfAgesDO | Leech Trophy ×2<br>Iron ×6<br>Troll Hide ×10<br>FittingsIronDO ×30 | — | — |
+| ![SailorChest.png](historical_heritage_data/sprites/SailorChest.png) | **Sailor's Shirt** | 🦺 Chest | ForgeOfAgesDO | Deer Hide ×6<br>Leather Scraps ×12<br>FittingsIronDO ×25 | 🛡️ 10 +2/lv | Deer Hide ×2<br>Leather Scraps ×6 |
+| ![SailorLegs.png](historical_heritage_data/sprites/SailorLegs.png) | **Sailor's Trousers** | 👖 Legs | ForgeOfAgesDO | Deer Hide ×6<br>Leather Scraps ×12<br>FittingsIronDO ×25 | 🛡️ 10 +2/lv | Deer Hide ×2<br>Leather Scraps ×6 |
+| ![SailorHelmet.png](historical_heritage_data/sprites/SailorHelmet.png) | **Sailor's Headband** | 🪖 Helmet | ForgeOfAgesDO | Deer Hide ×6<br>Leather Scraps ×12<br>FittingsIronDO ×25 | 🛡️ 10 +2/lv | Deer Hide ×2<br>Leather Scraps ×6 |
+| ![SailorCape.png](historical_heritage_data/sprites/SailorCape.png) | **Sailor's Shoulder Strap** | 🧣 Cape | ForgeOfAgesDO | Deer Hide ×4<br>Leather Scraps ×8<br>FittingsIronDO ×15 | 🛡️ 2 +1/lv | Deer Hide ×2<br>Leather Scraps ×4 |
+| ![SailorBelt.png](historical_heritage_data/sprites/SailorBelt.png) | **Sailor's Belt** | 📿 Belt | ForgeOfAgesDO | Leech Trophy ×2<br>Iron ×6<br>Troll Hide ×10<br>FittingsIronDO ×30 | 🛡️ 10 +1/lv | — |
 
 #### 🎋 Gunjang — Korean Martial / Honor
 
@@ -114,11 +114,11 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Slot | Station | Recipe | Armor | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![KoreaChest.png](historical_heritage_data/sprites/KoreaChest.png) | **Gunjang Combat Garb** | 🦺 Chest | ForgeOfAgesDO Lv.2 | Silver ×18<br>Wolf Pelt ×10<br>FittingsSilverDO ×20 | — | Silver ×4<br>Wolf Pelt ×3 |
-| ![KoreaLegs.png](historical_heritage_data/sprites/KoreaLegs.png) | **Gunjang Trousers** | 👖 Legs | ForgeOfAgesDO Lv.2 | Silver ×18<br>Wolf Pelt ×10<br>FittingsSilverDO ×20 | — | Silver ×4<br>Wolf Pelt ×3 |
-| ![KoreaHelmet.png](historical_heritage_data/sprites/KoreaHelmet.png) | **Gunjang Topknot** | 🪖 Helmet | ForgeOfAgesDO Lv.2 | Silver ×18<br>Wolf Pelt ×10<br>Obsidian ×6<br>FittingsSilverDO ×20 | — | Silver ×4<br>Wolf Pelt ×3 |
-| ![KoreaCape.png](historical_heritage_data/sprites/KoreaCape.png) | **Dragon Scabbard** | 🧣 Cape | ForgeOfAgesDO Lv.2 | Silver ×10<br>Wolf Pelt ×4<br>FittingsSilverDO ×25 | — | Silver ×4<br>Wolf Pelt ×2 |
-| ![KoreaBelt.png](historical_heritage_data/sprites/KoreaBelt.png) | **Honor Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.2 | SwordGunjangSamingeomDO ×1<br>Silver ×6<br>Wolf Pelt ×12<br>FittingsSilverDO ×15 | — | — |
+| ![KoreaChest.png](historical_heritage_data/sprites/KoreaChest.png) | **Gunjang Combat Garb** | 🦺 Chest | ForgeOfAgesDO Lv.2 | Silver ×18<br>Wolf Pelt ×10<br>FittingsSilverDO ×20 | 🛡️ 18 +2/lv | Silver ×4<br>Wolf Pelt ×3 |
+| ![KoreaLegs.png](historical_heritage_data/sprites/KoreaLegs.png) | **Gunjang Trousers** | 👖 Legs | ForgeOfAgesDO Lv.2 | Silver ×18<br>Wolf Pelt ×10<br>FittingsSilverDO ×20 | 🛡️ 18 +2/lv | Silver ×4<br>Wolf Pelt ×3 |
+| ![KoreaHelmet.png](historical_heritage_data/sprites/KoreaHelmet.png) | **Gunjang Topknot** | 🪖 Helmet | ForgeOfAgesDO Lv.2 | Silver ×18<br>Wolf Pelt ×10<br>Obsidian ×6<br>FittingsSilverDO ×20 | 🛡️ 18 +2/lv | Silver ×4<br>Wolf Pelt ×3 |
+| ![KoreaCape.png](historical_heritage_data/sprites/KoreaCape.png) | **Dragon Scabbard** | 🧣 Cape | ForgeOfAgesDO Lv.2 | Silver ×10<br>Wolf Pelt ×4<br>FittingsSilverDO ×25 | 🛡️ 4 +1/lv | Silver ×4<br>Wolf Pelt ×2 |
+| ![KoreaBelt.png](historical_heritage_data/sprites/KoreaBelt.png) | **Honor Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.2 | SwordGunjangSamingeomDO ×1<br>Silver ×6<br>Wolf Pelt ×12<br>FittingsSilverDO ×15 | 🛡️ 2 +1/lv | — |
 
 #### 🚢 Captain — Naval Command / Authority
 
@@ -130,12 +130,12 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Slot | Station | Recipe | Armor | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![CaptainChest.png](historical_heritage_data/sprites/CaptainChest.png) | **Captain's Greatcoat** | 🦺 Chest | ForgeOfAgesDO Lv.3 | Carapace ×4<br>Scale Hide ×4<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | — | Carapace ×2<br>Linen Thread ×10 |
-| ![CaptainLegs.png](historical_heritage_data/sprites/CaptainLegs.png) | **Captain's Trousers** | 👖 Legs | ForgeOfAgesDO Lv.3 | Carapace ×4<br>Scale Hide ×4<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | — | Carapace ×2<br>Linen Thread ×10 |
-| ![CaptainHelmet.png](historical_heritage_data/sprites/CaptainHelmet.png) | **Captain's Tricorne** | 🪖 Helmet | ForgeOfAgesDO Lv.3 | Carapace ×4<br>Scale Hide ×4<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | — | Carapace ×2<br>Linen Thread ×10 |
-| ![CaptainCape.png](historical_heritage_data/sprites/CaptainCape.png) | **Captain's Shoulder Belt** | 🧣 Cape | ForgeOfAgesDO Lv.3 | Iron ×4<br>Scale Hide ×4<br>Linen Thread ×10<br>FittingsBlackmetalDO ×30 | — | Iron ×2<br>Scale Hide ×2 |
-| ![CaptainBelt.png](historical_heritage_data/sprites/CaptainBelt.png) | **Captain's Scabbard** | 📿 Belt | ForgeOfAgesDO | SwordCaptainCutlassDO ×1<br>Scale Hide ×6<br>Linen Thread ×20<br>FittingsBlackmetalDO ×40 | — | — |
-| ![CaptainTrinket.png](historical_heritage_data/sprites/CaptainTrinket.png) | **Captain's Amulet** | 🔮 Trinket | ForgeOfAgesDO | Serpent Trophy ×1<br>Linen Thread ×10<br>Silver Necklace ×1<br>FittingsBlackmetalDO ×20 | — | — |
+| ![CaptainChest.png](historical_heritage_data/sprites/CaptainChest.png) | **Captain's Greatcoat** | 🦺 Chest | ForgeOfAgesDO Lv.3 | Carapace ×4<br>Scale Hide ×4<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | 🛡️ 28 +2/lv | Carapace ×2<br>Linen Thread ×10 |
+| ![CaptainLegs.png](historical_heritage_data/sprites/CaptainLegs.png) | **Captain's Trousers** | 👖 Legs | ForgeOfAgesDO Lv.3 | Carapace ×4<br>Scale Hide ×4<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | 🛡️ 28 +2/lv | Carapace ×2<br>Linen Thread ×10 |
+| ![CaptainHelmet.png](historical_heritage_data/sprites/CaptainHelmet.png) | **Captain's Tricorne** | 🪖 Helmet | ForgeOfAgesDO Lv.3 | Carapace ×4<br>Scale Hide ×4<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | 🛡️ 28 +2/lv | Carapace ×2<br>Linen Thread ×10 |
+| ![CaptainCape.png](historical_heritage_data/sprites/CaptainCape.png) | **Captain's Shoulder Belt** | 🧣 Cape | ForgeOfAgesDO Lv.3 | Iron ×4<br>Scale Hide ×4<br>Linen Thread ×10<br>FittingsBlackmetalDO ×30 | 🛡️ 3 +1/lv | Iron ×2<br>Scale Hide ×2 |
+| ![CaptainBelt.png](historical_heritage_data/sprites/CaptainBelt.png) | **Captain's Scabbard** | 📿 Belt | ForgeOfAgesDO | SwordCaptainCutlassDO ×1<br>Scale Hide ×6<br>Linen Thread ×20<br>FittingsBlackmetalDO ×40 | 🛡️ 10 +1/lv | — |
+| ![CaptainTrinket.png](historical_heritage_data/sprites/CaptainTrinket.png) | **Captain's Amulet** | 🔮 Trinket | ForgeOfAgesDO | Serpent Trophy ×1<br>Linen Thread ×10<br>Silver Necklace ×1<br>FittingsBlackmetalDO ×20 | 🛡️ 10 +1/lv | — |
 
 #### 🗡️ Bashrad — Persian / Desert Warfare
 
@@ -147,11 +147,11 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Slot | Station | Recipe | Armor | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![ArmorBashradChest.png](historical_heritage_data/sprites/ArmorBashradChest.png) | **Bashrad Lamellar Armor** | 🦺 Chest | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | — | Black Metal ×10<br>Linen Thread ×10 |
-| ![ArmorBashradLegs.png](historical_heritage_data/sprites/ArmorBashradLegs.png) | **Bashrad Trousers** | 👖 Legs | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | — | Black Metal ×10<br>Linen Thread ×10 |
-| ![ArmorBashradHelmet.png](historical_heritage_data/sprites/ArmorBashradHelmet.png) | **Bashrad Turban** | 🪖 Helmet | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | — | Black Metal ×10<br>Linen Thread ×10 |
-| ![ArmorBashradCape.png](historical_heritage_data/sprites/ArmorBashradCape.png) | **Bashrad Cloak** | 🧣 Cape | ForgeOfAgesDO Lv.3 | Lox Pelt ×6<br>Linen Thread ×14<br>FittingsBlackmetalDO ×15 | — | Lox Pelt ×3<br>Linen Thread ×7 |
-| ![ArmorBashradBelt.png](historical_heritage_data/sprites/ArmorBashradBelt.png) | **Bashrad Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.3 | SwordDualBashradDO ×1<br>Black Metal ×20<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | — | — |
+| ![ArmorBashradChest.png](historical_heritage_data/sprites/ArmorBashradChest.png) | **Bashrad Lamellar Armor** | 🦺 Chest | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | 🛡️ 24 +2/lv | Black Metal ×10<br>Linen Thread ×10 |
+| ![ArmorBashradLegs.png](historical_heritage_data/sprites/ArmorBashradLegs.png) | **Bashrad Trousers** | 👖 Legs | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | 🛡️ 24 +2/lv | Black Metal ×10<br>Linen Thread ×10 |
+| ![ArmorBashradHelmet.png](historical_heritage_data/sprites/ArmorBashradHelmet.png) | **Bashrad Turban** | 🪖 Helmet | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | 🛡️ 24 +2/lv | Black Metal ×10<br>Linen Thread ×10 |
+| ![ArmorBashradCape.png](historical_heritage_data/sprites/ArmorBashradCape.png) | **Bashrad Cloak** | 🧣 Cape | ForgeOfAgesDO Lv.3 | Lox Pelt ×6<br>Linen Thread ×14<br>FittingsBlackmetalDO ×15 | 🛡️ 2 +1/lv | Lox Pelt ×3<br>Linen Thread ×7 |
+| ![ArmorBashradBelt.png](historical_heritage_data/sprites/ArmorBashradBelt.png) | **Bashrad Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.3 | SwordDualBashradDO ×1<br>Black Metal ×20<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | 🛡️ 10 +1/lv | — |
 
 #### ✝️ Crusader — Holy Knight / Faith
 
@@ -163,11 +163,11 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Slot | Station | Recipe | Armor | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![CrusaderChest.png](historical_heritage_data/sprites/CrusaderChest.png) | **Crusader Cuirass** | 🦺 Chest | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | — | Black Metal ×10<br>Linen Thread ×10 |
-| ![CrusaderLegs.png](historical_heritage_data/sprites/CrusaderLegs.png) | **Crusader Chain Chausses** | 👖 Legs | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | — | Black Metal ×10<br>Linen Thread ×10 |
-| ![CrusaderHelmet.png](historical_heritage_data/sprites/CrusaderHelmet.png) | **Crusader Great Helm** | 🪖 Helmet | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | — | Black Metal ×10<br>Linen Thread ×10 |
-| ![CrusaderCape.png](historical_heritage_data/sprites/CrusaderCape.png) | **Crusader Harness** | 🧣 Cape | ForgeOfAgesDO Lv.3 | Lox Pelt ×10<br>Linen Thread ×10<br>FittingsBlackmetalDO ×15 | — | Lox Pelt ×4<br>Linen Thread ×5 |
-| ![CrusaderBelt.png](historical_heritage_data/sprites/CrusaderBelt.png) | **Templar Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.3 | SwordCrusaderDO ×1<br>Black Metal ×20<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | — | — |
+| ![CrusaderChest.png](historical_heritage_data/sprites/CrusaderChest.png) | **Crusader Cuirass** | 🦺 Chest | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | 🛡️ 28 +2/lv | Black Metal ×10<br>Linen Thread ×10 |
+| ![CrusaderLegs.png](historical_heritage_data/sprites/CrusaderLegs.png) | **Crusader Chain Chausses** | 👖 Legs | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | 🛡️ 28 +2/lv | Black Metal ×10<br>Linen Thread ×10 |
+| ![CrusaderHelmet.png](historical_heritage_data/sprites/CrusaderHelmet.png) | **Crusader Great Helm** | 🪖 Helmet | ForgeOfAgesDO Lv.3 | Black Metal ×25<br>Linen Thread ×20<br>FittingsBlackmetalDO ×30 | 🛡️ 28 +2/lv | Black Metal ×10<br>Linen Thread ×10 |
+| ![CrusaderCape.png](historical_heritage_data/sprites/CrusaderCape.png) | **Crusader Harness** | 🧣 Cape | ForgeOfAgesDO Lv.3 | Lox Pelt ×10<br>Linen Thread ×10<br>FittingsBlackmetalDO ×15 | 🛡️ 2 +1/lv | Lox Pelt ×4<br>Linen Thread ×5 |
+| ![CrusaderBelt.png](historical_heritage_data/sprites/CrusaderBelt.png) | **Templar Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.3 | SwordCrusaderDO ×1<br>Black Metal ×20<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | 🛡️ 2 +1/lv | — |
 
 #### 🐉 Daowei — Chinese Martial / Empire
 
@@ -179,11 +179,11 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Slot | Station | Recipe | Armor | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![DaoChest.png](historical_heritage_data/sprites/DaoChest.png) | **Daowei Cuirass** | 🦺 Chest | ForgeOfAgesDO Lv.3 | Carapace ×16<br>Scale Hide ×4<br>Linen Thread ×25<br>FittingsBlackmetalDO ×30 | — | Carapace ×8<br>Scale Hide ×2 |
-| ![DaoLegs.png](historical_heritage_data/sprites/DaoLegs.png) | **Daowei Greaves** | 👖 Legs | ForgeOfAgesDO Lv.3 | Carapace ×16<br>Scale Hide ×4<br>Linen Thread ×25<br>FittingsBlackmetalDO ×30 | — | Carapace ×8<br>Scale Hide ×2 |
-| ![DaoHelmet.png](historical_heritage_data/sprites/DaoHelmet.png) | **Daowei Helmet** | 🪖 Helmet | ForgeOfAgesDO Lv.3 | Carapace ×16<br>Scale Hide ×4<br>Feathers ×2<br>FittingsBlackmetalDO ×30 | — | Carapace ×8<br>Scale Hide ×2 |
-| ![DaoCape.png](historical_heritage_data/sprites/DaoCape.png) | **Daowei Mantle** | 🧣 Cape | ForgeOfAgesDO Lv.3 | Carapace ×10<br>Linen Thread ×30<br>FittingsBlackmetalDO ×15 | — | Carapace ×5<br>Linen Thread ×15 |
-| ![DaoBelt.png](historical_heritage_data/sprites/DaoBelt.png) | **Quiet Steel Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.3 | SwordDaoweiJianDO ×1<br>Carapace ×10<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | — | — |
+| ![DaoChest.png](historical_heritage_data/sprites/DaoChest.png) | **Daowei Cuirass** | 🦺 Chest | ForgeOfAgesDO Lv.3 | Carapace ×16<br>Scale Hide ×4<br>Linen Thread ×25<br>FittingsBlackmetalDO ×30 | 🛡️ 34 +2/lv | Carapace ×8<br>Scale Hide ×2 |
+| ![DaoLegs.png](historical_heritage_data/sprites/DaoLegs.png) | **Daowei Greaves** | 👖 Legs | ForgeOfAgesDO Lv.3 | Carapace ×16<br>Scale Hide ×4<br>Linen Thread ×25<br>FittingsBlackmetalDO ×30 | 🛡️ 34 +2/lv | Carapace ×8<br>Scale Hide ×2 |
+| ![DaoHelmet.png](historical_heritage_data/sprites/DaoHelmet.png) | **Daowei Helmet** | 🪖 Helmet | ForgeOfAgesDO Lv.3 | Carapace ×16<br>Scale Hide ×4<br>Feathers ×2<br>FittingsBlackmetalDO ×30 | 🛡️ 34 +2/lv | Carapace ×8<br>Scale Hide ×2 |
+| ![DaoCape.png](historical_heritage_data/sprites/DaoCape.png) | **Daowei Mantle** | 🧣 Cape | ForgeOfAgesDO Lv.3 | Carapace ×10<br>Linen Thread ×30<br>FittingsBlackmetalDO ×15 | 🛡️ 2 +1/lv | Carapace ×5<br>Linen Thread ×15 |
+| ![DaoBelt.png](historical_heritage_data/sprites/DaoBelt.png) | **Quiet Steel Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.3 | SwordDaoweiJianDO ×1<br>Carapace ×10<br>Linen Thread ×30<br>FittingsBlackmetalDO ×30 | 🛡️ 2 +1/lv | — |
 
 #### 🏯 Shogun — Japanese Samurai / Discipline
 
@@ -195,11 +195,11 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Slot | Station | Recipe | Armor | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![ArmorSamuraiChest.png](historical_heritage_data/sprites/ArmorSamuraiChest.png) | **Shogun Do Chest** | 🦺 Chest | ForgeOfAgesDO Lv.4 | Flametal ×22<br>Linen Thread ×20<br>Scale Hide ×4<br>FittingsFlametalDO ×20 | — | Flametal ×10<br>Linen Thread ×10 |
-| ![ArmorSamuraiLegs.png](historical_heritage_data/sprites/ArmorSamuraiLegs.png) | **Shogun Suneate Greaves** | 👖 Legs | ForgeOfAgesDO Lv.4 | Flametal ×22<br>Linen Thread ×20<br>Scale Hide ×4<br>FittingsFlametalDO ×20 | — | Flametal ×10<br>Linen Thread ×10 |
-| ![ArmorSamuraiHelmet.png](historical_heritage_data/sprites/ArmorSamuraiHelmet.png) | **Shogun Kabuto Helm** | 🪖 Helmet | ForgeOfAgesDO Lv.4 | Flametal ×22<br>Linen Thread ×20<br>Hard Antler ×2<br>FittingsFlametalDO ×20 | — | Flametal ×10<br>Linen Thread ×10 |
-| ![ArmorSamuraiCape.png](historical_heritage_data/sprites/ArmorSamuraiCape.png) | **Shogun Sode Pauldrons** | 🧣 Cape | ForgeOfAgesDO Lv.4 | Flametal ×8<br>Scale Hide ×6<br>FittingsFlametalDO ×10 | — | Flametal ×1<br>Scale Hide ×3 |
-| ![ArmorSamuraiBeltNEW.png](historical_heritage_data/sprites/ArmorSamuraiBeltNEW.png) | **Shogun Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.4 | BastardShogunKatanaDO ×1<br>SwordShogunWakizashiDO ×1<br>Linen Thread ×15<br>FittingsFlametalDO ×30 | — | — |
+| ![ArmorSamuraiChest.png](historical_heritage_data/sprites/ArmorSamuraiChest.png) | **Shogun Do Chest** | 🦺 Chest | ForgeOfAgesDO Lv.4 | Flametal ×22<br>Linen Thread ×20<br>Scale Hide ×4<br>FittingsFlametalDO ×20 | 🛡️ 40 +2/lv | Flametal ×10<br>Linen Thread ×10 |
+| ![ArmorSamuraiLegs.png](historical_heritage_data/sprites/ArmorSamuraiLegs.png) | **Shogun Suneate Greaves** | 👖 Legs | ForgeOfAgesDO Lv.4 | Flametal ×22<br>Linen Thread ×20<br>Scale Hide ×4<br>FittingsFlametalDO ×20 | 🛡️ 40 +2/lv | Flametal ×10<br>Linen Thread ×10 |
+| ![ArmorSamuraiHelmet.png](historical_heritage_data/sprites/ArmorSamuraiHelmet.png) | **Shogun Kabuto Helm** | 🪖 Helmet | ForgeOfAgesDO Lv.4 | Flametal ×22<br>Linen Thread ×20<br>Hard Antler ×2<br>FittingsFlametalDO ×20 | 🛡️ 40 +2/lv | Flametal ×10<br>Linen Thread ×10 |
+| ![ArmorSamuraiCape.png](historical_heritage_data/sprites/ArmorSamuraiCape.png) | **Shogun Sode Pauldrons** | 🧣 Cape | ForgeOfAgesDO Lv.4 | Flametal ×8<br>Scale Hide ×6<br>FittingsFlametalDO ×10 | 🛡️ 14 +2/lv | Flametal ×1<br>Scale Hide ×3 |
+| ![ArmorSamuraiBeltNEW.png](historical_heritage_data/sprites/ArmorSamuraiBeltNEW.png) | **Shogun Scabbard** | 📿 Belt | ForgeOfAgesDO Lv.4 | BastardShogunKatanaDO ×1<br>SwordShogunWakizashiDO ×1<br>Linen Thread ×15<br>FittingsFlametalDO ×30 | 🛡️ 10 +1/lv | — |
 
 ### 🗡️ Weapons
 
