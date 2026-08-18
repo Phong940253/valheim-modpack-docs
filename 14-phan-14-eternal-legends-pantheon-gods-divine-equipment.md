@@ -2,26 +2,35 @@
 
 ## ⚔️ Eternal Legends — Pantheon Gods & Divine Equipment
 
-*Mod: Eternal Legends v1.0.4 — 3 bộ giáp thần thánh, 14 vũ khí, 4 nguyên liệu, Trail Forging + 4 extension. Mỗi set có bonus riêng khi mặc đủ 4 mảnh.*
+*Mod: Eternal Legends v1.0.4 — 3 bộ giáp thần thánh, 14 vũ khí, 4 nguyên liệu, Trail Forging + 4 extension.*
 
-🔨 **Trail Forging** (Celestial Forge) là trạm chế tạo chính, xây tại **Forge**. 📦 **Crystal Dualis** rơi từ Yagluth. 🦗 **Scarab** rơi từ mob Mistlands. 🪶 **Feather of Oblivion** rơi từ mob Ashlands.
+### 💎 Nguyên Liệu & Nguồn Drops
 
-### 💎 Nguyên Liệu
+#### 💠 Crystal Dualis (Dualis Crystal)
 
-| Icon | Tên | Nguồn掉落 | Mô Tả |
-| :---: | --- | --- | --- |
-| ![CrystalDualis.png](eternal_legends_data/sprites/CrystalDualis.png) | **Dualis Crystal** | — | — |
-| ![ScarabHorus.png](eternal_legends_data/sprites/ScarabHorus.png) | **Solar Scarab** | — | — |
-| ![ScarabAnubis.png](eternal_legends_data/sprites/ScarabAnubis.png) | **Abyssal Scarab** | — | — |
-| ![FeatherThanatos.png](eternal_legends_data/sprites/FeatherThanatos.png) | **Feather of Oblivion** | — | — |
+Nguyên liệu lõi để xây **Trail Forging**. Rơi từ **Yagluth** (100%, 1-1).
+
+#### 🪲 Scarabs (Mistlands)
+
+Cả Solar Scarab và Abyssal Scarab đều rơi từ mob **Mistlands**. Drop rate khác nhau theo loại mob:
+
+| Nguyên Liệu | Mob | Tỷ Lệ | Số Lượng |
+| --- | --- | --- | --- |
+
+#### 🪶 Feather of Oblivion (Ashlands)
+
+Rơi từ mob **Ashlands** và boss **Fader**. Drop rate cao nhất từ Fader (100%, 5-8).
+
+| Mob | Tỷ Lệ | Số Lượng |
+| --- | --- | --- |
 
 ### ☀️ Horus Set — Falcon God / Sun
 
 *Embrace the radiance of the Falcon God and ascend upon the wings of dawn.*
 
-✨ **Set Bonus (4 pieces):** 🛡️ +6 Armor<br>🛡️ Block Stamina: -20%
-
 📦 Crafting Level: **1** tại Celestial Forge
+
+✨ **Set Bonus (4 pieces):** 🛡️ +6 Armor | 🛡️ Block Stamina: -20%
 
 #### 🧥 Armor (5 pieces)
 
@@ -33,9 +42,9 @@
 | ![ArmorHorusCape.png](eternal_legends_data/sprites/ArmorHorusCape.png) | **Horus Wings** | 🛡️ 4 +1/lv | — | — |
 | ![ArmorHorusBelt.png](eternal_legends_data/sprites/ArmorHorusBelt.png) | **Horus Belt** | 🛡️ 10 +1/lv | — | — |
 
-🔮 **$se_horus_cape_buff_DO:** 📦 +50 Carry Weight<br>🦘 Jump Stamina: -20%<br>⬇️ Fall Damage: -100%
+🔮 **$item_horus_cape_DO** bonus: 📦 +50 Carry Weight | 🦘 Jump Stamina: -20% | ⬇️ Fall Damage: -100%
 
-🔮 **$se_horus_belt_buff_DO:** 📦 +150 Carry Weight<br>❤️ HP Regen: +10%
+🔮 **$item_horus_belt_DO** bonus: 📦 +150 Carry Weight | ❤️ HP Regen: +10%
 
 #### ⚔️ Vũ Khí (5)
 
@@ -51,9 +60,9 @@
 
 *Embrace the might of the Jackal God and walk the path between life and death.*
 
-✨ **Set Bonus (4 pieces):** ⚔️ Attack Stamina: -10%
-
 📦 Crafting Level: **1** tại Celestial Forge
+
+✨ **Set Bonus (4 pieces):** ⚔️ Attack Stamina: -10%
 
 #### 🧥 Armor (5 pieces)
 
@@ -65,9 +74,9 @@
 | ![ArmorAnubisCape.png](eternal_legends_data/sprites/ArmorAnubisCape.png) | **Anubis Mantle** | 🛡️ 2 +1/lv | — | — |
 | ![ArmorAnubisBelt.png](eternal_legends_data/sprites/ArmorAnubisBelt.png) | **Anubis Ring** | 🛡️ 10 +1/lv | — | — |
 
-🔮 **$se_anubis_cape_buff_DO:** 🏃 Speed: +7%<br>❤️ +1 HP / 0s<br>🌬️ Wind Movement: +25%<br>🌬️ Wind Run Stamina: immune<br>🏃 Run Stamina: -10%
+🔮 **$item_anubis_cape_DO** bonus: 🏃 Speed: +7% | ❤️ +1 HP / 0s | 🌬️ Wind Movement: +25% | 🌬️ Wind Run Stamina: immune | 🏃 Run Stamina: -10%
 
-🔮 **$se_anubis_belt_buff_DO:** 📦 +150 Carry Weight<br>⚡ Stamina Regen: +10%
+🔮 **$item_anubis_belt_DO** bonus: 📦 +150 Carry Weight | ⚡ Stamina Regen: +10%
 
 #### ⚔️ Vũ Khí (5)
 
@@ -83,9 +92,9 @@
 
 *Embrace the stillness of the Deathbringer and tread the path where all journeys end.*
 
-✨ **Set Bonus (4 pieces):** ❤️ HP Regen: +15%<br>⚔️ Attack Stamina: -15%
-
 📦 Crafting Level: **2** tại Celestial Forge
+
+✨ **Set Bonus (4 pieces):** ❤️ HP Regen: +15% | ⚔️ Attack Stamina: -15%
 
 #### 🧥 Armor (4 pieces)
 
@@ -96,7 +105,9 @@
 | ![ThanatosLegsDO.png](eternal_legends_data/sprites/ThanatosLegsDO.png) | **Thanatos Greaves** | 🛡️ 43 +2/lv | — | — |
 | ![ThanatosCapeDO.png](eternal_legends_data/sprites/ThanatosCapeDO.png) | **Thanatos Wings** | 🛡️ 4 +1/lv | — | — |
 
-🔮 **$se_thanatos_cape_buff_DO:** ⚡ Stamina Regen: +10%<br>⬇️ Fall Damage: -100%<br>❤️ +2 HP / 0s
+🔮 **$item_thanatos_cape_DO** bonus: ⚡ Stamina Regen: +10% | ⬇️ Fall Damage: -100% | ❤️ +2 HP / 0s
+
+💀 **Thanatos Slow Debuff** (on enemies): 🏃 Speed: -35% | ⏱️ Duration: 5s
 
 #### ⚔️ Vũ Khí (4)
 
@@ -109,12 +120,10 @@
 
 ### 🔨 Trail Forging & Extensions
 
-**Trail Forging** (Celestial Forge) là trạm chế tạo chính. Xây tại **Forge**. 4 extension mở rộng crafting options.
-
 | Icon | Tên | Trạm | Nguyên Liệu |
 | :---: | --- | --- | --- |
 | ![CelestialForgeDO.png](eternal_legends_data/sprites/CelestialForgeDO.png) | **Celestial Forge** | ⚒️ Forge | CrystalDualisDO ×1<br>Bronze ×20<br>Black Marble ×20<br>Eitr ×6 |
 | ![CelestialForgeExt1DO.png](eternal_legends_data/sprites/CelestialForgeExt1DO.png) | **Forge Extension 1** | — | Black Core ×1<br>Black Metal ×30<br>Black Marble ×20<br>Bronze ×6 |
 | ![CelestialForgeExt2DO.png](eternal_legends_data/sprites/CelestialForgeExt2DO.png) | **Forge Extension 2** | — | Red Gemstone ×1<br>Grausten ×40<br>Sulfur Stone ×6<br>Morgen Trophy ×1 |
-| ![CelestialForgeExt3DO.png](eternal_legends_data/sprites/CelestialForgeExt3DO.png) | **Forge Extension 3** | — | GemstoneGreen ×1<br>Flametal ×10<br>Morgen Sinew ×2<br>CelestialFeather ×2 |
-| ![CelestialForgeExt4DO.png](eternal_legends_data/sprites/CelestialForgeExt4DO.png) | **Forge Extension 4** | — | GemstoneBlue ×1<br>Flametal ×14<br>Charcoal Resin ×8<br>Molten Core ×4 |
+| ![CelestialForgeExt3DO.png](eternal_legends_data/sprites/CelestialForgeExt3DO.png) | **Forge Extension 3** | — | Green Gemstone ×1<br>Flametal ×10<br>Morgen Sinew ×2<br>CelestialFeather ×2 |
+| ![CelestialForgeExt4DO.png](eternal_legends_data/sprites/CelestialForgeExt4DO.png) | **Forge Extension 4** | — | Blue Gemstone ×1<br>Flametal ×14<br>Charcoal Resin ×8<br>Molten Core ×4 |
