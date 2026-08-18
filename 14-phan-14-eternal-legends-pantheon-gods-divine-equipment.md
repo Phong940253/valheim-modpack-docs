@@ -65,9 +65,9 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 | ![ArmorHorusCape.png](eternal_legends_data/sprites/ArmorHorusCape.png) | **Horus Wings** | 🛡️ 4 +1/lv | Carapace ×16<br>ScarabHorusDO ×6<br>Eitr ×8<br>Feathers ×16 | ScarabHorusDO ×3<br>Eitr ×4 | Lv.1 | — |
 | ![ArmorHorusBelt.png](eternal_legends_data/sprites/ArmorHorusBelt.png) | **Horus Belt** | 🛡️ 10 +1/lv | ScarabHorusDO ×10<br>Black Core ×1<br>Eitr ×12<br>Seeker Trophy ×2 | — | Lv.1 | — |
 
-🔮 **$item_horus_cape_DO**: 📦 +50 Carry Weight | 🦘 Jump Stamina: -20% | ⬇️ Fall Damage: -100%
+🔮 **Horus Wings**: 📦 +50 Carry Weight | 🦘 Jump Stamina: -20% | ⬇️ Fall Damage: -100%
 
-🔮 **$item_horus_belt_DO**: 📦 +150 Carry Weight | ❤️ HP Regen: +10%
+🔮 **Horus Belt**: 📦 +150 Carry Weight | ❤️ HP Regen: +10%
 
 #### ⚔️ Vũ Khí (5)
 
@@ -97,9 +97,9 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 | ![ArmorAnubisCape.png](eternal_legends_data/sprites/ArmorAnubisCape.png) | **Anubis Mantle** | 🛡️ 2 +1/lv | Carapace ×16<br>ScarabAnubisDO ×6<br>Eitr ×8<br>Giant Blood Sack ×16 | ScarabAnubisDO ×3<br>Eitr ×4 | Lv.1 | — |
 | ![ArmorAnubisBelt.png](eternal_legends_data/sprites/ArmorAnubisBelt.png) | **Anubis Ring** | 🛡️ 10 +1/lv | ScarabAnubisDO ×10<br>Black Core ×1<br>Eitr ×12<br>Gjall Trophy ×1 | — | Lv.1 | — |
 
-🔮 **$item_anubis_cape_DO**: 🏃 Speed: +7% | ❤️ +1 HP / 0s | 🌬️ Wind Movement: +25% | 🌬️ Wind Run Stamina: immune | 🏃 Run Stamina: -10%
+🔮 **Anubis Mantle**: 🏃 Speed: +7% | ❤️ +1 HP / 0s | 🌬️ Wind Movement: +25% | 🌬️ Wind Run Stamina: immune | 🏃 Run Stamina: -10%
 
-🔮 **$item_anubis_belt_DO**: 📦 +150 Carry Weight | ⚡ Stamina Regen: +10%
+🔮 **Anubis Ring**: 📦 +150 Carry Weight | ⚡ Stamina Regen: +10%
 
 #### ⚔️ Vũ Khí (5)
 
@@ -128,7 +128,7 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 | ![ThanatosLegsDO.png](eternal_legends_data/sprites/ThanatosLegsDO.png) | **Thanatos Greaves** | 🛡️ 43 +2/lv | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
 | ![ThanatosCapeDO.png](eternal_legends_data/sprites/ThanatosCapeDO.png) | **Thanatos Wings** | 🛡️ 4 +1/lv | Flametal ×12<br>FeatherThanatosDO ×10<br>Eitr ×12<br>Volture Trophy ×2 | FeatherThanatosDO ×5<br>Eitr ×6 | Lv.2 | — |
 
-🔮 **$item_thanatos_cape_DO**: ⚡ Stamina Regen: +10% | ⬇️ Fall Damage: -100% | ❤️ +2 HP / 0s
+🔮 **Thanatos Wings**: ⚡ Stamina Regen: +10% | ⬇️ Fall Damage: -100% | ❤️ +2 HP / 0s
 
 💀 **Debuff on enemies:** 🏃 Speed: -35% | ⏱️ 5s
 
