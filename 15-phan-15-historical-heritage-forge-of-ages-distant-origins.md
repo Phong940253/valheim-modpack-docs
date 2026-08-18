@@ -209,56 +209,56 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Type | Station | Recipe | Damage | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![PickaxeDualBronze.png](historical_heritage_data/sprites/PickaxeDualBronze.png) | **Twin Bronze Pickaxes** | 🪓 Axe | ForgeOfAgesDO | Bronze ×12<br>Round Log ×6<br>FittingsBronzeDO ×10 | — | Bronze ×6<br>Round Log ×3 |
-| ![PickaxeDualIron.png](historical_heritage_data/sprites/PickaxeDualIron.png) | **Twin Iron Pickaxes** | 🪓 Axe | ForgeOfAgesDO | Iron ×24<br>Fine Wood ×6<br>FittingsIronDO ×15 | — | Iron ×12<br>Fine Wood ×3 |
-| ![PickaxeDualBlackmetal.png](historical_heritage_data/sprites/PickaxeDualBlackmetal.png) | **Twin Blackmetal Pickaxes** | 🪓 Axe | ForgeOfAgesDO | Black Metal ×32<br>Yggdrasil Wood ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×16<br>Yggdrasil Wood ×3 |
-| ![PickaxeDualFlametal.png](historical_heritage_data/sprites/PickaxeDualFlametal.png) | **Twin Flametal Pickaxes** | 🪓 Axe | ForgeOfAgesDO | Flametal ×16<br>Blackwood ×20<br>FittingsFlametalDO ×15 | — | Flametal ×8<br>Blackwood ×10 |
+| ![PickaxeDualBronze.png](historical_heritage_data/sprites/PickaxeDualBronze.png) | **Twin Bronze Pickaxes** | 🪓 Axe | ForgeOfAgesDO | Bronze ×12<br>Round Log ×6<br>FittingsBronzeDO ×10 | 🪡20 💥20 | Bronze ×6<br>Round Log ×3 |
+| ![PickaxeDualIron.png](historical_heritage_data/sprites/PickaxeDualIron.png) | **Twin Iron Pickaxes** | 🪓 Axe | ForgeOfAgesDO | Iron ×24<br>Fine Wood ×6<br>FittingsIronDO ×15 | 🪡28 💥28 | Iron ×12<br>Fine Wood ×3 |
+| ![PickaxeDualBlackmetal.png](historical_heritage_data/sprites/PickaxeDualBlackmetal.png) | **Twin Blackmetal Pickaxes** | 🪓 Axe | ForgeOfAgesDO | Black Metal ×32<br>Yggdrasil Wood ×6<br>FittingsBlackmetalDO ×20 | 🪡40 💥40 | Black Metal ×16<br>Yggdrasil Wood ×3 |
+| ![PickaxeDualFlametal.png](historical_heritage_data/sprites/PickaxeDualFlametal.png) | **Twin Flametal Pickaxes** | 🪓 Axe | ForgeOfAgesDO | Flametal ×16<br>Blackwood ×20<br>FittingsFlametalDO ×15 | 🪡70 💥70 | Flametal ×8<br>Blackwood ×10 |
 | ![BombDynamite.png](historical_heritage_data/sprites/BombDynamite.png) | **Mining Dynamite** | 💣 Bomb | ForgeOfAgesDO | Surtling Core ×2<br>Coal ×20<br>Flint ×3 | — | — |
 
 #### ☠️ Plague Doctor Weapons (5) — *Tier Iron*
 
 | Icon | Name | Type | Station | Recipe | Damage | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![SwordPlagueDO.png](historical_heritage_data/sprites/SwordPlagueDO.png) | **Delicate Solution** | ⚔️ Sword | ForgeOfAgesDO | Iron ×24<br>Elder Bark ×10<br>FittingsIronDO ×15 | — | Iron ×10<br>Elder Bark ×5 |
-| ![PlagueSyringeDO.png](historical_heritage_data/sprites/PlagueSyringeDO.png) | **Final Syringe** | 🗡️ Dagger | ForgeOfAgesDO | Iron ×14<br>Guck ×12<br>FittingsIronDO ×15 | — | Iron ×6<br>Guck ×6 |
-| ![ScalpelDO.png](historical_heritage_data/sprites/ScalpelDO.png) | **Contagious Scalpel** | 🗡️ Dagger | ForgeOfAgesDO | Iron ×18<br>FittingsIronDO ×15 | — | Iron ×8 |
-| ![PlagueCleaverDO.png](historical_heritage_data/sprites/PlagueCleaverDO.png) | **Excess Remover** | 🪓 Axe | ForgeOfAgesDO | Iron ×22<br>WoodResinDO ×6<br>FittingsIronDO ×15 | — | Iron ×10<br>WoodResinDO ×3 |
+| ![SwordPlagueDO.png](historical_heritage_data/sprites/SwordPlagueDO.png) | **Delicate Solution** | ⚔️ Sword | ForgeOfAgesDO | Iron ×24<br>Elder Bark ×10<br>FittingsIronDO ×15 | ⚔️30 🪡30 | Iron ×10<br>Elder Bark ×5 |
+| ![PlagueSyringeDO.png](historical_heritage_data/sprites/PlagueSyringeDO.png) | **Final Syringe** | 🗡️ Dagger | ForgeOfAgesDO | Iron ×14<br>Guck ×12<br>FittingsIronDO ×15 | 🪡15 ☠️115 | Iron ×6<br>Guck ×6 |
+| ![ScalpelDO.png](historical_heritage_data/sprites/ScalpelDO.png) | **Contagious Scalpel** | 🗡️ Dagger | ForgeOfAgesDO | Iron ×18<br>FittingsIronDO ×15 | ⚔️23 🪡23 ☠️12 | Iron ×8 |
+| ![PlagueCleaverDO.png](historical_heritage_data/sprites/PlagueCleaverDO.png) | **Excess Remover** | 🪓 Axe | ForgeOfAgesDO | Iron ×22<br>WoodResinDO ×6<br>FittingsIronDO ×15 | ⚔️60 💥20 ☠️20 | Iron ×10<br>WoodResinDO ×3 |
 | ![BombPlagueHeal.png](historical_heritage_data/sprites/BombPlagueHeal.png) | **Healing Roulette** | 💣 Bomb | ForgeOfAgesDO | Ooze ×4<br>Yellow Mushroom ×5<br>Thistle ×6 | — | — |
 
 #### ⚓ Sailor Weapons (1) — *Tier Iron*
 
 | Icon | Name | Type | Station | Recipe | Damage | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![AxeSailor.png](historical_heritage_data/sprites/AxeSailor.png) | **Boarding Axe** | 🪓 Axe | ForgeOfAgesDO | Iron ×24<br>FittingsIronDO ×15<br>WoodResinDO ×10 | — | Iron ×10<br>WoodResinDO ×5 |
+| ![AxeSailor.png](historical_heritage_data/sprites/AxeSailor.png) | **Boarding Axe** | 🪓 Axe | ForgeOfAgesDO | Iron ×24<br>FittingsIronDO ×15<br>WoodResinDO ×10 | ⚔️50 🪡5 💥45 | Iron ×10<br>WoodResinDO ×5 |
 
 #### 🎋 Gunjang Weapons (6) — *Tier Silver*
 
 | Icon | Name | Type | Station | Recipe | Damage | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![BastardKorea.png](historical_heritage_data/sprites/BastardKorea.png) | **Ssangsudo** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.2 | Silver ×32<br>WoodResinDO ×12<br>FittingsSilverDO ×15 | — | Silver ×12<br>WoodResinDO ×6 |
-| ![SwordKoreaHwando.png](historical_heritage_data/sprites/SwordKoreaHwando.png) | **Hwando** | ⚔️ Sword | ForgeOfAgesDO Lv.2 | Silver ×30<br>WoodResinDO ×8<br>FittingsSilverDO ×15 | — | Silver ×12<br>WoodResinDO ×4 |
-| ![SwordKoreaSamingeom.png](historical_heritage_data/sprites/SwordKoreaSamingeom.png) | **Samingeom** | ⚔️ Sword | ForgeOfAgesDO Lv.2 | Silver ×26<br>WoodResinDO ×8<br>FittingsSilverDO ×20 | — | Silver ×12<br>WoodResinDO ×4 |
-| ![KoreaBow.png](historical_heritage_data/sprites/KoreaBow.png) | **Gakgung Bow** | 🏹 Bow | ForgeOfAgesDO Lv.2 | WoodResinDO ×15<br>Silver ×10<br>FittingsSilverDO ×15 | — | Silver ×5<br>WoodResinDO ×7 |
-| ![KoreaCrossbow.png](historical_heritage_data/sprites/KoreaCrossbow.png) | **Dragon Triple-Shot Crossbow** | 🏹 Bow | ForgeOfAgesDO Lv.2 | BowGunjangDO ×1<br>WoodResinDO ×30<br>FittingsSilverDO ×10 | — | Silver ×5<br>WoodResinDO ×15 |
-| ![AtgeirKorea.png](historical_heritage_data/sprites/AtgeirKorea.png) | **Woldo** | 🔱 Atgeir | ForgeOfAgesDO Lv.2 | Silver ×30<br>WoodResinDO ×12<br>FittingsSilverDO ×15 | — | Silver ×12<br>WoodResinDO ×6 |
+| ![BastardKorea.png](historical_heritage_data/sprites/BastardKorea.png) | **Ssangsudo** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.2 | Silver ×32<br>WoodResinDO ×12<br>FittingsSilverDO ×15 | ⚔️105 | Silver ×12<br>WoodResinDO ×6 |
+| ![SwordKoreaHwando.png](historical_heritage_data/sprites/SwordKoreaHwando.png) | **Hwando** | ⚔️ Sword | ForgeOfAgesDO Lv.2 | Silver ×30<br>WoodResinDO ×8<br>FittingsSilverDO ×15 | ⚔️90 | Silver ×12<br>WoodResinDO ×4 |
+| ![SwordKoreaSamingeom.png](historical_heritage_data/sprites/SwordKoreaSamingeom.png) | **Samingeom** | ⚔️ Sword | ForgeOfAgesDO Lv.2 | Silver ×26<br>WoodResinDO ×8<br>FittingsSilverDO ×20 | ⚔️86 | Silver ×12<br>WoodResinDO ×4 |
+| ![KoreaBow.png](historical_heritage_data/sprites/KoreaBow.png) | **Gakgung Bow** | 🏹 Bow | ForgeOfAgesDO Lv.2 | WoodResinDO ×15<br>Silver ×10<br>FittingsSilverDO ×15 | 🪡46 | Silver ×5<br>WoodResinDO ×7 |
+| ![KoreaCrossbow.png](historical_heritage_data/sprites/KoreaCrossbow.png) | **Dragon Triple-Shot Crossbow** | 🏹 Bow | ForgeOfAgesDO Lv.2 | BowGunjangDO ×1<br>WoodResinDO ×30<br>FittingsSilverDO ×10 | 🪡110 | Silver ×5<br>WoodResinDO ×15 |
+| ![AtgeirKorea.png](historical_heritage_data/sprites/AtgeirKorea.png) | **Woldo** | 🔱 Atgeir | ForgeOfAgesDO Lv.2 | Silver ×30<br>WoodResinDO ×12<br>FittingsSilverDO ×15 | ⚔️102 | Silver ×12<br>WoodResinDO ×6 |
 
 #### 🚢 Captain Weapons (3) — *Tier BlackMetal*
 
 | Icon | Name | Type | Station | Recipe | Damage | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![SwordCaptainCutlass.png](historical_heritage_data/sprites/SwordCaptainCutlass.png) | **Captain's Cutlass** | ⚔️ Sword | ForgeOfAgesDO Lv.3 | Iron ×16<br>Bronze ×10<br>WoodTarDO ×8<br>FittingsBlackmetalDO ×40 | — | Iron ×8<br>WoodTarDO ×4 |
-| ![SwordDualCaptainCutlass.png](historical_heritage_data/sprites/SwordDualCaptainCutlass.png) | **Twin Wave Blades** | ⚔️ Dual Wield | ForgeOfAgesDO Lv.3 | Iron ×24<br>Bronze ×12<br>WoodTarDO ×12<br>FittingsBlackmetalDO ×40 | — | Iron ×12<br>WoodTarDO ×6 |
-| ![DaggerCaptainDirk.png](historical_heritage_data/sprites/DaggerCaptainDirk.png) | **Commander's Dirk** | 🗡️ Dagger | ForgeOfAgesDO Lv.3 | Iron ×12<br>Bronze ×6<br>WoodTarDO ×6<br>FittingsBlackmetalDO ×40 | — | Iron ×6<br>WoodTarDO ×3 |
+| ![SwordCaptainCutlass.png](historical_heritage_data/sprites/SwordCaptainCutlass.png) | **Captain's Cutlass** | ⚔️ Sword | ForgeOfAgesDO Lv.3 | Iron ×16<br>Bronze ×10<br>WoodTarDO ×8<br>FittingsBlackmetalDO ×40 | ⚔️100 | Iron ×8<br>WoodTarDO ×4 |
+| ![SwordDualCaptainCutlass.png](historical_heritage_data/sprites/SwordDualCaptainCutlass.png) | **Twin Wave Blades** | ⚔️ Dual Wield | ForgeOfAgesDO Lv.3 | Iron ×24<br>Bronze ×12<br>WoodTarDO ×12<br>FittingsBlackmetalDO ×40 | ⚔️128 | Iron ×12<br>WoodTarDO ×6 |
+| ![DaggerCaptainDirk.png](historical_heritage_data/sprites/DaggerCaptainDirk.png) | **Commander's Dirk** | 🗡️ Dagger | ForgeOfAgesDO Lv.3 | Iron ×12<br>Bronze ×6<br>WoodTarDO ×6<br>FittingsBlackmetalDO ×40 | 🪡83 ❄️8 | Iron ×6<br>WoodTarDO ×3 |
 
 #### 🗡️ Bashrad Weapons (8) — *Tier BlackMetal*
 
 | Icon | Name | Type | Station | Recipe | Damage | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![AxesTabar.png](historical_heritage_data/sprites/AxesTabar.png) | **Tabarzin** | 🪓 Axe | ForgeOfAgesDO Lv.3 | Black Metal ×28<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×12<br>Linen Thread ×3 |
-| ![SwordZulf.png](historical_heritage_data/sprites/SwordZulf.png) | **Zanfar** | ⚔️ Sword | ForgeOfAgesDO Lv.3 | Black Metal ×24<br>Lox Pelt ×4<br>Ruby ×4<br>FittingsBlackmetalDO ×20 | — | Black Metal ×11<br>Lox Pelt ×2 |
-| ![DualShamshir.png](historical_heritage_data/sprites/DualShamshir.png) | **Shamshirain** | ⚔️ Dual Wield | ForgeOfAgesDO Lv.3 | Black Metal ×36<br>WoodTarDO ×8<br>Linen Thread ×10<br>FittingsBlackmetalDO ×20 | — | Black Metal ×14<br>Linen Thread ×5 |
-| ![KnifeBashrad.png](historical_heritage_data/sprites/KnifeBashrad.png) | **Julhar** | 🗡️ Dagger | ForgeOfAgesDO Lv.3 | Black Metal ×16<br>WoodTarDO ×6<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×7<br>Linen Thread ×3 |
-| ![DaggerDualBashrad.png](historical_heritage_data/sprites/DaggerDualBashrad.png) | **Zahraein** | 🗡️ Dagger | ForgeOfAgesDO Lv.3 | Black Metal ×28<br>WoodTarDO ×8<br>Linen Thread ×8<br>FittingsBlackmetalDO ×20 | — | Black Metal ×12<br>Linen Thread ×4 |
+| ![AxesTabar.png](historical_heritage_data/sprites/AxesTabar.png) | **Tabarzin** | 🪓 Axe | ForgeOfAgesDO Lv.3 | Black Metal ×28<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | 🟤20 ⚔️90 💥60 | Black Metal ×12<br>Linen Thread ×3 |
+| ![SwordZulf.png](historical_heritage_data/sprites/SwordZulf.png) | **Zanfar** | ⚔️ Sword | ForgeOfAgesDO Lv.3 | Black Metal ×24<br>Lox Pelt ×4<br>Ruby ×4<br>FittingsBlackmetalDO ×20 | ⚔️98 | Black Metal ×11<br>Lox Pelt ×2 |
+| ![DualShamshir.png](historical_heritage_data/sprites/DualShamshir.png) | **Shamshirain** | ⚔️ Dual Wield | ForgeOfAgesDO Lv.3 | Black Metal ×36<br>WoodTarDO ×8<br>Linen Thread ×10<br>FittingsBlackmetalDO ×20 | ⚔️106 | Black Metal ×14<br>Linen Thread ×5 |
+| ![KnifeBashrad.png](historical_heritage_data/sprites/KnifeBashrad.png) | **Julhar** | 🗡️ Dagger | ForgeOfAgesDO Lv.3 | Black Metal ×16<br>WoodTarDO ×6<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | ⚔️50 🪡20 | Black Metal ×7<br>Linen Thread ×3 |
+| ![DaggerDualBashrad.png](historical_heritage_data/sprites/DaggerDualBashrad.png) | **Zahraein** | 🗡️ Dagger | ForgeOfAgesDO Lv.3 | Black Metal ×28<br>WoodTarDO ×8<br>Linen Thread ×8<br>FittingsBlackmetalDO ×20 | ⚔️51 🪡21 | Black Metal ×12<br>Linen Thread ×4 |
 | — | **Ramaya** | 🗡️ Throwing | — | — | — | — |
 | ![ShieldBashrad.png](historical_heritage_data/sprites/ShieldBashrad.png) | **Sipar** | 🛡️ Shield | ForgeOfAgesDO Lv.3 | Black Metal ×20<br>FittingsBlackmetalDO ×20 | — | Black Metal ×10 |
 | ![ShieldDaggerBashrad.png](historical_heritage_data/sprites/ShieldDaggerBashrad.png) | **Hilaloon** | 🗡️ Dagger | ForgeOfAgesDO Lv.3 | Black Metal ×16<br>WoodTarDO ×6<br>Lox Pelt ×4<br>FittingsBlackmetalDO ×20 | — | Black Metal ×7<br>Lox Pelt ×2 |
@@ -267,42 +267,42 @@ All 8 crafting components used across the mod's recipes. These are crafted at th
 
 | Icon | Name | Type | Station | Recipe | Damage | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![AtgeirCrusader.png](historical_heritage_data/sprites/AtgeirCrusader.png) | **Halberd** | 🔱 Atgeir | ForgeOfAgesDO Lv.3 | Black Metal ×34<br>WoodTarDO ×10<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×14<br>WoodTarDO ×5 |
-| ![BattleAxeCrusader.png](historical_heritage_data/sprites/BattleAxeCrusader.png) | **Pollaxe** | 🪓 Battleaxe | ForgeOfAgesDO Lv.3 | Black Metal ×34<br>WoodTarDO ×8<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×14<br>WoodTarDO ×4 |
-| ![AxeCrusader.png](historical_heritage_data/sprites/AxeCrusader.png) | **Crusader Axe** | 🪓 Axe | ForgeOfAgesDO Lv.3 | Black Metal ×22<br>WoodTarDO ×6<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×12<br>WoodTarDO ×3 |
-| ![MaceBecCrusader.png](historical_heritage_data/sprites/MaceBecCrusader.png) | **Bec de Corbin** | 🔨 Mace | ForgeOfAgesDO Lv.3 | Black Metal ×20<br>WoodTarDO ×4<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×10<br>WoodTarDO ×2 |
-| ![MaceMorgenCrusader.png](historical_heritage_data/sprites/MaceMorgenCrusader.png) | **Morgenstern** | 🔨 Mace | ForgeOfAgesDO Lv.3 | Black Metal ×20<br>WoodTarDO ×4<br>Needle ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×10<br>WoodTarDO ×2 |
-| ![BastardCrusader.png](historical_heritage_data/sprites/BastardCrusader.png) | **Crusader Longsword** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.3 | Black Metal ×32<br>WoodTarDO ×4<br>Lox Pelt ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×14<br>WoodTarDO ×2 |
-| ![ShieldTowerCrusader.png](historical_heritage_data/sprites/ShieldTowerCrusader.png) | **Crusader Kite Shield** | 🛡️ Shield | ForgeOfAgesDO Lv.3 | Black Metal ×16<br>WoodTarDO ×10<br>Lox Pelt ×3<br>FittingsIronDO ×15 | — | Black Metal ×8<br>WoodTarDO ×5 |
-| ![SwordCrusader.png](historical_heritage_data/sprites/SwordCrusader.png) | **Crusader Sword** | ⚔️ Sword | ForgeOfAgesDO Lv.3 | Black Metal ×22<br>WoodTarDO ×2<br>Lox Pelt ×4<br>FittingsBlackmetalDO ×20 | — | Black Metal ×10<br>WoodTarDO ×1 |
-| ![DaggerCrusader.png](historical_heritage_data/sprites/DaggerCrusader.png) | **Crusader Dagger** | 🗡️ Dagger | ForgeOfAgesDO Lv.3 | Black Metal ×14<br>WoodTarDO ×6<br>Lox Pelt ×6<br>FittingsBlackmetalDO ×20 | — | Black Metal ×7<br>Linen Thread ×4 |
+| ![AtgeirCrusader.png](historical_heritage_data/sprites/AtgeirCrusader.png) | **Halberd** | 🔱 Atgeir | ForgeOfAgesDO Lv.3 | Black Metal ×34<br>WoodTarDO ×10<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | ⚔️31 🪡80 | Black Metal ×14<br>WoodTarDO ×5 |
+| ![BattleAxeCrusader.png](historical_heritage_data/sprites/BattleAxeCrusader.png) | **Pollaxe** | 🪓 Battleaxe | ForgeOfAgesDO Lv.3 | Black Metal ×34<br>WoodTarDO ×8<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | 🟤22 ⚔️80 🪡10 💥50 | Black Metal ×14<br>WoodTarDO ×4 |
+| ![AxeCrusader.png](historical_heritage_data/sprites/AxeCrusader.png) | **Crusader Axe** | 🪓 Axe | ForgeOfAgesDO Lv.3 | Black Metal ×22<br>WoodTarDO ×6<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | ⚔️90 🪡20 💥60 | Black Metal ×12<br>WoodTarDO ×3 |
+| ![MaceBecCrusader.png](historical_heritage_data/sprites/MaceBecCrusader.png) | **Bec de Corbin** | 🔨 Mace | ForgeOfAgesDO Lv.3 | Black Metal ×20<br>WoodTarDO ×4<br>Linen Thread ×6<br>FittingsBlackmetalDO ×20 | 🟤80 🪡15 | Black Metal ×10<br>WoodTarDO ×2 |
+| ![MaceMorgenCrusader.png](historical_heritage_data/sprites/MaceMorgenCrusader.png) | **Morgenstern** | 🔨 Mace | ForgeOfAgesDO Lv.3 | Black Metal ×20<br>WoodTarDO ×4<br>Needle ×6<br>FittingsBlackmetalDO ×20 | 🟤43 🪡55 | Black Metal ×10<br>WoodTarDO ×2 |
+| ![BastardCrusader.png](historical_heritage_data/sprites/BastardCrusader.png) | **Crusader Longsword** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.3 | Black Metal ×32<br>WoodTarDO ×4<br>Lox Pelt ×6<br>FittingsBlackmetalDO ×20 | ⚔️100 🪡26 | Black Metal ×14<br>WoodTarDO ×2 |
+| ![ShieldTowerCrusader.png](historical_heritage_data/sprites/ShieldTowerCrusader.png) | **Crusader Kite Shield** | 🛡️ Shield | ForgeOfAgesDO Lv.3 | Black Metal ×16<br>WoodTarDO ×10<br>Lox Pelt ×3<br>FittingsIronDO ×15 | 🟤10 | Black Metal ×8<br>WoodTarDO ×5 |
+| ![SwordCrusader.png](historical_heritage_data/sprites/SwordCrusader.png) | **Crusader Sword** | ⚔️ Sword | ForgeOfAgesDO Lv.3 | Black Metal ×22<br>WoodTarDO ×2<br>Lox Pelt ×4<br>FittingsBlackmetalDO ×20 | ⚔️70 🪡26 | Black Metal ×10<br>WoodTarDO ×1 |
+| ![DaggerCrusader.png](historical_heritage_data/sprites/DaggerCrusader.png) | **Crusader Dagger** | 🗡️ Dagger | ForgeOfAgesDO Lv.3 | Black Metal ×14<br>WoodTarDO ×6<br>Lox Pelt ×6<br>FittingsBlackmetalDO ×20 | ⚔️35 🪡35 | Black Metal ×7<br>Linen Thread ×4 |
 
 #### 🐉 Daowei Weapons (8) — *Tier BlackMetal/Carapace*
 
 | Icon | Name | Type | Station | Recipe | Damage | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![SwordDaowei.png](historical_heritage_data/sprites/SwordDaowei.png) | **Jian** | ⚔️ Sword | ForgeOfAgesDO Lv.3 | Iron ×16<br>Yggdrasil Wood ×8<br>Scale Hide ×3<br>FittingsBlackmetalDO ×40 | — | Iron ×8<br>Yggdrasil Wood ×4 |
-| ![AtgeirGuanDao.png](historical_heritage_data/sprites/AtgeirGuanDao.png) | **Guandao** | 🔱 Atgeir | ForgeOfAgesDO Lv.3 | Iron ×14<br>Yggdrasil Wood ×12<br>Scale Hide ×3<br>FittingsBlackmetalDO ×40 | — | Iron ×7<br>Yggdrasil Wood ×6 |
-| ![AtgeirHalbDao.png](historical_heritage_data/sprites/AtgeirHalbDao.png) | **Fangtian Ji** | 🔱 Atgeir | ForgeOfAgesDO Lv.3 | Iron ×14<br>Yggdrasil Wood ×15<br>Bronze ×6<br>FittingsBlackmetalDO ×40 | — | Iron ×7<br>Yggdrasil Wood ×5 |
-| ![BattleAxeDao.png](historical_heritage_data/sprites/BattleAxeDao.png) | **Huapu** | 🪓 Battleaxe | ForgeOfAgesDO Lv.3 | Iron ×32<br>Yggdrasil Wood ×15<br>Scale Hide ×4<br>FittingsBlackmetalDO ×40 | — | Iron ×16<br>Yggdrasil Wood ×5 |
-| ![BastardDaowei.png](historical_heritage_data/sprites/BastardDaowei.png) | **Jiuhuan Dao** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.3 | Iron ×32<br>Yggdrasil Wood ×15<br>Scale Hide ×4<br>FittingsBlackmetalDO ×40 | — | Iron ×16<br>Yggdrasil Wood ×5 |
-| ![MaceDaowei.png](historical_heritage_data/sprites/MaceDaowei.png) | **Chui** | 🔨 Mace | ForgeOfAgesDO Lv.3 | Iron ×16<br>Yggdrasil Wood ×8<br>Carapace ×6<br>FittingsBlackmetalDO ×40 | — | Iron ×8<br>Yggdrasil Wood ×4 |
-| ![DualMacesDao.png](historical_heritage_data/sprites/DualMacesDao.png) | **Twin Chui** | ⚔️ Dual Wield | ForgeOfAgesDO Lv.3 | Iron ×24<br>Yggdrasil Wood ×12<br>Carapace ×9<br>FittingsBlackmetalDO ×40 | — | Iron ×12<br>Yggdrasil Wood ×6 |
+| ![SwordDaowei.png](historical_heritage_data/sprites/SwordDaowei.png) | **Jian** | ⚔️ Sword | ForgeOfAgesDO Lv.3 | Iron ×16<br>Yggdrasil Wood ×8<br>Scale Hide ×3<br>FittingsBlackmetalDO ×40 | ⚔️90 🪡28 | Iron ×8<br>Yggdrasil Wood ×4 |
+| ![AtgeirGuanDao.png](historical_heritage_data/sprites/AtgeirGuanDao.png) | **Guandao** | 🔱 Atgeir | ForgeOfAgesDO Lv.3 | Iron ×14<br>Yggdrasil Wood ×12<br>Scale Hide ×3<br>FittingsBlackmetalDO ×40 | ⚔️135 | Iron ×7<br>Yggdrasil Wood ×6 |
+| ![AtgeirHalbDao.png](historical_heritage_data/sprites/AtgeirHalbDao.png) | **Fangtian Ji** | 🔱 Atgeir | ForgeOfAgesDO Lv.3 | Iron ×14<br>Yggdrasil Wood ×15<br>Bronze ×6<br>FittingsBlackmetalDO ×40 | ⚔️32 🪡100 | Iron ×7<br>Yggdrasil Wood ×5 |
+| ![BattleAxeDao.png](historical_heritage_data/sprites/BattleAxeDao.png) | **Huapu** | 🪓 Battleaxe | ForgeOfAgesDO Lv.3 | Iron ×32<br>Yggdrasil Wood ×15<br>Scale Hide ×4<br>FittingsBlackmetalDO ×40 | 🟤35 ⚔️100 💥50 | Iron ×16<br>Yggdrasil Wood ×5 |
+| ![BastardDaowei.png](historical_heritage_data/sprites/BastardDaowei.png) | **Jiuhuan Dao** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.3 | Iron ×32<br>Yggdrasil Wood ×15<br>Scale Hide ×4<br>FittingsBlackmetalDO ×40 | ⚔️158 | Iron ×16<br>Yggdrasil Wood ×5 |
+| ![MaceDaowei.png](historical_heritage_data/sprites/MaceDaowei.png) | **Chui** | 🔨 Mace | ForgeOfAgesDO Lv.3 | Iron ×16<br>Yggdrasil Wood ×8<br>Carapace ×6<br>FittingsBlackmetalDO ×40 | 🟤115 | Iron ×8<br>Yggdrasil Wood ×4 |
+| ![DualMacesDao.png](historical_heritage_data/sprites/DualMacesDao.png) | **Twin Chui** | ⚔️ Dual Wield | ForgeOfAgesDO Lv.3 | Iron ×24<br>Yggdrasil Wood ×12<br>Carapace ×9<br>FittingsBlackmetalDO ×40 | 🟤120 | Iron ×12<br>Yggdrasil Wood ×6 |
 | ![DaoweiShield.png](historical_heritage_data/sprites/DaoweiShield.png) | **Tengpai** | 🛡️ Shield | ForgeOfAgesDO Lv.3 | Carapace ×8<br>Yggdrasil Wood ×12<br>FittingsBlackmetalDO ×40 | — | Carapace ×4<br>Yggdrasil Wood ×6 |
 
 #### 🏯 Shogun Weapons (9) — *Tier Flametal*
 
 | Icon | Name | Type | Station | Recipe | Damage | Upgrade |
 | :---: | --- | --- | --- | --- | --- | --- |
-| ![DualKatanaNEW.png](historical_heritage_data/sprites/DualKatanaNEW.png) | **Daisho Twin Blades** | ⚔️ Dual Wield | ForgeOfAgesDO Lv.4 | Flametal ×35<br>WoodTarDO ×8<br>Ask Hide ×6<br>FittingsFlametalDO ×15 | — | Flametal ×10<br>Ask Hide ×3 |
-| ![BastardKatanaNEW.png](historical_heritage_data/sprites/BastardKatanaNEW.png) | **Crimson Katana** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.4 | Flametal ×25<br>WoodTarDO ×6<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | — | Flametal ×10<br>Ask Hide ×2 |
-| ![AtgeirNaginata.png](historical_heritage_data/sprites/AtgeirNaginata.png) | **Blood Naginata** | 🔱 Atgeir | ForgeOfAgesDO Lv.4 | Flametal ×15<br>WoodTarDO ×10<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | — | Flametal ×10<br>Ask Hide ×2 |
-| ![ClubKanabo.png](historical_heritage_data/sprites/ClubKanabo.png) | **Obsidian Kanabo** | 🔨 Mace | ForgeOfAgesDO Lv.4 | Flametal ×10<br>WoodTarDO ×16<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | — | Flametal ×5<br>WoodTarDO ×8 |
-| ![BowYumi.png](historical_heritage_data/sprites/BowYumi.png) | **Crimson Yumi Bow** | 🏹 Bow | ForgeOfAgesDO Lv.4 | Flametal ×15<br>WoodTarDO ×10<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | — | Flametal ×7<br>WoodTarDO ×5 |
-| ![SwordWaki.png](historical_heritage_data/sprites/SwordWaki.png) | **Crimson Wakizashi** | ⚔️ Sword | ForgeOfAgesDO Lv.4 | Flametal ×15<br>WoodTarDO ×4<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | — | Flametal ×7<br>Ask Hide ×2 |
-| ![DaggerTanto.png](historical_heritage_data/sprites/DaggerTanto.png) | **Imperial Tanto** | 🗡️ Dagger | ForgeOfAgesDO Lv.4 | Flametal ×10<br>WoodTarDO ×4<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | — | Flametal ×5<br>Ask Hide ×2 |
-| ![AtgeirYariDO.png](historical_heritage_data/sprites/AtgeirYariDO.png) | **Resolve Yari** | 🔱 Atgeir | ForgeOfAgesDO Lv.4 | Flametal ×15<br>WoodTarDO ×10<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | — | Flametal ×7<br>Ask Hide ×2 |
-| ![BastardNagamakiDO.png](historical_heritage_data/sprites/BastardNagamakiDO.png) | **Fearless Nagamaki** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.4 | Flametal ×35<br>WoodTarDO ×8<br>Ask Hide ×6<br>FittingsFlametalDO ×15 | — | Flametal ×10<br>Ask Hide ×3 |
+| ![DualKatanaNEW.png](historical_heritage_data/sprites/DualKatanaNEW.png) | **Daisho Twin Blades** | ⚔️ Dual Wield | ForgeOfAgesDO Lv.4 | Flametal ×35<br>WoodTarDO ×8<br>Ask Hide ×6<br>FittingsFlametalDO ×15 | ⚔️145 | Flametal ×10<br>Ask Hide ×3 |
+| ![BastardKatanaNEW.png](historical_heritage_data/sprites/BastardKatanaNEW.png) | **Crimson Katana** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.4 | Flametal ×25<br>WoodTarDO ×6<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | ⚔️165 | Flametal ×10<br>Ask Hide ×2 |
+| ![AtgeirNaginata.png](historical_heritage_data/sprites/AtgeirNaginata.png) | **Blood Naginata** | 🔱 Atgeir | ForgeOfAgesDO Lv.4 | Flametal ×15<br>WoodTarDO ×10<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | ⚔️100 🪡50 | Flametal ×10<br>Ask Hide ×2 |
+| ![ClubKanabo.png](historical_heritage_data/sprites/ClubKanabo.png) | **Obsidian Kanabo** | 🔨 Mace | ForgeOfAgesDO Lv.4 | Flametal ×10<br>WoodTarDO ×16<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | 🟤175 | Flametal ×5<br>WoodTarDO ×8 |
+| ![BowYumi.png](historical_heritage_data/sprites/BowYumi.png) | **Crimson Yumi Bow** | 🏹 Bow | ForgeOfAgesDO Lv.4 | Flametal ×15<br>WoodTarDO ×10<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | 🪡90 | Flametal ×7<br>WoodTarDO ×5 |
+| ![SwordWaki.png](historical_heritage_data/sprites/SwordWaki.png) | **Crimson Wakizashi** | ⚔️ Sword | ForgeOfAgesDO Lv.4 | Flametal ×15<br>WoodTarDO ×4<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | ⚔️140 | Flametal ×7<br>Ask Hide ×2 |
+| ![DaggerTanto.png](historical_heritage_data/sprites/DaggerTanto.png) | **Imperial Tanto** | 🗡️ Dagger | ForgeOfAgesDO Lv.4 | Flametal ×10<br>WoodTarDO ×4<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | ⚔️47 🪡47 | Flametal ×5<br>Ask Hide ×2 |
+| ![AtgeirYariDO.png](historical_heritage_data/sprites/AtgeirYariDO.png) | **Resolve Yari** | 🔱 Atgeir | ForgeOfAgesDO Lv.4 | Flametal ×15<br>WoodTarDO ×10<br>Ask Hide ×4<br>FittingsFlametalDO ×15 | 🪡150 | Flametal ×7<br>Ask Hide ×2 |
+| ![BastardNagamakiDO.png](historical_heritage_data/sprites/BastardNagamakiDO.png) | **Fearless Nagamaki** | ⚔️ Bastard Sword | ForgeOfAgesDO Lv.4 | Flametal ×35<br>WoodTarDO ×8<br>Ask Hide ×6<br>FittingsFlametalDO ×15 | ⚔️178 | Flametal ×10<br>Ask Hide ×3 |
 
 ### ⚓ Galleon Ship & Upgrades
 
