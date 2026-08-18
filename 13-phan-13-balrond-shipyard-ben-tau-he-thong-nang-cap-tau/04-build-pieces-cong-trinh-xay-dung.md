@@ -8,16 +8,16 @@ Gỗ trét than, chống nước/mưa. Tất cả tại **Workbench**.
 
 | Icon | Tên | Prefab | Nguyên Liệu |
 | :---: | --- | --- | --- |
-| — | **Wall Log4** | `tar_wood_wall_log4` | Coal Paste ×2<br>Round Log ×4 |
-| — | **Wall Log2** | `tar_wood_wall_log2` | Coal Paste ×1<br>Round Log ×2 |
-| — | **Pole Log4** | `tar_wood_pole_log4` | Coal Paste ×2<br>Round Log ×4 |
-| — | **Pole Log2** | `tar_wood_pole_log2` | Coal Paste ×1<br>Round Log ×2 |
-| — | **Floor** | `tar_wood_floor` | Coal Paste ×1<br>Round Log ×2 |
+| ![tar_beam_4m.png](../balrond_shipyard_data/sprites/tar_beam_4m.png) | **Wall Log4** | `tar_wood_wall_log4` | Coal Paste ×2<br>Round Log ×4 |
+| ![tar_beam_2m.png](../balrond_shipyard_data/sprites/tar_beam_2m.png) | **Wall Log2** | `tar_wood_wall_log2` | Coal Paste ×1<br>Round Log ×2 |
+| ![tar_pole_4m.png](../balrond_shipyard_data/sprites/tar_pole_4m.png) | **Pole Log4** | `tar_wood_pole_log4` | Coal Paste ×2<br>Round Log ×4 |
+| ![tar_pole_2m.png](../balrond_shipyard_data/sprites/tar_pole_2m.png) | **Pole Log2** | `tar_wood_pole_log2` | Coal Paste ×1<br>Round Log ×2 |
+| ![tar_floor.png](../balrond_shipyard_data/sprites/tar_floor.png) | **Floor** | `tar_wood_floor` | Coal Paste ×1<br>Round Log ×2 |
 | ![ladder_ico.png](../balrond_shipyard_data/sprites/ladder_ico.png) | **Ladder** | `tar_ladder` | Coal Paste ×2<br>Round Log ×3 |
-| — | **Log 26** | `tar_wood_log_26` | Coal Paste ×1<br>Round Log ×2 |
-| — | **Log 45** | `tar_wood_log_45` | Coal Paste ×1<br>Round Log ×2 |
-| — | **Pole Log1** | `tar_wood_pole_log1` | Coal Paste ×1<br>Round Log ×1 |
-| — | **Ramp** | `tar_wood_ramp` | Coal Paste ×1<br>Round Log ×2 |
+| ![tar_beam_angle_26.png](../balrond_shipyard_data/sprites/tar_beam_angle_26.png) | **Log 26** | `tar_wood_log_26` | Coal Paste ×1<br>Round Log ×2 |
+| ![tar_beam_angle_45.png](../balrond_shipyard_data/sprites/tar_beam_angle_45.png) | **Log 45** | `tar_wood_log_45` | Coal Paste ×1<br>Round Log ×2 |
+| ![tar_pole_2m.png](../balrond_shipyard_data/sprites/tar_pole_2m.png) | **Pole Log1** | `tar_wood_pole_log1` | Coal Paste ×1<br>Round Log ×1 |
+| ![tar_ramp.png](../balrond_shipyard_data/sprites/tar_ramp.png) | **Ramp** | `tar_wood_ramp` | Coal Paste ×1<br>Round Log ×2 |
 
 #### 🏗️ Functional & Decorative Pieces
 
