@@ -73,11 +73,11 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 | Icon | Tên | Nguyên Liệu | Nâng Cấp | Sát Thương | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
-| — | **Solar Spear** | ScarabHorusDO ×6<br>Black Metal ×18<br>Yggdrasil Wood ×16 | ScarabHorusDO ×3<br>Yggdrasil Wood ×8 | — | Lv.1 | — |
-| — | **Khopesh of Dawn** | ScarabHorusDO ×6<br>Black Metal ×24<br>Linen Thread ×8 | ScarabHorusDO ×3<br>Black Metal ×12 | — | Lv.1 | — |
-| — | **Pharaoh's Guardian** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
-| — | **Pharaoh's Blade** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
-| — | **Royal Judgment** | ScarabHorusDO ×6<br>Black Metal ×26<br>Linen Thread ×6 | ScarabHorusDO ×3<br>Black Metal ×13 | — | Lv.1 | — |
+| ![AtgeirEgypt.png](eternal_legends_data/sprites/AtgeirEgypt.png) | **Solar Spear** | ScarabHorusDO ×6<br>Black Metal ×18<br>Yggdrasil Wood ×16 | ScarabHorusDO ×3<br>Yggdrasil Wood ×8 | — | Lv.1 | — |
+| ![SwordKhopeshNew.png](eternal_legends_data/sprites/SwordKhopeshNew.png) | **Khopesh of Dawn** | ScarabHorusDO ×6<br>Black Metal ×24<br>Linen Thread ×8 | ScarabHorusDO ×3<br>Black Metal ×12 | — | Lv.1 | — |
+| ![ShieldSickle.png](eternal_legends_data/sprites/ShieldSickle.png) | **Pharaoh's Guardian** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
+| ![DaggerSickle.png](eternal_legends_data/sprites/DaggerSickle.png) | **Pharaoh's Blade** | ScarabHorusDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabHorusDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
+| ![MaceEgypt.png](eternal_legends_data/sprites/MaceEgypt.png) | **Royal Judgment** | ScarabHorusDO ×6<br>Black Metal ×26<br>Linen Thread ×6 | ScarabHorusDO ×3<br>Black Metal ×13 | — | Lv.1 | — |
 
 ### 🐺 Anubis Set — Jackal God / Death
 
@@ -105,10 +105,10 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 | Icon | Tên | Nguyên Liệu | Nâng Cấp | Sát Thương | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
-| — | **Anubis Fang** | ScarabAnubisDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabAnubisDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
-| — | **Twilight Blades** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
-| — | **Circle of Judgment** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
-| — | **Soulreaper Claws** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
+| ![DaggerEgyptAnubis.png](eternal_legends_data/sprites/DaggerEgyptAnubis.png) | **Anubis Fang** | ScarabAnubisDO ×4<br>Black Metal ×12<br>Linen Thread ×4 | ScarabAnubisDO ×2<br>Black Metal ×6 | — | Lv.1 | — |
+| ![AxeDualEgypt.png](eternal_legends_data/sprites/AxeDualEgypt.png) | **Twilight Blades** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
+| ![BattleAxeEgyptAnubis.png](eternal_legends_data/sprites/BattleAxeEgyptAnubis.png) | **Circle of Judgment** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
+| ![FistClawEgyptAnubis.png](eternal_legends_data/sprites/FistClawEgyptAnubis.png) | **Soulreaper Claws** | ScarabAnubisDO ×6<br>Black Metal ×20<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×10 | — | Lv.1 | — |
 | ![BastardAnubis.png](eternal_legends_data/sprites/BastardAnubis.png) | **Crimson Pact** | ScarabAnubisDO ×6<br>Black Metal ×30<br>Linen Thread ×8 | ScarabAnubisDO ×3<br>Black Metal ×15 | — | Lv.1 | — |
 
 ### 💀 Thanatos Set — Deathbringer
@@ -123,10 +123,10 @@ Rơi từ mob **Ashlands** và boss **Fader** (100%, 5-8):
 
 | Icon | Tên | Armor | Nguyên Liệu | Nâng Cấp | Level | Mô Tả |
 | :---: | --- | --- | --- | --- | --- | --- |
-| — | **Thanatos Helm** | — | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
-| — | **Thanatos Chestguard** | — | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
-| — | **Thanatos Greaves** | — | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
-| — | **Thanatos Wings** | — | Flametal ×12<br>FeatherThanatosDO ×10<br>Eitr ×12<br>Volture Trophy ×2 | FeatherThanatosDO ×5<br>Eitr ×6 | Lv.2 | — |
+| ![ThanatosHelmetDO.png](eternal_legends_data/sprites/ThanatosHelmetDO.png) | **Thanatos Helm** | — | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
+| ![ThanatosChestDO.png](eternal_legends_data/sprites/ThanatosChestDO.png) | **Thanatos Chestguard** | — | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
+| ![ThanatosLegsDO.png](eternal_legends_data/sprites/ThanatosLegsDO.png) | **Thanatos Greaves** | — | Flametal ×25<br>FeatherThanatosDO ×8<br>Eitr ×10<br>Ask Hide ×12 | FeatherThanatosDO ×4<br>Flametal ×12 | Lv.2 | — |
+| ![ThanatosCapeDO.png](eternal_legends_data/sprites/ThanatosCapeDO.png) | **Thanatos Wings** | — | Flametal ×12<br>FeatherThanatosDO ×10<br>Eitr ×12<br>Volture Trophy ×2 | FeatherThanatosDO ×5<br>Eitr ×6 | Lv.2 | — |
 
 🔮 **$item_thanatos_cape_DO**: ⚡ Stamina Regen: +10% | ⬇️ Fall Damage: -100% | ❤️ +2 HP / 0s
 
