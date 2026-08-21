@@ -187,31 +187,63 @@
 ## 🧬 Sơ Đồ Chế Biến (Mermaid)
 
 
+### 🍲 Porridge & Meal (6 món)
+
+![](../cuisine_data/mermaid/cauldrona-porridge-meal.png)
+
 ### 🍲 Dessert & Sides (7 món)
 
 ![](../cuisine_data/mermaid/cauldronb-dessert-sides.png)
 
-### 🍲 Stew & Skause (39 món)
+### 🍲 Stew & Skause (18 món)
 
 ![](../cuisine_data/mermaid/cauldronc-stew-skause.png)
 
+### 🍲 Stew & Skause c (18 món)
+
+![](../cuisine_data/mermaid/cauldrond-stew-skause-c.png)
+
+### 🍲 Stew & Skause d (3 món)
+
+![](../cuisine_data/mermaid/cauldrone-stew-skause-d.png)
+
 ### 🍲 Svið & Roast (7 món)
 
-![](../cuisine_data/mermaid/cauldrond-svi-roast.png)
+![](../cuisine_data/mermaid/cauldronf-svi-roast.png)
 
-### 🍲 Others (38 món)
+### 🍲 Others (18 món)
 
-![](../cuisine_data/mermaid/cauldrone-others.png)
+![](../cuisine_data/mermaid/cauldrong-others.png)
+
+### 🍲 Others c (18 món)
+
+![](../cuisine_data/mermaid/cauldronh-others-c.png)
+
+### 🍲 Others d (2 món)
+
+![](../cuisine_data/mermaid/cauldroni-others-d.png)
 
 ### 🍲 Soup & Broth (15 món)
 
-![](../cuisine_data/mermaid/cauldronf-soup-broth.png)
+![](../cuisine_data/mermaid/cauldronj-soup-broth.png)
 
 ### 🍲 Chowder & Ragout (12 món)
 
-![](../cuisine_data/mermaid/cauldrong-chowder-ragout.png)
+![](../cuisine_data/mermaid/cauldronk-chowder-ragout.png)
 
 ### 🍲 Jerky & Smoked (6 món)
 
-![](../cuisine_data/mermaid/cauldronh-jerky-smoked.png)
+![](../cuisine_data/mermaid/cauldronl-jerky-smoked.png)
+
+### ⚗️ Fermenter (18 món)
+
+![](../cuisine_data/mermaid/fermentera-fermenter.png)
+
+### ⚗️ Fermenter c (14 món)
+
+![](../cuisine_data/mermaid/fermenterb-fermenter-c.png)
+
+### 🔥 Grill (15 món)
+
+![](../cuisine_data/mermaid/grill.png)
 
