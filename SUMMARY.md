@@ -28,7 +28,6 @@
   - [⬛ Lò Rèn Đen (Black Forge) (2 items)](11-phan-11-valheim-cuisine-xutzbr-bang-cong-thuc-thuc-an-chi-tiet/15-lo-ren-den-black-forge-2-items.md)
   - [🎒 Hành Trang (Inventory) (1 items)](11-phan-11-valheim-cuisine-xutzbr-bang-cong-thuc-thuc-an-chi-tiet/16-hanh-trang-inventory-1-items.md)
   - [📦 Vật Phẩm Khác (183 items)](11-phan-11-valheim-cuisine-xutzbr-bang-cong-thuc-thuc-an-chi-tiet/17-vat-pham-khac-183-items.md)
-  - [🧬 Sơ Đồ Chế Biến (Mermaid)](11-phan-11-valheim-cuisine-xutzbr-bang-cong-thuc-thuc-an-chi-tiet/18-so-do-che-bien-mermaid.md)
 - [🔮 PHẦN 12 — Magic Supremacy (Dreanegade): Trang Bị Ma Thuật & Hệ Thống Inspiration](12-phan-12-magic-supremacy-dreanegade-trang-bi-ma-thuat-he-thong-inspiration/README.md)
   - [✨ Hệ Thống Inspiration](12-phan-12-magic-supremacy-dreanegade-trang-bi-ma-thuat-he-thong-inspiration/01-he-thong-inspiration.md)
   - [🧥 10 Bộ Giáp Ma Thuật](12-phan-12-magic-supremacy-dreanegade-trang-bi-ma-thuat-he-thong-inspiration/02-10-bo-giap-ma-thuat.md)

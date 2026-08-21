@@ -23,3 +23,12 @@
 | ![VC_FulingGutfireBrew.png](../cuisine_data/sprites/VC_FulingGutfireBrew.png) | **Shamans Gutfire Brew** | **🧌 Nồi Đồng Fuling (Fuling Cauldron)**<br>TrophySurtling ×1, Tar ×3, SulfurStone ×3, ProustitePowder ×4 | — | ✨ StatusEffect: VC_FulingGutfireBrewEffect; Guide 2.2.7: Staff attacks cost 45% less Eitr, -3 HP/s; Thời gian effect: 5m 00s |
 | ![VC_SkadiDraught.png](../cuisine_data/sprites/VC_SkadiDraught.png) | **Shamans Protective Draught** | **🧌 Nồi Đồng Fuling (Fuling Cauldron)**<br>Acorn ×4, SerpentScale ×8, Carapace ×8, LandvidiRoots ×1 | — | ✨ StatusEffect: VC_FulingShieldPotionEffect; Guide 2.2.7: Creates a strong shield around the drinker; Thời gian effect: 5m 00s |
 | ![VC_TrollStew.png](../cuisine_data/sprites/VC_TrollStew.png) | **Trollblood Tincture** | **🧌 Nồi Đồng Fuling (Fuling Cauldron)**<br>TrollMeat ×2, FulingMedicine ×2, Honey ×4, SulfurStone ×3 | — | ✨ StatusEffect: VC_FulingTrollPotionEffect; HP theo thời gian: 100.0; Eitr theo thời gian: 100.0; Guide 2.2.7: Restore 100 HP and Eitr instantly, but lose 5 SP/s for 10s; Thời gian effect: 0m 10s |
+
+
+## 🧬 Sơ Đồ Chế Biến (Mermaid)
+
+
+### 🍽️ VC_FulingCauldron (4 món)
+
+![](../cuisine_data/mermaid/vc-fulingcauldron.png)
+

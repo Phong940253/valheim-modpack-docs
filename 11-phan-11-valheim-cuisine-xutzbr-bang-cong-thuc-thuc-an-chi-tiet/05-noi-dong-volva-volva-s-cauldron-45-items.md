@@ -57,3 +57,12 @@
 | ![VC_VidarrDraught.png](../cuisine_data/sprites/VC_VidarrDraught.png) | **Víðarr’s Vengeful Draught** | **🔮 Nồi Đồng Völva (Völva's Cauldron) Lv.3**<br>Tar ×6, SurtlingCore ×4, HeidrunMilk ×1, MeadStaminaMedium ×2 | — | ✨ StatusEffect: VC_VidarrDraughtEffect; +25% damage lên boss; Thời gian effect: 15m 00s |
 | ![VC_WoodcutterInfusion.png](../cuisine_data/sprites/VC_WoodcutterInfusion.png) | **Woodcutter’s Infusion** | **🔮 Nồi Đồng Völva (Völva's Cauldron)**<br>ElderBark ×2, BirchSeeds ×3, Root ×1 | — | ✨ StatusEffect: VC_WoodcutterInfusionEffect; Sát thương: -100%; DMG m_chop: +20%; Guide 2.2.7: +20% chopping damage; Thời gian effect: 10m 00s |
 | ![VC_Wraithward.png](../cuisine_data/sprites/VC_Wraithward.png) | **Wraithward** | **🔮 Nồi Đồng Völva (Völva's Cauldron)**<br>FragrantBundle ×2, Thistle ×5, GreydwarfEye ×5 | — | ✨ StatusEffect: VC_WraithRepellent; Guide 2.2.7: Prevent Wraith attacks; Thời gian effect: 10m 00s |
+
+
+## 🧬 Sơ Đồ Chế Biến (Mermaid)
+
+
+### 🍽️ VC_VolvaCauldron (4 món)
+
+![](../cuisine_data/mermaid/vc-volvacauldron.png)
+

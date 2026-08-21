@@ -58,3 +58,12 @@
 | ![VC_UncuredPork.png](../cuisine_data/sprites/VC_UncuredPork.png) | **Uncured Pork** | **🔪 Bàn Chế Biến (Prep Table)**<br>RawMeat ×2, SpiceForests ×1 | — | ✨ — |
 | ![VC_FermentedBonemaw.png](../cuisine_data/sprites/VC_FermentedBonemaw.png) | **Unfermented Bonemaw Meat** | **🔪 Bàn Chế Biến (Prep Table)**<br>BoneMawSerpentMeat ×1, SpiceOceans ×3, PowderedDragonEgg ×2, FreezeGland ×1 | — | ✨ — |
 | ![VC_FermentedSerpent.png](../cuisine_data/sprites/VC_FermentedSerpent.png) | **Unfermented Serpent Meat** | **🔪 Bàn Chế Biến (Prep Table)**<br>SerpentMeat ×1, SpiceOceans ×3, FreezeGland ×1 | — | ✨ — |
+
+
+## 🧬 Sơ Đồ Chế Biến (Mermaid)
+
+
+### 🔪 PrepTable (11 món)
+
+![](../cuisine_data/mermaid/preptable.png)
+

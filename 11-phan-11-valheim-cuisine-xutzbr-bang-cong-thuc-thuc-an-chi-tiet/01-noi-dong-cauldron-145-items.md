@@ -182,3 +182,36 @@
 | ![VC_UnfermentedShroomMead.png](../cuisine_data/sprites/VC_UnfermentedShroomMead.png) | **Unfermented Shroom Mead** | **🍲 Nồi Đồng (Cauldron) Lv.2**<br>Mushroom ×6, MushroomYellow ×6, Thistle ×1, Honey ×8 | — | ✨ — |
 | ![VC_UnfermentedSkyr.png](../cuisine_data/sprites/VC_UnfermentedSkyr.png) | **Unfermented Skyr** | **🍲 Nồi Đồng (Cauldron) Lv.4**<br>LoxMilk ×2 | — | ✨ — |
 | ![VC_UnfermentedSpicedPerry.png](../cuisine_data/sprites/VC_UnfermentedSpicedPerry.png) | **Unfermented Spiced Perry** | **🍲 Nồi Đồng (Cauldron) Lv.2**<br>Pukeberries ×6, Dandelion ×2, PowderedDragonEgg ×6, Honey ×8 | — | ✨ — |
+
+
+## 🧬 Sơ Đồ Chế Biến (Mermaid)
+
+
+### 🍲 Dessert & Sides (7 món)
+
+![](../cuisine_data/mermaid/cauldronb-dessert-sides.png)
+
+### 🍲 Stew & Skause (39 món)
+
+![](../cuisine_data/mermaid/cauldronc-stew-skause.png)
+
+### 🍲 Svið & Roast (7 món)
+
+![](../cuisine_data/mermaid/cauldrond-svi-roast.png)
+
+### 🍲 Others (38 món)
+
+![](../cuisine_data/mermaid/cauldrone-others.png)
+
+### 🍲 Soup & Broth (15 món)
+
+![](../cuisine_data/mermaid/cauldronf-soup-broth.png)
+
+### 🍲 Chowder & Ragout (12 món)
+
+![](../cuisine_data/mermaid/cauldrong-chowder-ragout.png)
+
+### 🍲 Jerky & Smoked (6 món)
+
+![](../cuisine_data/mermaid/cauldronh-jerky-smoked.png)
+

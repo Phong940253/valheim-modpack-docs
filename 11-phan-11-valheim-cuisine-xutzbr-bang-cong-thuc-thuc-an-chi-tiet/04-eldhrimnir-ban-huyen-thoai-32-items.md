@@ -59,3 +59,12 @@
 | ![VC_TyrBoozyMead.png](../cuisine_data/sprites/VC_TyrBoozyMead.png) | **Týrs Boozy Mead** | **⚜️ Eldhrímnir — Bàn Huyền Thoại Lv.3**<br>TrophySurtling ×1, Booze ×1, MeadStaminaLingering ×2 | — | ✨ Guide 2.2.7: -20% SP used when attacking, -20% SP used while blocking |
 | ![VC_VaettirTears.png](../cuisine_data/sprites/VC_VaettirTears.png) | **Vættir Tears** | **⚜️ Eldhrímnir — Bàn Huyền Thoại Lv.2**<br>TrophyCultist Hildir ×1, MeadFrostResist ×1 | — | ✨ StatusEffect: VC_VaettirTearsEffect; Hồi HP: -10%; Guide 2.2.7: -10% HP regen, Immunity to Frost; Thời gian effect: 1m 00s |
 | ![VC_VorEggnog.png](../cuisine_data/sprites/VC_VorEggnog.png) | **Vör’s Frothy Eggnog** | **⚜️ Eldhrímnir — Bàn Huyền Thoại Lv.4**<br>VoltureEgg ×3, Honey ×2, LoxMilk ×1, MimirDrops ×1 | — | ✨ Guide 2.2.7: Raise all skills 50% faster |
+
+
+## 🧬 Sơ Đồ Chế Biến (Mermaid)
+
+
+### 🍽️ VC_Eldhrimnir (13 món)
+
+![](../cuisine_data/mermaid/vc-eldhrimnir.png)
+
